@@ -1,0 +1,158 @@
+# Message for WMS GATOR
+# Copyright (C) 2010
+# This file is distributed under the same license as the WMS GATOR package.
+# Sergio Basurto <sbasurto@soft-gator.com>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-10 18:46-0600\n"
+"PO-Revision-Date: 2012-08-16 12:08+local\n"
+"Last-Translator: Sergio Basurto <sbasurto@soft-gator.com>\n"
+"Language-Team: ENGLISH <services@soft-gator.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "INGRESADO"
+msgstr "CAPTURED"
+
+msgid "CONFIRMADO"
+msgstr "CONFIRMED"
+
+msgid "Ent por Defecto"
+msgstr "Default Inbound"
+
+msgid "Sin Observaciones"
+msgstr "No Remarks"
+
+msgctxt "chat (verb)"
+msgid "chat"
+msgstr ""
+
+msgctxt "chat (noun)"
+msgid "chat"
+msgstr ""
+
+msgid "WMS System"
+msgstr "Gator System"
+
+msgid "Unknown request!!"
+msgstr ""
+
+msgid "The information below is wrong"
+msgstr ""
+
+msgid "HOME"
+msgstr ""
+
+msgid "Wrong Request, Please Verify"
+msgstr ""
+
+msgid "Thanks for your preference"
+msgstr ""
+
+msgid "Login Screen"
+msgstr ""
+
+msgid "Server"
+msgstr ""
+
+msgid "IP Address"
+msgstr ""
+
+msgid "OS"
+msgstr ""
+
+msgid "Connected From"
+msgstr ""
+
+msgid "Licensed by"
+msgstr ""
+
+msgid "System Logo"
+msgstr ""
+
+msgid "GATOR WMS SYSTEM"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "enter user"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Interface"
+msgstr ""
+
+msgid "Administration"
+msgstr ""
+
+msgid "Data Base"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Get Into"
+msgstr ""
+
+msgid "System is not installed or configuration is wrong"
+msgstr ""
+
+msgid ""
+ "If the system is already installed, then double check configuration or "
+ "click in the link below to install"
+msgstr ""
+
+msgid "INSTALL"
+msgstr ""
+
+msgid "Send Password"
+msgstr ""
+
+msgid "Forgot your Password"
+msgstr ""
+
+msgid "Password Recover"
+msgstr ""
+
+msgid "Go Back"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Reset Password"
+msgstr ""
+
+msgid "Enter new password"
+msgstr ""
+
+msgid "Retype new password"
+msgstr ""
+
+msgid "About us"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "News"
+msgstr ""
+

@@ -1,0 +1,22 @@
+# Message for Gator Ecommerce
+# Copyright (C) 2022
+# This file is distributed under the same license as the Gator Ecommerce package.
+# Sergio Basurto <sbasurto@soft-gator.com>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-14 16:34-0600\n"
+"PO-Revision-Date: 2022-03-14 16:34:50-0600\n"
+"Last-Translator: Soft Gator <services@soft-gator.com>\n"
+"Language-Team: SPANISH <services@soft-gator.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Invoice Folio"
+msgstr "Folio Factura"
+
