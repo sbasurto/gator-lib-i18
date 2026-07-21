@@ -12,10 +12,11 @@ msgstr ""
 "PO-Revision-Date: 2021-01-08 14:17:50-0600\n"
 "Last-Translator: Soft Gator <services@soft-gator.com>\n"
 "Language-Team: SPANISH <services@soft-gator.com>\n"
-"Language: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: src/com/bb/misc/Test.java:14
 msgid "This text will be translated"
@@ -8945,3 +8946,148 @@ msgstr "El producto no existe en esta cuenta."
 msgid "Add or Modify Subtitutes Raw Materials"
 msgstr "Agregar o Modificar Substitutos de Materia Prima"
 
+msgid "Fiscal Warehouse"
+msgstr "Depósito Fiscal"
+
+msgid "Fiscal warehouse operations."
+msgstr "Operaciones de depósito fiscal."
+
+msgid "Capacity Letter"
+msgid_plural "Capacity Letters"
+msgstr[0] "Carta Cupo"
+msgstr[1] "Cartas Cupo"
+
+msgid "Electronic capacity letter management."
+msgstr "Gestión electrónica de cartas cupo."
+
+msgid "Merchandise"
+msgstr "Mercancía"
+
+msgid "Folio (11 digits)"
+msgstr "Folio (11 dígitos)"
+
+msgid "Issue Date"
+msgstr "Fecha de expedición"
+
+msgid "Value (USD)"
+msgstr "Valor (USD)"
+
+msgid "Customs Clearance Section Code"
+msgstr "Clave de sección de despacho aduanero"
+
+msgid "Customs Clearance Section"
+msgstr "Sección de despacho aduanero"
+
+msgid "Patent / Authorization"
+msgstr "Patente / Autorización"
+
+msgid "Customs Agent RFC"
+msgstr "RFC del agente aduanal"
+
+msgid "Customs Agent CURP"
+msgstr "CURP del agente aduanal"
+
+msgid "Customs Agent Name"
+msgstr "Nombre del agente aduanal"
+
+msgid "Jurisdiction Customs Code"
+msgstr "Clave de aduana de circunscripción"
+
+msgid "Jurisdiction Customs"
+msgstr "Aduana de circunscripción"
+
+msgid "Warehouse Code"
+msgstr "Clave de almacén"
+
+msgid "Authorized Unit"
+msgstr "Unidad autorizada"
+
+msgid "General Warehouse Legal Name"
+msgstr "Razón social del almacén general"
+
+msgid "Scheduled Arrival"
+msgstr "Llegada programada"
+
+msgid "Customs Entry"
+msgstr "Pedimento"
+
+msgid "Authorized Warehouse Address"
+msgstr "Domicilio del almacén autorizado"
+
+msgid "Importer / Exporter"
+msgstr "Importador / Exportador"
+
+msgid "Importer / Exporter RFC"
+msgstr "RFC del importador / exportador"
+
+msgid "Importer / Exporter CURP"
+msgstr "CURP del importador / exportador"
+
+msgid "Tax Address"
+msgstr "Domicilio fiscal"
+
+msgid "SAAI Acknowledgement"
+msgstr "Acuse SAAI"
+
+msgid "Capture"
+msgstr "Captura"
+
+msgid "Validated"
+msgstr "Validada"
+
+msgid "Cancelled"
+msgstr "Cancelada"
+
+msgid "Sequence"
+msgstr "Secuencia"
+
+msgid "Tariff Fraction"
+msgstr "Fracción arancelaria"
+
+msgid "UMT Code"
+msgstr "Clave UMT"
+
+msgid "UMT Quantity"
+msgstr "Cantidad UMT"
+
+msgid "Second step"
+msgstr "Segundo paso"
+
+msgid "Verify your access"
+msgstr "Verifique su acceso"
+
+msgid "Enter the temporary alphanumeric key sent to your registered contact methods."
+msgstr "Ingrese la clave alfanumérica temporal enviada a sus medios de contacto registrados."
+
+msgid "Temporary access key"
+msgstr "Clave temporal de acceso"
+
+msgid "Enter the received key"
+msgstr "Ingrese la clave recibida"
+
+msgid "attempts remaining"
+msgstr "intentos restantes"
+
+msgid "Verify and continue"
+msgstr "Verificar y continuar"
+
+msgid "Send another access key"
+msgstr "Enviar otra clave de acceso"
+
+msgid "The request is not valid"
+msgstr "La solicitud no es válida"
+
+msgid "The temporary access key expired. A new one will be sent."
+msgstr "La clave temporal de acceso expiró. Se enviará una nueva."
+
+msgid "Too many attempts. Request a new access key."
+msgstr "Demasiados intentos. Solicite una nueva clave de acceso."
+
+msgid "The temporary access key is not valid."
+msgstr "La clave temporal de acceso no es válida."
+
+msgid "Wait 30 seconds before requesting another access key."
+msgstr "Espere 30 segundos antes de solicitar otra clave de acceso."
+
+msgid "We sent a temporary access key to your registered contact methods."
+msgstr "Enviamos una clave temporal de acceso a sus medios de contacto registrados."

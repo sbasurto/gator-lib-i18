@@ -7,6 +7,8 @@ public final class MessagesSelfCheck {
         ResourceBundle spanish = ResourceBundle.getBundle("gator.lib.i18.Messages_es");
         ResourceBundle english = ResourceBundle.getBundle("gator.lib.i18.Messages_en");
         assert "INICIO".equals(spanish.getString("HOME"));
+        assert "Carta Cupo".equals(spanish.getString("Capacity Letter"));
+        assert "Clave temporal de acceso".equals(spanish.getString("Temporary access key"));
         assert "CONFIRMED".equals(english.getString("CONFIRMADO"));
     }
 }

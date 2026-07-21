@@ -3,7 +3,9 @@ public class Messages_es extends java.util.ResourceBundle {
   private static final java.lang.Object[] table;
   static void clinit_part_0 (java.lang.Object[] t) {
     t[0] = "";
-    t[1] = "Project-Id-Version: 0.1\nReport-Msgid-Bugs-To: \nPO-Revision-Date: 2021-01-08 14:17:50-0600\nLast-Translator: Soft Gator <services@soft-gator.com>\nLanguage-Team: SPANISH <services@soft-gator.com>\nLanguage: \nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n";
+    t[1] = "Project-Id-Version: 0.1\nReport-Msgid-Bugs-To: \nPO-Revision-Date: 2021-01-08 14:17:50-0600\nLast-Translator: Soft Gator <services@soft-gator.com>\nLanguage-Team: SPANISH <services@soft-gator.com>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\n";
+    t[2] = "Fiscal warehouse operations.";
+    t[3] = "Operaciones de dep\u00f3sito fiscal.";
     t[4] = "See the stock by location.";
     t[5] = "Ver el inventario por ubicaci\u00f3n.";
     t[10] = "Ticket";
@@ -472,6 +474,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1051] = "Tipo de percepciones SAT";
     t[1052] = "The counting quantity could not be updated, please verify!";
     t[1053] = "No se actualiz\u00f3 la cantidad de conteo, \u00a1por favor verifique!";
+    t[1056] = "Customs Clearance Section Code";
+    t[1057] = "Clave de secci\u00f3n de despacho aduanero";
     t[1060] = "We will ask for information such as name, country, email, phone numbres, addresses, credit card information in order to complete purchase orders made by you";
     t[1061] = "Solicitaremos informaci\u00f3n tal como nombre, pa\u00eds, correo electr\u00f3nico, n\u00fameros telef\u00f3nicos, direcci\u00f3n, informaci\u00f3n de tarjetas de cr\u00e9dito, con el fin de poder completar ordenes de compra realizadas por usted.";
     t[1072] = "The lend movement could not be processed, please verify!";
@@ -624,6 +628,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1435] = "\u00bfEst\u00e1 seguro de este cambio?";
     t[1438] = "Impressions";
     t[1439] = "Impresiones";
+    t[1442] = "The request is not valid";
+    t[1443] = "La solicitud no es v\u00e1lida";
     t[1450] = "Sustantivo4\u0004Show Tip";
     t[1451] = "Mostrar Sugerencia";
     t[1452] = "The password must contains at least 2 numbers.";
@@ -936,6 +942,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2075] = "Servicios";
     t[2076] = "Pallet Build";
     t[2077] = "Armado de Tarimas";
+    t[2084] = "Authorized Warehouse Address";
+    t[2085] = "Domicilio del almac\u00e9n autorizado";
     t[2088] = "The extra5 and extra5 confirmation must be equals";
     t[2089] = "El extra5 y el extra5 confirmado deben ser iguales";
     t[2092] = "Add or Modify Element's Actions";
@@ -1074,6 +1082,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2377] = new java.lang.String[] { "Recibo", "Recibos" };
     t[2378] = "Requested Quantity Sales";
     t[2379] = "Cantidad Pedida Venta";
+    t[2380] = "Sequence";
+    t[2381] = "Secuencia";
+    t[2382] = "General Warehouse Legal Name";
+    t[2383] = "Raz\u00f3n social del almac\u00e9n general";
     t[2384] = "Movements Today";
     t[2385] = "Movimientos del D\u00eda";
     t[2388] = "This row does not have a detail";
@@ -1090,6 +1102,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2421] = "Abrir Archivo";
     t[2430] = "The stock record could not be updated, please verify!";
     t[2431] = "\u00a1El registro de inventario no pudo ser actualizado, por favor verifique!";
+    t[2440] = "Scheduled Arrival";
+    t[2441] = "Llegada programada";
     t[2442] = "Number of products";
     t[2443] = "N\u00famero de productos";
     t[2448] = "The location and location confirmation must be equals, please verify!";
@@ -1164,6 +1178,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2659] = "El tipo de documento no existe, \u00a1por favor verifique!";
     t[2660] = "How many providers want to add?";
     t[2661] = "\u00bfCu\u00e1ntos proveedores desea agregar?";
+    t[2664] = "Fiscal Warehouse";
+    t[2665] = "Dep\u00f3sito Fiscal";
     t[2672] = "ABC Criteria Id";
     t[2673] = "Id Criterio ABC";
     t[2674] = "public";
@@ -1176,6 +1192,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2687] = "Gesti\u00f3n de listas de materiales.";
     t[2688] = "Origin resources SAT";
     t[2689] = "Origen recursos SAT";
+    t[2690] = "Temporary access key";
+    t[2691] = "Clave temporal de acceso";
     t[2692] = "Transaction";
     t[2693] = new java.lang.String[] { "Transacci\u00f3n", "Transacciones" };
     t[2696] = "The production order was not specify, please verify!";
@@ -1448,6 +1466,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3305] = "Id de Tipo";
     t[3306] = "This action must be authorized by a supervisor!";
     t[3307] = "\u00a1Esta acci\u00f3n debe de ser autorizada por un supervisor!";
+    t[3314] = "Merchandise";
+    t[3315] = "Mercanc\u00eda";
     t[3320] = "The movement's balance could not be modified, please verify!";
     t[3321] = "No se modific\u00f3 el saldo del movimiento, \u00a1por favor verifique!";
     t[3322] = "Bar code Generation";
@@ -1516,6 +1536,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3439] = "Embarque, auditoria, etc.";
     t[3450] = "Choose File(s)";
     t[3451] = "Seleccione Archivo(s)";
+    t[3454] = "Issue Date";
+    t[3455] = "Fecha de expedici\u00f3n";
     t[3466] = "Completed pick movements";
     t[3467] = "Movimientos de surtido completados";
     t[3470] = "@0, is not a valid format.";
@@ -1542,6 +1564,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3511] = "Arrastre";
     t[3512] = "The sid is not pending of delivery or does not exist, verify!";
     t[3513] = "\u00a1El sid no est\u00e1 pendiente de entrega o no existe, verifique!";
+    t[3514] = "Tariff Fraction";
+    t[3515] = "Fracci\u00f3n arancelaria";
     t[3516] = "Day of Week";
     t[3517] = "D\u00eda de la Semana";
     t[3526] = "Load";
@@ -1574,6 +1598,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3595] = "Id de Familia";
     t[3600] = "This combination of SID and SKU has been already audited, please verify!";
     t[3601] = "\u00a1La combinaci\u00f3n de SID y SKU ya ha sido auditada, por favor verifique!";
+    t[3606] = "Verify your access";
+    t[3607] = "Verifique su acceso";
+    t[3608] = "We sent a temporary access key to your registered contact methods.";
+    t[3609] = "Enviamos una clave temporal de acceso a sus medios de contacto registrados.";
+    t[3610] = "The temporary access key expired. A new one will be sent.";
+    t[3611] = "La clave temporal de acceso expir\u00f3. Se enviar\u00e1 una nueva.";
     t[3620] = "Add or Modify Group's Users";
     t[3621] = "Agregar o Modificar Usuarios del Grupo";
     t[3622] = "the min allowed";
@@ -1594,6 +1624,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3671] = "Olvid\u00f3 su Contrase\u00f1a";
     t[3672] = "Warning: you are using the provider name to import a file, it is advisable to use the provider id.";
     t[3673] = "Advertencia: est\u00e1 usando el nombre del proveedor para importar un archivo, es recomendable usar el proveedor id.";
+    t[3682] = "Cancelled";
+    t[3683] = "Cancelada";
     t[3684] = "Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure";
     t[3685] = "Desafortunadamente, ninguna transmisi\u00f3n de datos a trav\u00e9s de Internet puede ser garantizada como totalmente segura";
     t[3688] = "Confirm Distribution Location";
@@ -1940,12 +1972,16 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4469] = "Cancelar Conteo";
     t[4474] = "Evidence Recovery";
     t[4475] = "Recuperaci\u00f3n de Evidencias";
+    t[4476] = "Validated";
+    t[4477] = "Validada";
     t[4482] = "Shipping";
     t[4483] = "Embarque";
     t[4484] = "Group to which it belongs";
     t[4485] = "Grupo al que pertenece";
     t[4486] = "Add Emails";
     t[4487] = "Agregar Correos Electr\u00f3nicos";
+    t[4494] = "Value (USD)";
+    t[4495] = "Valor (USD)";
     t[4500] = "You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why. To request access, please contact us via email";
     t[4501] = "Usted tiene derecho a acceder toda la informaci\u00f3n personal que tengamos de usted si le negamos el acceso en ciertas circunstancia le diremos porque. Para solicitar acceso por favor cont\u00e1ctenos v\u00eda correo electr\u00f3nico";
     t[4504] = "Write or scan customs value";
@@ -1966,6 +2002,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4535] = "Nombre";
     t[4538] = "The provider cannot be empty, please verify! - line(@0)";
     t[4539] = "El proveedor no puede estar vac\u00edo, \u00a1por favor verifique! - l\u00ednea(@0)";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4540] = "Calculate BoM Cost";
     t[4541] = "Calcula Costo de BoM";
     t[4542] = "Participio Masculino\u0004Read";
@@ -1994,6 +2032,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4591] = "Administraci\u00f3n de Mi Perfil";
     t[4592] = "Relation with other CFDIs";
     t[4593] = "Relaci\u00f3n con otros CFDIs";
+    t[4594] = "Capacity Letter";
+    t[4595] = new java.lang.String[] { "Carta Cupo", "Cartas Cupo" };
     t[4604] = "Destination Quality";
     t[4605] = "Calidad Destino";
     t[4610] = "Origin Quality";
@@ -2002,8 +2042,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4615] = "Gesti\u00f3n de devoluciones de surtido.";
     t[4616] = "The adjustment amount can not be the same as the inventory quantity";
     t[4617] = "El monto de ajuste no puede ser el mismo que la cantidad de inventario";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4618] = "Upload";
     t[4619] = "Subir";
     t[4626] = "Validate which is the maximum Finish Good's production.";
@@ -2012,6 +2050,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4629] = "Importando Archivos de Destinos";
     t[4630] = "Boxes by Pallet";
     t[4631] = "Cajas por Tarima";
+    t[4632] = "Verify and continue";
+    t[4633] = "Verificar y continuar";
     t[4640] = "Add or Modify Days";
     t[4641] = "Agregar o Modificar D\u00edas";
     t[4650] = "Verify the stock by inbound document.";
@@ -2092,6 +2132,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4825] = "Ingrese permiso de dep\u00f3sito fiscal";
     t[4826] = "Billing Address";
     t[4827] = "Direcci\u00f3n Fiscal";
+    t[4830] = "Jurisdiction Customs";
+    t[4831] = "Aduana de circunscripci\u00f3n";
     t[4836] = "You are about to cancel the payment for document (@0), are you sure?";
     t[4837] = "Est\u00e1 por cancelar el pago del documento (@0), \u00bfest\u00e1 seguro?";
     t[4838] = "Add Kinds";
@@ -2150,6 +2192,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4961] = "\u00bfOlvid\u00f3 su Contrase\u00f1a?";
     t[4962] = "Receipt finished goods.";
     t[4963] = "Recivir productos terminados.";
+    t[4970] = "SAAI Acknowledgement";
+    t[4971] = "Acuse SAAI";
     t[4974] = "Process Executor";
     t[4975] = "Proceso Ejecutor";
     t[4978] = "Fiscal Information";
@@ -2232,6 +2276,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5131] = "Cambiar Productos";
     t[5134] = "Contact Form";
     t[5135] = "Formulario de Contacto";
+    t[5142] = "Warehouse Code";
+    t[5143] = "Clave de almac\u00e9n";
     t[5144] = "Failure Kind";
     t[5145] = "Tipo de Falla";
     t[5148] = "Confirm SKU";
@@ -2428,6 +2474,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5583] = "Etiqueta de Reparto";
     t[5592] = "Status";
     t[5593] = "Estatus";
+    t[5596] = "Importer / Exporter CURP";
+    t[5597] = "CURP del importador / exportador";
     t[5600] = "Request Serial Number";
     t[5601] = "Solicta N\u00famero de Serie";
     t[5604] = "Rack Positions";
@@ -2648,6 +2696,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6101] = "No fue posible establecer la bandera de reabasto en la ubicaci\u00f3n destino, \u00a1por favor verifique!";
     t[6104] = "The origin location is disabled, in counting process or does not exists, please verify!";
     t[6105] = "La ubicaci\u00f3n origen est\u00e1 deshabilitada, en proceso de conteo o no existe, \u00a1por favor verifique!";
+    t[6116] = "Second step";
+    t[6117] = "Segundo paso";
     t[6132] = "Add Submenu";
     t[6133] = "Agregar Submen\u00fa";
     t[6136] = "File to import";
@@ -2882,6 +2932,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6669] = "Total por cobrar";
     t[6670] = "This remarks appears at footer.";
     t[6671] = "Estas observaciones aparecen en el pie de p\u00e1gina.";
+    t[6672] = "Wait 30 seconds before requesting another access key.";
+    t[6673] = "Espere 30 segundos antes de solicitar otra clave de acceso.";
     t[6674] = "The confirmed reference does not exist to pick, verify";
     t[6675] = "La referencia confirmada no existe para surtir, por favor verifique";
     t[6684] = "Access fast and easy anywhere in the planet, only requirement Internet connection.";
@@ -2950,6 +3002,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6835] = "Por favor espere mientras el archivo es validado";
     t[6836] = "Allow have different products in the same location (by box or boxes within pallets).";
     t[6837] = "Permite tener diferentes productos en una misma ubicaci\u00f3n (por caja, cajas dentro de tarimas o directamente en la ubicaci\u00f3n).";
+    t[6838] = "Customs Agent Name";
+    t[6839] = "Nombre del agente aduanal";
     t[6840] = "Asterisk configuration to connect with PSTN, analog cards and SIP gateways";
     t[6841] = "Configuraci\u00f3n de Asterisk para conectarse con PSTN, tarjetas anal\u00f3gicas y puertas de enlace SIP";
     t[6846] = "Sales Unit Measure";
@@ -3022,6 +3076,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6991] = "Una ubicaci\u00f3n en el rango seleccionado tiene un surtido, reabasto o producci\u00f3n en proceso, \u00a1por favor verifique!";
     t[6992] = "Kind of payroll SAT";
     t[6993] = "Tipo de n\u00f3mina SAT";
+    t[6994] = "Capture";
+    t[6995] = "Captura";
     t[7000] = "Do you want to approve Invoice?";
     t[7001] = "\u00bfDesea otorgar su VoBo. a la Factura?";
     t[7004] = "The kind of inbound is not ok, please verify!";
@@ -3046,6 +3102,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7057] = "Gesti\u00f3n de reportes, agregar, cambiar o borrar.";
     t[7058] = "Set how long before you wish your reminder";
     t[7059] = "Seleccione cuanto tiempo antes desea su recordatorio";
+    t[7062] = "Too many attempts. Request a new access key.";
+    t[7063] = "Demasiados intentos. Solicite una nueva clave de acceso.";
     t[7066] = "Position Y initial";
     t[7067] = "Posici\u00f3n Y inicial";
     t[7068] = "Author";
@@ -3104,8 +3162,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7191] = "La serie y la serie confirmada deben ser iguales";
     t[7192] = "Last Entries";
     t[7193] = "Entradas Recientes";
+    t[7202] = "Enter the received key";
+    t[7203] = "Ingrese la clave recibida";
     t[7206] = "The balance for document (@0) could not be updated, please verify!";
     t[7207] = "El saldo para el documento (@0) no pudo ser actualizado, \u00a1por favor verifique!";
+    t[7208] = "Authorized Unit";
+    t[7209] = "Unidad autorizada";
     t[7210] = "Stock quantity returns empty, please verify!";
     t[7211] = "\u00a1La cantidad de inventario regres\u00f3 vac\u00eda, por favor verifique!";
     t[7216] = "The movement does not exist, please verify!";
@@ -3138,6 +3200,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7297] = new java.lang.String[] { "previo", "previos" };
     t[7300] = "Send Message";
     t[7301] = "Enviar Mensaje";
+    t[7308] = "Tax Address";
+    t[7309] = "Domicilio fiscal";
     t[7314] = "Tables management, add, update or delete.";
     t[7315] = "Gesti\u00f3n de tablas, agregar, actualizar o borrar.";
     t[7320] = "VoIP - Voice over IP";
@@ -3154,6 +3218,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7335] = "Ayer";
     t[7340] = "Process information queries.";
     t[7341] = "Consulta de informaci\u00f3n de procesos.";
+    t[7342] = "Importer / Exporter RFC";
+    t[7343] = "RFC del importador / exportador";
     t[7352] = "Pending Events";
     t[7353] = "Eventos Pendientes";
     t[7354] = "Do receipt process.";
@@ -3250,6 +3316,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7577] = new java.lang.String[] { "Tarea", "Tareas" };
     t[7580] = "The product does not exist, please verify!";
     t[7581] = "\u00a1El producto no existe, por favor verifique!";
+    t[7592] = "UMT Quantity";
+    t[7593] = "Cantidad UMT";
     t[7596] = "Employee";
     t[7597] = new java.lang.String[] { "Empleado", "Empleados" };
     t[7600] = "SAT's Exports";
@@ -3596,6 +3664,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8397] = "\u00a1El registro de inventario no pudo ser eliminado, por favor verifique!";
     t[8412] = "Product Filter";
     t[8413] = "Filtro de Producto";
+    t[8420] = "The temporary access key is not valid.";
+    t[8421] = "La clave temporal de acceso no es v\u00e1lida.";
     t[8426] = "@0 - Error Page";
     t[8427] = "P\u00e1gina de Error - @0";
     t[8428] = "Your email";
@@ -3744,6 +3814,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8793] = new java.lang.String[] { "Forma de Pago SAT", "Formas de Pago SAT" };
     t[8800] = "Do you want to print label?";
     t[8801] = "\u00bfDesea imprimir etiqueta?";
+    t[8810] = "Electronic capacity letter management.";
+    t[8811] = "Gesti\u00f3n electr\u00f3nica de cartas cupo.";
     t[8814] = "Cyclical Inventory";
     t[8815] = "Inventario C\u00edclico";
     t[8816] = "Choose or insert your guest emails separated by commas";
@@ -3892,6 +3964,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9177] = "C\u00f3digo SAT";
     t[9180] = "Learn to use Inkscape a professional quality vector graphics software which runs on Windows, Mac OS X and GNU/Linux. It is used by design professionals and hobbyists worldwide, for creating a wide variety of graphics such as illustrations, icons, logos, diagrams, maps and web graphics";
     t[9181] = "Aprenda a utilizar Inkscape un software de calidad profesional de vectores que corre en Windows, Mac OS X y GNU/Linux. Este es utilizado por profesionales y entusiastas al rededor del mundo, para crear una gran variedad de gr\u00e1ficos tales como ilustraciones, iconos, logos, diagramas, mapas y gr\u00e1ficos para web";
+    t[9188] = "Patent / Authorization";
+    t[9189] = "Patente / Autorizaci\u00f3n";
     t[9192] = "Beginning Date";
     t[9193] = "Fecha de Inicio";
     t[9196] = "Total Actions";
@@ -3930,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9277] = "Importando Archivos de Producto";
     t[9282] = "Generate Fiscal Receipt";
     t[9283] = "Generar Recibo Fiscal";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[9286] = "Extra data";
     t[9287] = "Informaci\u00f3n extra";
     t[9288] = "Plural\u0004Query Scan";
@@ -3940,6 +4016,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9297] = "Dom";
     t[9302] = "Write or scan SKU";
     t[9303] = "Escriba o escanee el SKU";
+    t[9312] = "Customs Entry";
+    t[9313] = "Pedimento";
     t[9314] = "Quality Stay";
     t[9315] = "Estad\u00eda de Calidad";
     t[9320] = "User Id";
@@ -4004,8 +4082,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9461] = "Capacidad ilimitada en extensiones y l\u00edneas.";
     t[9466] = "There is a process already running, please wait until finish";
     t[9467] = "Ya existen un proceso en ejecuci\u00f3n, por favor espere a que finalice";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[9470] = "Reverse Payment";
     t[9471] = "Reversar Pago";
     t[9480] = "Add Servers";
@@ -4062,6 +4138,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9603] = "Este c\u00f3digo es el asignado al producto y lo identifica de manera \u00fanica.";
     t[9604] = "Count location in ciclic counting process.";
     t[9605] = "Contar ubicacione en proceso de conteo c\u00edclico.";
+    t[9606] = "Enter the temporary alphanumeric key sent to your registered contact methods.";
+    t[9607] = "Ingrese la clave alfanum\u00e9rica temporal enviada a sus medios de contacto registrados.";
     t[9616] = "Learn to configure an apache web server on GNU/Linux servers, one of the most stable and excellent performance";
     t[9617] = "Aprenda a configurar un servidor web apache en servidores GNU/Linux, uno de los m\u00e1s estables y con excelente desempe\u00f1o";
     t[9618] = "The SID already exist, please verify!";
@@ -4210,6 +4288,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9925] = new java.lang.String[] { "Proceso Productivo", "Procesos Productivos" };
     t[9926] = "Login Screen";
     t[9927] = "Ingreso al Sistema";
+    t[9940] = "UMT Code";
+    t[9941] = "Clave UMT";
     t[9942] = "Number SIDs";
     t[9943] = "N\u00famero de SIDs";
     t[9946] = "CANCELED";
@@ -4238,6 +4318,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9999] = new java.lang.String[] { "IVA", "IVAS" };
     t[10002] = "Currencies management.";
     t[10003] = "Gesti\u00f3n de monedas.";
+    t[10004] = "Folio (11 digits)";
+    t[10005] = "Folio (11 d\u00edgitos)";
     t[10012] = "Add or Modify Items";
     t[10013] = "Agregar o Modificar Productos";
     t[10016] = "Summary";
@@ -4302,6 +4384,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10153] = "Cantidad empacada: @0";
     t[10158] = "may use personally identifiable information in aggregate form to improve our goods and services including our web site and make it more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by the Soft Gator S.A de C.V or provided to others as a summary report for marketing, advertising or research purposes";
     t[10159] = "podr\u00e1 utilizar informaci\u00f3n identificable en las formas llenadas para mejorar bienes y servicios incluyendo nuestro sitio web y hacerlo m\u00e1s responsivo a las necesidades de nuestros clientes. Esta compilaci\u00f3n de datos estad\u00edsticos y an\u00e1lisis de informaci\u00f3n tambi\u00e9n puede ser utilizada por Soft Gator S.A de C.V o proveerla a otros como un resumen para prop\u00f3sitos de investigaci\u00f3n, marketing o anuncios";
+    t[10160] = "Customs Clearance Section";
+    t[10161] = "Secci\u00f3n de despacho aduanero";
     t[10164] = "Import inbound documents";
     t[10165] = "Importar documentos de entrada";
     t[10166] = "Sender";
@@ -4368,6 +4452,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10299] = "Id de Constante";
     t[10300] = "The operation has been canceled!";
     t[10301] = "\u00a1La operaci\u00f3n ha sido cancelada!";
+    t[10308] = "attempts remaining";
+    t[10309] = "intentos restantes";
     t[10314] = "How many servers want to add?";
     t[10315] = "\u00bfCu\u00e1ntos servidores desea agregar?";
     t[10324] = "The lend movement could not be created, please verify!";
@@ -4566,6 +4652,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10771] = "Cambiar Componente";
     t[10774] = "Due date is required, please capture it!";
     t[10775] = "\u00a1La caducidad es obligatoria, por favor ingr\u00e9sela!";
+    t[10776] = "Importer / Exporter";
+    t[10777] = "Importador / Exportador";
     t[10778] = "This remarks appears after items.";
     t[10779] = "Estas observaciones aparecen despu\u00e9s de los productos.";
     t[10780] = "Columns Pool for Process";
@@ -4610,6 +4698,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10887] = "Un documento consolidado no puede ser eliminado, \u00a1por favor verifique!";
     t[10888] = "The presentation is required, please verify!";
     t[10889] = "La presentaci\u00f3n es requerida, \u00a1por favor verifique!";
+    t[10890] = "Customs Agent CURP";
+    t[10891] = "CURP del agente aduanal";
     t[10892] = "Is quantity [@0] ok?";
     t[10893] = "\u00bfLa cantidad [@0] es correcta?";
     t[10894] = "We install, configure and teach to use mysql data bases";
@@ -4660,6 +4750,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10995] = "Archivo Men\u00fas del Grupo";
     t[11002] = "Recover";
     t[11003] = "Recuperar";
+    t[11004] = "Customs Agent RFC";
+    t[11005] = "RFC del agente aduanal";
     t[11008] = "Assign Responsible";
     t[11009] = "Asignar Responsable";
     t[11012] = "Inbound Document Detail";
@@ -4784,6 +4876,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11303] = "Entrenamiento Especializado";
     t[11312] = "Location Side";
     t[11313] = "Ubicaci\u00f3n Lado";
+    t[11314] = "Jurisdiction Customs Code";
+    t[11315] = "Clave de aduana de circunscripci\u00f3n";
     t[11316] = "Open Quote";
     t[11317] = "Abrir Cotizaci\u00f3n";
     t[11318] = "Authorize Inventory Card";
@@ -5304,6 +5398,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12565] = "Con nuestra alta gama de lectores de c\u00f3digos de barras, usted puede seleccionar el que m\u00e1s se ajuste a sus necesidades.";
     t[12566] = "Cancelation Date";
     t[12567] = new java.lang.String[] { "Fecha de Cancelaci\u00f3n", "Fechas de Cancelaci\u00f3n" };
+    t[12588] = "Send another access key";
+    t[12589] = "Enviar otra clave de acceso";
     t[12592] = "Delete Period";
     t[12593] = "Borrar Periodo";
     t[12594] = "FORBIDDEN";
@@ -5553,7 +5649,7 @@ public class Messages_es extends java.util.ResourceBundle {
     table = t;
   }
   public static final java.lang.String[] get_msgid_plural_table () {
-    return new java.lang.String[] { "Tickets", "SAT's Currencies", "Periods", "Inbounds RFId", "Labels", "Movements", "Constants", "Orders", "Pallets", "Corridors", "Payroll Receipts", "SAT's Contries", "Certificates", "Frequencies", "Tracking Numbers", "Dates", "Destinations", "Brands", "Confirmed", "User's Manuals", "nexts", "Origins", "Types", "Cyclic Inventories", "Credits", "Percentages", "Cycles", "Apples", "Detail Ids", "SAT's Customs Patents", "RFId Tags", "Bars", "SAT's Payment Methods", "Purchase Orders", "Payments", "Prices", "Minutes", "Addresses", "Owners", "Indicators", "Impressions", "Reminders", "Printers", "Organizers", "Bank Accounts", "Customs Requisitions", "Receipts", "Receives", "first", "Boxes", "SAT's Factor Types", "Related Documents", "Transactions", "Finances", "Foot Notes", "Seasons", "Trucks", "SAT's Uses of CFDI", "Subfailures", "Streets", "Hours", "Quantities", "Outbounds RFId", "Parents", "Projects", "Tentatives", "Files", "Catalogs", "Presentations", "Transport Units", "first", "Articles", "lasts", "Adjustments", "Inventories", "Process Kinds", "Daily Shoppings", "Failures", "Technical Manuals", "Components", "Federal Entities", "SAT's Taxes Regimes", "Features", "Comments", "Models", "Providers", "Promotions", "Submenus", "Groups", "Read", "Appointments", "SAT's Tax Objects", "SAT's Months", "Counters", "Products", "Versions", "Cargos", "boards", "Phone Numbers", "Platforms", "Menus", "Tables", "Amounts", "Elements", "Production Outbounds", "Signatures", "Group Kinds", "Items", "Days", "Wks", "Countries", "Transfers", "Withdraws", "Qualities", "Generics", "Paths", "Details", "Account Movements", "Lines", "Links", "Inbound Locations", "Totals", "Specs", "Packages", "Calls", "Emails", "Users", "menus", "Counties", "Due Dates", "States", "Carts", "Indexes", "Pendings", "Families", "Rates", "Neighborhoods", "DHL Shippings", "Minimums", "Packaging", "Inbounds", "Outbound Locations", "Authors", "Acknowledge Details", "Parameters", "Costs", "Applications", "previous", "Responsible", "Validation", "previous", "Processes", "Tasks", "Employees", "Potential Customers", "Electronics", "Purchases", "Human resources", "Buyers", "Primaries", "Participants", "Reports", "Conversion Codes", "We are sorry your payments was not processed, please try again", "Invoices", "Returns", "Inbound Documents", "Sectors", "Tentatives", "Lots", "lasts", "Others", "Confirmed", "SAT's Way to Pay", "Classifications", "Weekly Shoppings", "Currencies", "Columns", "Cities", "Systems", "Quotations", "Shippers", "Bank Movements", "Manuals", "Weeks", "Primaries", "Privacy Policies", "Sections", "Counts", "Profiles", "SAT's Kinds of Voucher", "Products Transfer", "Carriers", "Massive Downloads", "Operations", "Production Requisitions", "Areas", "Productive processes", "Tags", "Taxes", "Summaries", "Categories", "Senders", "Reads", "Documents", "Scales", "Mails", "Schedules", "Colonies", "Maximums", "References", "Deposits", "Requisitions", "Editorials", "Add Items", "Diaries", "Transfers", "Generics", "Months", "Customers", "SAT's Products", "SAT's Measurement Units", "Phones", "Actions", "Sellers", "Operators", "Exportations", "Shipments", "Events", "Show Picking SIDs", "Pieces", "Offers", "SAT's Relations", "Materials", "Waybills", "Filters", "Outbounds", "Locations", "Queries", "Descriptions", "Kinds", "Doughnuts", "Confirmed", "Driver Licences", "Changes", "Languages", "Banks", "Inbounds Scan Query", "Boards", "Distributions", "Outbounds Scan Query", "Cancelation Dates", "Warehouses", "Authorizations", "Screens", "Units", "Contacts", "Remarks", "Statements", "SAT''s Certificates", "Attachments", "Bank Conciliations", "Icons", "Inventory Cards", "Substitutes", "Confirmed", "Plates", "Discounts", "Values" };
+    return new java.lang.String[] { "Tickets", "SAT's Currencies", "Periods", "Inbounds RFId", "Labels", "Movements", "Constants", "Orders", "Pallets", "Corridors", "Payroll Receipts", "SAT's Contries", "Certificates", "Frequencies", "Tracking Numbers", "Dates", "Destinations", "Brands", "Confirmed", "User's Manuals", "nexts", "Origins", "Types", "Cyclic Inventories", "Credits", "Percentages", "Cycles", "Apples", "Detail Ids", "SAT's Customs Patents", "RFId Tags", "Bars", "SAT's Payment Methods", "Purchase Orders", "Payments", "Prices", "Minutes", "Addresses", "Owners", "Indicators", "Impressions", "Reminders", "Printers", "Organizers", "Bank Accounts", "Customs Requisitions", "Receipts", "Receives", "first", "Boxes", "SAT's Factor Types", "Related Documents", "Transactions", "Finances", "Foot Notes", "Seasons", "Trucks", "SAT's Uses of CFDI", "Subfailures", "Streets", "Hours", "Quantities", "Outbounds RFId", "Parents", "Projects", "Tentatives", "Files", "Catalogs", "Presentations", "Transport Units", "first", "Articles", "lasts", "Adjustments", "Inventories", "Process Kinds", "Daily Shoppings", "Failures", "Technical Manuals", "Components", "Federal Entities", "SAT's Taxes Regimes", "Features", "Comments", "Models", "Providers", "Promotions", "Submenus", "Groups", "Read", "Appointments", "Capacity Letters", "SAT's Tax Objects", "SAT's Months", "Counters", "Products", "Versions", "Cargos", "boards", "Phone Numbers", "Platforms", "Menus", "Tables", "Amounts", "Elements", "Production Outbounds", "Signatures", "Group Kinds", "Items", "Days", "Wks", "Countries", "Transfers", "Withdraws", "Qualities", "Generics", "Paths", "Details", "Account Movements", "Lines", "Links", "Inbound Locations", "Totals", "Specs", "Packages", "Calls", "Emails", "Users", "menus", "Counties", "Due Dates", "States", "Carts", "Indexes", "Pendings", "Families", "Rates", "Neighborhoods", "DHL Shippings", "Minimums", "Packaging", "Inbounds", "Outbound Locations", "Authors", "Acknowledge Details", "Parameters", "Costs", "Applications", "previous", "Responsible", "Validation", "previous", "Processes", "Tasks", "Employees", "Potential Customers", "Electronics", "Purchases", "Human resources", "Buyers", "Primaries", "Participants", "Reports", "Conversion Codes", "We are sorry your payments was not processed, please try again", "Invoices", "Returns", "Inbound Documents", "Sectors", "Tentatives", "Lots", "lasts", "Others", "Confirmed", "SAT's Way to Pay", "Classifications", "Weekly Shoppings", "Currencies", "Columns", "Cities", "Systems", "Quotations", "Shippers", "Bank Movements", "Manuals", "Weeks", "Primaries", "Privacy Policies", "Sections", "Counts", "Profiles", "SAT's Kinds of Voucher", "Products Transfer", "Carriers", "Massive Downloads", "Operations", "Production Requisitions", "Areas", "Productive processes", "Tags", "Taxes", "Summaries", "Categories", "Senders", "Reads", "Documents", "Scales", "Mails", "Schedules", "Colonies", "Maximums", "References", "Deposits", "Requisitions", "Editorials", "Add Items", "Diaries", "Transfers", "Generics", "Months", "Customers", "SAT's Products", "SAT's Measurement Units", "Phones", "Actions", "Sellers", "Operators", "Exportations", "Shipments", "Events", "Show Picking SIDs", "Pieces", "Offers", "SAT's Relations", "Materials", "Waybills", "Filters", "Outbounds", "Locations", "Queries", "Descriptions", "Kinds", "Doughnuts", "Confirmed", "Driver Licences", "Changes", "Languages", "Banks", "Inbounds Scan Query", "Boards", "Distributions", "Outbounds Scan Query", "Cancelation Dates", "Warehouses", "Authorizations", "Screens", "Units", "Contacts", "Remarks", "Statements", "SAT''s Certificates", "Attachments", "Bank Conciliations", "Icons", "Inventory Cards", "Substitutes", "Confirmed", "Plates", "Discounts", "Values" };
   }
   public java.lang.Object lookup (java.lang.String msgid) {
     int hash_val = msgid.hashCode() & 0x7fffffff;
