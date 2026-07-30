@@ -9091,3 +9091,42 @@ msgstr "Espere 30 segundos antes de solicitar otra clave de acceso."
 
 msgid "We sent a temporary access key to your registered contact methods."
 msgstr "Enviamos una clave temporal de acceso a sus medios de contacto registrados."
+
+msgid "Search and select the account and warehouse you want to use"
+msgstr "Busque y seleccione la cuenta y bodega que desea utilizar"
+
+msgid "Account, warehouse or identifier"
+msgstr "Cuenta, bodega o identificador"
+
+msgid "Pagination"
+msgstr "Paginación"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "results"
+msgstr "resultados"
+
+msgid "Authorized Unit (SIDEFI)"
+msgstr "Unidad autorizada (SIDEFI)"
+
+msgid "Carta Cupo PDF"
+msgstr "Carta Cupo PDF"
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "Generate SAAI File"
+msgstr "Generar archivo SAAI"
+
+msgid "Operation Type"
+msgstr "Tipo de operación"
+
+msgid "SAAI Validator File"
+msgstr "Archivo validador SAAI"
+
+msgid "Upload SAAI Acknowledgement"
+msgstr "Subir acuse SAAI"

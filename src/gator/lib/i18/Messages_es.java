@@ -376,6 +376,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[829] = "No se borr\u00f3 el inventario, \u00a1por favor verifique!";
     t[830] = "Enter unpaid taxes";
     t[831] = "Ingrese impuestos pendientes de pago";
+    t[834] = "results";
+    t[835] = "resultados";
     t[850] = "Period End";
     t[851] = "Fin del Periodo";
     t[852] = "You must specify an inbound document";
@@ -414,6 +416,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[917] = "Tambi\u00e9n es importante mencionar que somos los \u00fanicos instaladores de GNU/Linux";
     t[924] = "Origin";
     t[925] = new java.lang.String[] { "Origen", "Or\u00edgenes" };
+    t[930] = "Previous";
+    t[931] = "Anterior";
     t[932] = "Select if you want system to remind you";
     t[933] = "Seleccione si desea que el sistema le recuerde";
     t[934] = "Gator W has its own set of automatic processes, it helps to facilitate your warehouse operation.";
@@ -478,6 +482,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1057] = "Clave de secci\u00f3n de despacho aduanero";
     t[1060] = "We will ask for information such as name, country, email, phone numbres, addresses, credit card information in order to complete purchase orders made by you";
     t[1061] = "Solicitaremos informaci\u00f3n tal como nombre, pa\u00eds, correo electr\u00f3nico, n\u00fameros telef\u00f3nicos, direcci\u00f3n, informaci\u00f3n de tarjetas de cr\u00e9dito, con el fin de poder completar ordenes de compra realizadas por usted.";
+    t[1062] = "Next";
+    t[1063] = "Siguiente";
     t[1072] = "The lend movement could not be processed, please verify!";
     t[1073] = "El movimiento de pr\u00e9stamo no puede ser procesado, \u00a1por favor verifique!";
     t[1082] = "The payment could not be applied, please try again!";
@@ -504,6 +510,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1125] = "\u00a1Su archivo se est\u00e1 generando, por favor espere!";
     t[1126] = "Family Name";
     t[1127] = "Nombre de Familia";
+    t[1128] = "Authorized Unit (SIDEFI)";
+    t[1129] = "Unidad autorizada (SIDEFI)";
     t[1140] = "Sales Order";
     t[1141] = "Orden de Venta";
     t[1148] = "E-mail";
@@ -1706,6 +1714,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3875] = "Nombre de Base de Datos";
     t[3876] = "You cannot change this parameter, please verify!";
     t[3877] = "\u00a1No puede cambiar este par\u00e1metro, por favor verifique!";
+    t[3880] = "SAAI Validator File";
+    t[3881] = "Archivo validador SAAI";
     t[3882] = "Outside Number";
     t[3883] = "N\u00famero Exterior";
     t[3886] = "You must specify the file(s) to be uploaded";
@@ -1902,6 +1912,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4285] = "Incompleto";
     t[4286] = "You cannont make packet for two different customers, please verify!";
     t[4287] = "No puede crear un paquete para dos clientes distintos, \u00a1por favor verifique!";
+    t[4294] = "Operation Type";
+    t[4295] = "Tipo de operaci\u00f3n";
     t[4300] = "Provider";
     t[4301] = new java.lang.String[] { "Proveedor", "Proveedores" };
     t[4306] = "Rates and Charges";
@@ -1990,6 +2002,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4509] = "\u00bfEst\u00e1 por importar un documento de entrada, est\u00e1 seguro?";
     t[4520] = "Destination Due Date";
     t[4521] = "Caducidad Destino";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4522] = "File Columns";
     t[4523] = "Columnas de Archivo";
     t[4524] = "The stock id could not be found, please verify!";
@@ -2002,8 +2016,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4535] = "Nombre";
     t[4538] = "The provider cannot be empty, please verify! - line(@0)";
     t[4539] = "El proveedor no puede estar vac\u00edo, \u00a1por favor verifique! - l\u00ednea(@0)";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4540] = "Calculate BoM Cost";
     t[4541] = "Calcula Costo de BoM";
     t[4542] = "Participio Masculino\u0004Read";
@@ -2434,6 +2446,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5501] = "Verifique las cuentas que le fueron asignadas";
     t[5502] = "Item";
     t[5503] = new java.lang.String[] { "Partida", "Partidas" };
+    t[5510] = "Search and select the account and warehouse you want to use";
+    t[5511] = "Busque y seleccione la cuenta y bodega que desea utilizar";
     t[5520] = "Fill Rate";
     t[5521] = "Tasa de Cumplimiento";
     t[5526] = "The target location exceeds the maximum number of SID codes, please verify!";
@@ -3038,6 +3052,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6913] = "La contrase\u00f1a debe coincidir con la ingresada previamente.";
     t[6916] = "Your session";
     t[6917] = "Su sesi\u00f3n";
+    t[6918] = "Upload SAAI Acknowledgement";
+    t[6919] = "Subir acuse SAAI";
     t[6922] = "Tells if the product is enable or disabled.";
     t[6923] = "Indica si el producto est\u00e1 habilitado o no.";
     t[6926] = "Last Modification";
@@ -3460,6 +3476,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7927] = "Enviar";
     t[7928] = "Packing by Label";
     t[7929] = "Empaque por Etiqueta";
+    t[7932] = "Export";
+    t[7933] = "Exportar";
     t[7934] = "A column that is being using in a sentences is undefined, please verify!";
     t[7935] = "Una columna que est\u00e1 siendo utilizada en una sentencia est\u00e1 indefinida, \u00a1por favor verifique!";
     t[7936] = "Masculino\u0004Primary";
@@ -3986,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9247] = "No se encontr\u00f3 el tipo de conteo, \u00a1por favor verifique!";
     t[9248] = "Electronic Email(s)";
     t[9249] = "Correo(s) Electr\u00f3nico(s)";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[9250] = "Please capture your last name";
     t[9251] = "Por favor capture su apellido";
     t[9254] = "Capture Production Requisition";
@@ -4004,8 +4024,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9277] = "Importando Archivos de Producto";
     t[9282] = "Generate Fiscal Receipt";
     t[9283] = "Generar Recibo Fiscal";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[9286] = "Extra data";
     t[9287] = "Informaci\u00f3n extra";
     t[9288] = "Plural\u0004Query Scan";
@@ -4824,6 +4842,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11169] = "Especifique el id de empaque o vac\u00edo para generar autom\u00e1ticamente";
     t[11174] = "Kind of working days SAT";
     t[11175] = "Tipo de jornada SAT";
+    t[11186] = "Generate SAAI File";
+    t[11187] = "Generar archivo SAAI";
     t[11194] = "Lot is required and must be valid, please verify! - line(@0)";
     t[11195] = "El lote es requerido y debe de ser v\u00e1lido, \u00a1por favor verifique! - l\u00ednea(@0)";
     t[11200] = "Tue";
@@ -4906,6 +4926,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11391] = "\u00bfCu\u00e1ntas ofertas desea agregar?";
     t[11394] = "Actions to do like adjustments, transfers, etc.";
     t[11395] = "Acciones como ajustes, traspasos, etc.";
+    t[11396] = "Account, warehouse or identifier";
+    t[11397] = "Cuenta, bodega o identificador";
     t[11402] = "Clone Document";
     t[11403] = "Clonar Documento";
     t[11404] = "Authorized by";
@@ -5312,6 +5334,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12337] = new java.lang.String[] { "Cambio", "Cambios" };
     t[12338] = "Picking movements cannot be deleted, please verify!";
     t[12339] = "Los movimientos de surtido no pueden ser eliminados, \u00a1por favor verifique!";
+    t[12342] = "Carta Cupo PDF";
+    t[12343] = "Carta Cupo PDF";
     t[12350] = "Brands management, creation of new brands.";
     t[12351] = "Gesti\u00f3n de marcas, creaci\u00f3n de nuevas marcas.";
     t[12352] = "User or Password Wrong";
@@ -5534,6 +5558,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12881] = "\u00a1La orden de reabasto no existe, por favor verifique!";
     t[12884] = "Article Status";
     t[12885] = "Estatus del Art\u00edculo";
+    t[12886] = "Pagination";
+    t[12887] = "Paginaci\u00f3n";
     t[12892] = "The quantity to confirm cannot be grater than the one picked, please verify";
     t[12893] = "La cantidad a confirmar no puede ser mayor a la que se surti\u00f3, por favor verifique";
     t[12896] = "You cannot send presentation when location consolidate, please verify!";

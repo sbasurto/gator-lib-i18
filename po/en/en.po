@@ -156,3 +156,20 @@ msgstr ""
 msgid "News"
 msgstr ""
 
+msgid "Search and select the account and warehouse you want to use"
+msgstr "Search and select the account and warehouse you want to use"
+
+msgid "Account, warehouse or identifier"
+msgstr "Account, warehouse or identifier"
+
+msgid "Pagination"
+msgstr "Pagination"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "results"
+msgstr "results"
