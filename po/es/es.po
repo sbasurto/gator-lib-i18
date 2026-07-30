@@ -8842,6 +8842,9 @@ msgstr "Reiniciar Conteo"
 msgid "External routine raise an exception @0, please verify!"
 msgstr "Una rutina externa generó una excepción @0, ¡por favor verifique!"
 
+msgid "The invoice data has an incompatible internal format. It was not sent to the stamping provider; please contact support."
+msgstr "Los datos de la factura tienen un formato interno incompatible. No se enviaron al proveedor de timbrado; comuníquese con soporte."
+
 msgid "Total payable"
 msgstr "Total a pagar"
 

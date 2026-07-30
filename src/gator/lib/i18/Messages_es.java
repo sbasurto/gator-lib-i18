@@ -2192,6 +2192,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4939] = "No se pudo crear el acuse, \u00a1por favor verifique!";
     t[4940] = "Tuesday";
     t[4941] = "Martes";
+    t[4942] = "The invoice data has an incompatible internal format. It was not sent to the stamping provider; please contact support.";
+    t[4943] = "Los datos de la factura tienen un formato interno incompatible. No se enviaron al proveedor de timbrado; comun\u00edquese con soporte.";
     t[4944] = "The staying location @0 is disabled, in counting process or does not exists, please verify!";
     t[4945] = "La bah\u00eda entrada/salida @0 est\u00e1 deshabilitada, en proceso de conteo o no existe, \u00a1por favor verifique!";
     t[4946] = "Review customer's statements.";
@@ -4002,10 +4004,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9233] = "La serie(@0) ya se encuentra en otro documento(@1), \u00a1por favor verifique!";
     t[9246] = "The counting kind could not be found, please verify!";
     t[9247] = "No se encontr\u00f3 el tipo de conteo, \u00a1por favor verifique!";
-    t[9248] = "Electronic Email(s)";
-    t[9249] = "Correo(s) Electr\u00f3nico(s)";
   }
   static void clinit_part_2 (java.lang.Object[] t) {
+    t[9248] = "Electronic Email(s)";
+    t[9249] = "Correo(s) Electr\u00f3nico(s)";
     t[9250] = "Please capture your last name";
     t[9251] = "Por favor capture su apellido";
     t[9254] = "Capture Production Requisition";
