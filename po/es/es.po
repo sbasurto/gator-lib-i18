@@ -9133,3 +9133,87 @@ msgstr "Archivo validador SAAI"
 
 msgid "Upload SAAI Acknowledgement"
 msgstr "Subir acuse SAAI"
+
+msgid "Add Items"
+msgstr "Agregar artículos"
+
+msgid "Counted Quantity"
+msgstr "Cantidad contada"
+
+msgid "Dummy 1"
+msgstr "Auxiliar 1"
+
+msgid "Entra 1"
+msgstr "Entrada 1"
+
+msgid "Entrada Det Id"
+msgstr "Id de detalle de entrada"
+
+msgid "Extra 0"
+msgstr "Extra 0"
+
+msgid "Extra 2"
+msgstr "Extra 2"
+
+msgid "Extra 3"
+msgstr "Extra 3"
+
+msgid "Extra 4"
+msgstr "Extra 4"
+
+msgid "Extra 5"
+msgstr "Extra 5"
+
+msgid "Extra 6"
+msgstr "Extra 6"
+
+msgid "Extra 7"
+msgstr "Extra 7"
+
+msgid "Inbound OP"
+msgstr "Entrada OP"
+
+msgid "Location Information"
+msgstr "Información de ubicación"
+
+msgid "Movements"
+msgstr "Movimientos"
+
+msgid "Packing Information"
+msgstr "Información de empaque"
+
+msgid "SID"
+msgstr "SID"
+
+msgid "SID Information"
+msgstr "Información del SID"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Salida Det Id"
+msgstr "Id de detalle de salida"
+
+msgid "Select Packing"
+msgstr "Seleccionar empaque"
+
+msgid "Select RFId Packing"
+msgstr "Seleccionar empaque RFId"
+
+msgid "Serial Numbers"
+msgstr "Números de serie"
+
+msgid "Skip 2"
+msgstr "Omitir 2"
+
+msgid "Staying Ok"
+msgstr "Permanencia correcta"
+
+msgid "Transfer Quantity"
+msgstr "Cantidad a transferir"
+
+msgid "The SID must exists in location"
+msgstr "El SID debe existir en la ubicación"
+
+msgid "The product must exists in location"
+msgstr "El producto debe existir en la ubicación"

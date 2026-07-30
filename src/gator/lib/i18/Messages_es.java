@@ -102,6 +102,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[187] = new java.lang.String[] { "Orden", "Ordenes" };
     t[188] = "Pallet";
     t[189] = new java.lang.String[] { "Tarima", "Tarimas" };
+    t[192] = "SKU";
+    t[193] = "SKU";
     t[194] = "Add Postal Code";
     t[195] = "Agregar C\u00f3digo Postal";
     t[204] = "You do not have the correct (CSD) certificate, please verify!";
@@ -124,6 +126,16 @@ public class Messages_es extends java.util.ResourceBundle {
     t[237] = "Tipo de Transacci\u00f3n";
     t[238] = "Payroll Receipt";
     t[239] = new java.lang.String[] { "Recibo de N\u00f3mina", "Recibos de N\u00f3mina" };
+    t[240] = "Extra 3";
+    t[241] = "Extra 3";
+    t[242] = "Extra 4";
+    t[243] = "Extra 4";
+    t[244] = "Extra 5";
+    t[245] = "Extra 5";
+    t[246] = "Extra 6";
+    t[247] = "Extra 6";
+    t[248] = "Extra 7";
+    t[249] = "Extra 7";
     t[252] = "Dial Control";
     t[253] = "Control de Marcaci\u00f3n";
     t[254] = "Create Card";
@@ -454,6 +466,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1009] = "Cerrar Periodo";
     t[1012] = "Authorize Payment";
     t[1013] = "Autorizar Pago";
+    t[1014] = "Entra 1";
+    t[1015] = "Entrada 1";
     t[1016] = "Choose Date";
     t[1017] = "Seleccionar Fecha";
     t[1024] = "One or more pallets has not been pull, please verify!";
@@ -1764,6 +1778,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3973] = "\u00a1El recibo de este documento ha iniciado, por favor verifique!";
     t[3976] = "There is not such process!";
     t[3977] = "No existe tal proceso!";
+    t[3978] = "The SID must exists in location";
+    t[3979] = "El SID debe existir en la ubicaci\u00f3n";
     t[3980] = "Database super user name";
     t[3981] = "Super usuario de base de datos";
     t[3982] = "Specify responsible for production line [@0]";
@@ -1844,6 +1860,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4127] = "Puede administrar varias cuentas al mismo tiempo, permitiendo que cada cuenta vea sus propios veh\u00edculos con una interfaz muy sencilla";
     t[4128] = "If you have trouble with your network or simply need a new network we design it, with emphasis on the performance and aesthetics";
     t[4129] = "Si tiene problemas con su red o simplemente necesita una nueva nosotros la dise\u00f1amos, con \u00e9nfasis en la est\u00e9tica y el desempe\u00f1o";
+    t[4142] = "Movements";
+    t[4143] = "Movimientos";
     t[4148] = "Validate which is the maximum FG production.";
     t[4149] = "Validar la producci\u00f3n m\u00e1xima de un PT.";
     t[4150] = "Queries management, add, update or delete.";
@@ -1860,6 +1878,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4177] = "Autorizar";
     t[4178] = "The counting SKU and SKU confirmation must be equals";
     t[4179] = "El SKU a contar y el confirmado deben de ser iguales";
+    t[4180] = "Salida Det Id";
+    t[4181] = "Id de detalle de salida";
     t[4182] = "Provider Type";
     t[4183] = "Proveedor Tipo";
     t[4184] = "Driver licences management.";
@@ -1874,6 +1894,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4199] = "Segundo Conteo";
     t[4202] = "A new stock record could not be created, please verify!";
     t[4203] = "\u00a1No pudo ser creado un nuevo registro de inventario, por favor verifique!";
+    t[4210] = "Packing Information";
+    t[4211] = "Informaci\u00f3n de empaque";
     t[4212] = "Production Order";
     t[4213] = "Orden de Producci\u00f3n";
     t[4214] = "WMS System";
@@ -1928,6 +1950,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4327] = new java.lang.String[] { "Promoci\u00f3n", "Promociones" };
     t[4330] = "You must specify a staying area!";
     t[4331] = "\u00a1Debe de especificar un \u00e1rea de estad\u00eda!";
+    t[4332] = "SID Information";
+    t[4333] = "Informaci\u00f3n del SID";
     t[4334] = "Professional Help Desk";
     t[4335] = "Soporte Corporativo";
     t[4342] = "Kind of deduction SAT's catalog management.";
@@ -1978,6 +2002,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4457] = "R\u00e9gimen Fiscal";
     t[4458] = "Thanks for your preference";
     t[4459] = "Gracias por su Preferencia";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4460] = "Second Lot";
     t[4461] = "Segundo Lote";
     t[4468] = "Cancel Counting";
@@ -2002,8 +2028,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4509] = "\u00bfEst\u00e1 por importar un documento de entrada, est\u00e1 seguro?";
     t[4520] = "Destination Due Date";
     t[4521] = "Caducidad Destino";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4522] = "File Columns";
     t[4523] = "Columnas de Archivo";
     t[4524] = "The stock id could not be found, please verify!";
@@ -2122,6 +2146,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4769] = "N\u00famero de Identificaci\u00f3n de Usuario";
     t[4780] = "Capture the provider";
     t[4781] = "Capture el proveedor";
+    t[4784] = "Inbound OP";
+    t[4785] = "Entrada OP";
     t[4788] = "Original Component";
     t[4789] = "Componente Original";
     t[4790] = "Remember me";
@@ -2718,6 +2744,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6133] = "Agregar Submen\u00fa";
     t[6136] = "File to import";
     t[6137] = "Archivo a importar";
+    t[6138] = "Counted Quantity";
+    t[6139] = "Cantidad contada";
     t[6140] = "Corridor Filter";
     t[6141] = "Filtro de Pasillo";
     t[6144] = "Kind of agreement SAT";
@@ -2872,6 +2900,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6475] = "\u00a1Para terminar conteo debe de especificar la ubicaci\u00f3n!";
     t[6476] = "The unit measure in which product is sold.";
     t[6477] = "La unidad de medida en la que el producto se vende.";
+    t[6484] = "SID";
+    t[6485] = "SID";
     t[6486] = "Create a new picking";
     t[6487] = "Crear un nuevo surtido";
     t[6498] = "The presentation is automatic, please verify!";
@@ -3152,6 +3182,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7125] = "C\u00f3digo SKU";
     t[7126] = "Customer email";
     t[7127] = "Correo Electr\u00f3nico del Cliente";
+    t[7130] = "Location Information";
+    t[7131] = "Informaci\u00f3n de ubicaci\u00f3n";
     t[7132] = "You must specify refill order!";
     t[7133] = "\u00a1Debe de especificar una orden de reabasto!";
     t[7134] = "Kind of other payments SAT's catalog management.";
@@ -3388,6 +3420,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7703] = "\u00a1El cambio no est\u00e1 habilitado para este campo, por favor verifique!";
     t[7708] = "Event Id";
     t[7709] = "Evento Id";
+    t[7714] = "Transfer Quantity";
+    t[7715] = "Cantidad a transferir";
     t[7724] = "Friday";
     t[7725] = "Viernes";
     t[7726] = "The document id already exist, please verify! - line(@0)";
@@ -3542,6 +3576,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8069] = "Sab";
     t[8074] = "This text will be translated";
     t[8075] = "Esto ser\u00e1 traducido";
+    t[8076] = "Serial Numbers";
+    t[8077] = "N\u00fameros de serie";
     t[8078] = "Manage of Payroll receipts.";
     t[8079] = "Gesti\u00f3n de recibos de n\u00f3mina.";
     t[8084] = "Pick and distribute documents automatically";
@@ -3714,6 +3750,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8467] = "El detalle del documento consolidado no puede ser actualizado, \u00a1por favor verifique!";
     t[8472] = "Open Cash Register";
     t[8473] = "Abrir Caja Registradora";
+    t[8474] = "Dummy 1";
+    t[8475] = "Auxiliar 1";
     t[8478] = "Location State";
     t[8479] = "Ubicaci\u00f3n Estado";
     t[8480] = "Total Quantities";
@@ -3928,6 +3966,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9013] = "Enviar a Auditoria";
     t[9014] = "Configure Cyclic";
     t[9015] = "Configurar C\u00edclicos";
+    t[9018] = "Extra 0";
+    t[9019] = "Extra 0";
+    t[9026] = "Extra 2";
+    t[9027] = "Extra 2";
     t[9030] = "Cash Register Id";
     t[9031] = "Id de Caja Registradora";
     t[9040] = "Due Date is required and must be valid, please verify! - line(@0)";
@@ -3962,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9123] = "\u00a1No se ha definido un tipo de proceso por defecto, por favor verifique!";
     t[9126] = "Bank Movement";
     t[9127] = new java.lang.String[] { "Movimiento Bancario", "Movimientos Bancarios" };
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[9130] = "You don't specify the records to confirm, please verify!";
     t[9131] = "No especific\u00f3 los registros a confirmar, \u00a1por favor verifique!";
     t[9132] = "The due date is not valid, please verify!";
@@ -4004,8 +4048,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9233] = "La serie(@0) ya se encuentra en otro documento(@1), \u00a1por favor verifique!";
     t[9246] = "The counting kind could not be found, please verify!";
     t[9247] = "No se encontr\u00f3 el tipo de conteo, \u00a1por favor verifique!";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[9248] = "Electronic Email(s)";
     t[9249] = "Correo(s) Electr\u00f3nico(s)";
     t[9250] = "Please capture your last name";
@@ -4380,6 +4422,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10093] = "La informaci\u00f3n que se lista es incorrecta";
     t[10100] = "The invoice cannot be signed with out a fiscal address, please verify!";
     t[10101] = "La factura no puede ser timbrada sin direcci\u00f3n fiscal, \u00a1por favor verifique!";
+    t[10102] = "Select RFId Packing";
+    t[10103] = "Seleccionar empaque RFId";
     t[10104] = "The SID does not exist, please verify!";
     t[10105] = "\u00a1El SID no existe, por favor verifique!";
     t[10112] = "Add or Modify Discount";
@@ -4414,6 +4458,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10171] = "Por defecto el producto debe de estar clasificado como A, B o C.";
     t[10174] = "Add or Modify Group's Menus";
     t[10175] = "Agregar o Modificar Men\u00fas del Grupo";
+    t[10180] = "Select Packing";
+    t[10181] = "Seleccionar empaque";
     t[10188] = "Asterisk Ultimate";
     t[10189] = "Asterisk Ultimate";
     t[10192] = "Specify location to close! - [@0]";
@@ -4526,6 +4572,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10433] = "Principal";
     t[10438] = "Gross Weight";
     t[10439] = "Peso Bruto";
+    t[10442] = "Skip 2";
+    t[10443] = "Omitir 2";
     t[10448] = "The account payable could no be modified, please verify!";
     t[10449] = "La cuenta por pagar no puede ser modificada, \u00a1por favor verifique! ";
     t[10452] = "Schedule";
@@ -4622,6 +4670,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10671] = "Calcula Costo de PT";
     t[10674] = "You must specify quantity to add";
     t[10675] = "Debe especificar la cantidad a agregar";
+    t[10676] = "Staying Ok";
+    t[10677] = "Permanencia correcta";
     t[10678] = "Fiscal regime as appears in your fiscal constancy (Mexico only).";
     t[10679] = "Regimen fiscal como aparece en su constancia fiscal (solo M\u00e9xico).";
     t[10680] = "Nationalized";
@@ -4824,6 +4874,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11127] = "Hay tarimas que no han sido enviadas al \u00e1rea de estad\u00eda, por favor verifique";
     t[11134] = "Your Session Timeout";
     t[11135] = "Su sesi\u00f3n ha expirado";
+    t[11136] = "The product must exists in location";
+    t[11137] = "El producto debe existir en la ubicaci\u00f3n";
     t[11138] = "Refilled Quantity";
     t[11139] = "Cantidad Reabastecida";
     t[11142] = "If Due Date column exist must be a valid date, please verify! - line(@0)";
@@ -5412,6 +5464,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12541] = "Seguridad";
     t[12542] = "Items @0";
     t[12543] = "Productos @0";
+    t[12546] = "Add Items";
+    t[12547] = "Agregar art\u00edculos";
     t[12548] = "Choose Kind";
     t[12549] = "Seleccionar Tipo";
     t[12550] = "Picking Movements";
@@ -5632,6 +5686,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[13045] = "El campo checa presentaci\u00f3n tiene un estado incorrecto, \u00a1por favor verifique!";
     t[13046] = "My Profile";
     t[13047] = "Mi Perfil";
+    t[13048] = "Entrada Det Id";
+    t[13049] = "Id de detalle de entrada";
     t[13050] = "The list of products to receive is too long: @0";
     t[13051] = "La lista de productos es muy larga: @0";
     t[13052] = "Add";

@@ -173,3 +173,87 @@ msgstr "Next"
 
 msgid "results"
 msgstr "results"
+
+msgid "Add Items"
+msgstr "Add Items"
+
+msgid "Counted Quantity"
+msgstr "Counted Quantity"
+
+msgid "Dummy 1"
+msgstr "Dummy 1"
+
+msgid "Entra 1"
+msgstr "Entra 1"
+
+msgid "Entrada Det Id"
+msgstr "Entrada Det Id"
+
+msgid "Extra 0"
+msgstr "Extra 0"
+
+msgid "Extra 2"
+msgstr "Extra 2"
+
+msgid "Extra 3"
+msgstr "Extra 3"
+
+msgid "Extra 4"
+msgstr "Extra 4"
+
+msgid "Extra 5"
+msgstr "Extra 5"
+
+msgid "Extra 6"
+msgstr "Extra 6"
+
+msgid "Extra 7"
+msgstr "Extra 7"
+
+msgid "Inbound OP"
+msgstr "Inbound OP"
+
+msgid "Location Information"
+msgstr "Location Information"
+
+msgid "Movements"
+msgstr "Movements"
+
+msgid "Packing Information"
+msgstr "Packing Information"
+
+msgid "SID"
+msgstr "SID"
+
+msgid "SID Information"
+msgstr "SID Information"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Salida Det Id"
+msgstr "Salida Det Id"
+
+msgid "Select Packing"
+msgstr "Select Packing"
+
+msgid "Select RFId Packing"
+msgstr "Select RFId Packing"
+
+msgid "Serial Numbers"
+msgstr "Serial Numbers"
+
+msgid "Skip 2"
+msgstr "Skip 2"
+
+msgid "Staying Ok"
+msgstr "Staying Ok"
+
+msgid "Transfer Quantity"
+msgstr "Transfer Quantity"
+
+msgid "The SID must exists in location"
+msgstr "The SID must exists in location"
+
+msgid "The product must exists in location"
+msgstr "The product must exists in location"
