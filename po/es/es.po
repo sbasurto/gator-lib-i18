@@ -9077,6 +9077,21 @@ msgstr "Verificar y continuar"
 msgid "Send another access key"
 msgstr "Enviar otra clave de acceso"
 
+msgid "Approve this access from Gator Mobile."
+msgstr "Autorice este acceso desde Gator Mobile."
+
+msgid "Check authorization"
+msgstr "Comprobar autorización"
+
+msgid "Use another verification method"
+msgstr "Usar otro método de verificación"
+
+msgid "The access request was rejected from Gator Mobile."
+msgstr "La solicitud de acceso fue rechazada desde Gator Mobile."
+
+msgid "Start a new session if this rejection was a mistake."
+msgstr "Inicie una sesión nueva si el rechazo fue un error."
+
 msgid "The request is not valid"
 msgstr "La solicitud no es válida"
 

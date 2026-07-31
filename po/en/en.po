@@ -257,3 +257,18 @@ msgstr "The SID must exists in location"
 
 msgid "The product must exists in location"
 msgstr "The product must exists in location"
+
+msgid "Approve this access from Gator Mobile."
+msgstr "Approve this access from Gator Mobile."
+
+msgid "Check authorization"
+msgstr "Check authorization"
+
+msgid "Use another verification method"
+msgstr "Use another verification method"
+
+msgid "The access request was rejected from Gator Mobile."
+msgstr "The access request was rejected from Gator Mobile."
+
+msgid "Start a new session if this rejection was a mistake."
+msgstr "Start a new session if this rejection was a mistake."

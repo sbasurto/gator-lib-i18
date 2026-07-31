@@ -23,6 +23,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[25] = "Extra 6";
     t[26] = "Extra 7";
     t[27] = "Extra 7";
+    t[32] = "Approve this access from Gator Mobile.";
+    t[33] = "Approve this access from Gator Mobile.";
     t[34] = "The product must exists in location";
     t[35] = "The product must exists in location";
     t[40] = "Salida Det Id";
@@ -31,6 +33,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[43] = "Select RFId Packing";
     t[46] = "Pagination";
     t[47] = "Pagination";
+    t[50] = "Start a new session if this rejection was a mistake.";
+    t[51] = "Start a new session if this rejection was a mistake.";
     t[52] = "SKU";
     t[53] = "SKU";
     t[54] = "Entrada Det Id";
@@ -43,12 +47,16 @@ public class Messages_en extends java.util.ResourceBundle {
     t[73] = "SID";
     t[74] = "Location Information";
     t[75] = "Location Information";
+    t[80] = "Use another verification method";
+    t[81] = "Use another verification method";
     t[84] = "Previous";
     t[85] = "Previous";
     t[86] = "Extra 2";
     t[87] = "Extra 2";
     t[96] = "Entra 1";
     t[97] = "Entra 1";
+    t[102] = "The access request was rejected from Gator Mobile.";
+    t[103] = "The access request was rejected from Gator Mobile.";
     t[110] = "Search and select the account and warehouse you want to use";
     t[111] = "Search and select the account and warehouse you want to use";
     t[112] = "Select Packing";
@@ -59,6 +67,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[121] = "SID Information";
     t[124] = "Packing Information";
     t[125] = "Packing Information";
+    t[128] = "Check authorization";
+    t[129] = "Check authorization";
     t[142] = "Sin Observaciones";
     t[143] = "No Remarks";
     t[144] = "Dummy 1";

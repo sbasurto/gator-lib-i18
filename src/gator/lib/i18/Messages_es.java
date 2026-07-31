@@ -544,6 +544,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1163] = "Proveedor RFC";
     t[1164] = "Consolidate";
     t[1165] = "Consolidar";
+    t[1172] = "Check authorization";
+    t[1173] = "Comprobar autorizaci\u00f3n";
     t[1178] = "Mails management, add, update or delete.";
     t[1179] = "Gesti\u00f3n de correos electr\u00f3nicos, agregar, actualizar o borrar.";
     t[1182] = "Add or Modify Group's Accounts";
@@ -662,6 +664,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1459] = new java.lang.String[] { "Id de Detalle", "Ids de Detalle" };
     t[1466] = "You could have extensions in any country, and have them interconected as if they were in the same building.";
     t[1467] = "Puede tener extensiones en cualquier pa\u00eds y tenerlas interconectadas como si estuvieran en el mismo edificio.";
+    t[1478] = "Approve this access from Gator Mobile.";
+    t[1479] = "Autorice este acceso desde Gator Mobile.";
     t[1484] = "SAT's Custom Patent";
     t[1485] = new java.lang.String[] { "Patente Aduanal SAT", "Patentes Aduanales SAT" };
     t[1486] = "Global outbound documents for all accounts and warehouses report.";
@@ -1490,6 +1494,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3307] = "\u00a1Esta acci\u00f3n debe de ser autorizada por un supervisor!";
     t[3314] = "Merchandise";
     t[3315] = "Mercanc\u00eda";
+    t[3318] = "The access request was rejected from Gator Mobile.";
+    t[3319] = "La solicitud de acceso fue rechazada desde Gator Mobile.";
     t[3320] = "The movement's balance could not be modified, please verify!";
     t[3321] = "No se modific\u00f3 el saldo del movimiento, \u00a1por favor verifique!";
     t[3322] = "Bar code Generation";
@@ -1996,14 +2002,14 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4441] = "Archivo Usuarios del Grupo";
     t[4442] = "Location Capacity";
     t[4443] = "Ubicaci\u00f3n Capacidad";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4446] = "Group";
     t[4447] = new java.lang.String[] { "Grupo", "Grupos" };
     t[4456] = "Fiscal Regimen";
     t[4457] = "R\u00e9gimen Fiscal";
     t[4458] = "Thanks for your preference";
     t[4459] = "Gracias por su Preferencia";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4460] = "Second Lot";
     t[4461] = "Segundo Lote";
     t[4468] = "Cancel Counting";
@@ -3998,14 +4004,14 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9109] = "\u00bfCu\u00e1ntos tipos desea agregar?";
     t[9114] = "Do production picking process.";
     t[9115] = "Realizar el surtido de producci\u00f3n.";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[9116] = "How many bank accounts want to add?";
     t[9117] = "\u00bfCu\u00e1ntas cuentas bancarias desea agregar?";
     t[9122] = "There is not a default process kind defined, please verify!";
     t[9123] = "\u00a1No se ha definido un tipo de proceso por defecto, por favor verifique!";
     t[9126] = "Bank Movement";
     t[9127] = new java.lang.String[] { "Movimiento Bancario", "Movimientos Bancarios" };
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[9130] = "You don't specify the records to confirm, please verify!";
     t[9131] = "No especific\u00f3 los registros a confirmar, \u00a1por favor verifique!";
     t[9132] = "The due date is not valid, please verify!";
@@ -4732,6 +4738,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10783] = "Cotizaci\u00f3n Id";
     t[10784] = "Reference";
     t[10785] = new java.lang.String[] { "Referencia", "Referencias" };
+    t[10790] = "Use another verification method";
+    t[10791] = "Usar otro m\u00e9todo de verificaci\u00f3n";
     t[10794] = "How many details do you want to add?";
     t[10795] = "\u00bfCu\u00e1ntos detalles desea agregar?";
     t[10802] = "Acknowledge No";
@@ -5568,6 +5576,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12769] = "Cerrar e Imprimir";
     t[12772] = "GNU/Linux Training";
     t[12773] = "Cursos GNU/Linux";
+    t[12774] = "Start a new session if this rejection was a mistake.";
+    t[12775] = "Inicie una sesi\u00f3n nueva si el rechazo fue un error.";
     t[12776] = "Finish Refill";
     t[12777] = "Terminar Reabasto";
     t[12778] = "The product is in transit";
