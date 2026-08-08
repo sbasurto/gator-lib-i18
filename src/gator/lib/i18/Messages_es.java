@@ -236,8 +236,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[491] = new java.lang.String[] { "Certificado", "Certificados" };
     t[496] = "Payment Id";
     t[497] = "Id de Pago";
-    t[502] = "Production Information";
-    t[503] = "Informaci\u00f3n de Producci\u00f3n";
+    t[502] = "Y Position Filter";
+    t[503] = "Filtro de Posici\u00f3n Y";
     t[506] = "System Administrator Group";
     t[507] = "Grupo del Administrador del Sistema";
     t[510] = "Custom Date";
@@ -320,6 +320,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[655] = "Procesamiento multi-archivos";
     t[658] = "This import will affect stock directly, do you want to continue?";
     t[659] = "Esta importaci\u00f3n afectar\u00e1 inventario directamente, \u00bfdesea continuar?";
+    t[662] = "X Position Filter";
+    t[663] = "Filtro de Posici\u00f3n X";
     t[676] = "Document Ok";
     t[677] = "Documento Ok";
     t[680] = "Location Max Weight";
@@ -638,6 +640,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1393] = "Enviar orden de compra";
     t[1398] = "Destination Lot";
     t[1399] = "Lote Destino";
+    t[1408] = "Location ID Filter";
+    t[1409] = "Filtro de Id de Ubicaci\u00f3n";
     t[1412] = "Location Ok";
     t[1413] = "Ubicaci\u00f3n Ok";
     t[1414] = "Enter new password";
@@ -1998,12 +2002,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4429] = "Contrase\u00f1a del Usuario Administrador";
     t[4432] = "One or more serial number comes empty, please verify!";
     t[4433] = "Uno o m\u00e1s n\u00fameros de serie vienen vacios, \u00a1por favor verifique!";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4440] = "File Group Users";
     t[4441] = "Archivo Usuarios del Grupo";
     t[4442] = "Location Capacity";
     t[4443] = "Ubicaci\u00f3n Capacidad";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4446] = "Group";
     t[4447] = new java.lang.String[] { "Grupo", "Grupos" };
     t[4456] = "Fiscal Regimen";
@@ -3572,6 +3576,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8047] = "Mostrar reporte de surtido";
     t[8052] = "The target location exceeds the maximum number of SKU codes, please verify!";
     t[8053] = "\u00a1La ubicaci\u00f3n destino excede el n\u00famero m\u00e1ximo de c\u00f3digos SKU, por favor verifique!";
+    t[8056] = "Export Markdown";
+    t[8057] = "Exportar Markdown";
     t[8058] = "The specified location name already exists, please verify! - line(@0)";
     t[8059] = "El nombre para la ubicaci\u00f3n ya existe, \u00a1por favor verifique! - l\u00ednea(@0)";
     t[8060] = "The product does not exist in this distribution tag, please verify";
@@ -3740,6 +3746,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8441] = "M\u00f3dulos Inteligentes";
     t[8442] = "Pay with more than one Card";
     t[8443] = "Pagar con m\u00e1s de una Tarjeta";
+    t[8444] = "Production Information";
+    t[8445] = "Informaci\u00f3n de Producci\u00f3n";
     t[8446] = "Undefined error";
     t[8447] = "Error no definido";
     t[8450] = "Submenu Kind";
@@ -3810,6 +3818,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8631] = "El impuesto no est\u00e1 definido, \u00a1por favor verifique!";
     t[8632] = "Choose Group";
     t[8633] = "Seleccionar Grupo";
+    t[8638] = "Filters";
+    t[8639] = "Filtros";
     t[8644] = "The cash entered amount is wrong, please verify!";
     t[8645] = "La cantidad ingresada en efectivo es incorrecta, \u00a1por favor verifique!";
     t[8652] = "Describe product thoroughly.";
@@ -3994,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9063] = "Contrase\u00f1a de s\u00faper usuario ";
     t[9066] = "Files management, add, update or delete.";
     t[9067] = "Gesti\u00f3n de archivos, agregar, actualizar o borrar.";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[9078] = "Quotation";
     t[9079] = new java.lang.String[] { "Cotizaci\u00f3n", "Cotizaciones" };
     t[9088] = "Where de event will take place, eg. office";
@@ -4004,8 +4016,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9109] = "\u00bfCu\u00e1ntos tipos desea agregar?";
     t[9114] = "Do production picking process.";
     t[9115] = "Realizar el surtido de producci\u00f3n.";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[9116] = "How many bank accounts want to add?";
     t[9117] = "\u00bfCu\u00e1ntas cuentas bancarias desea agregar?";
     t[9122] = "There is not a default process kind defined, please verify!";
@@ -4784,6 +4794,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10895] = "Instalamos, configuramos y le ense\u00f1amos a utilizar la base de datos mysql";
     t[10896] = "Bar Code";
     t[10897] = "C\u00f3digo de Barras";
+    t[10898] = "Side Filter";
+    t[10899] = "Filtro de Lado";
     t[10904] = "Choose Bank Account";
     t[10905] = "Seleccionar Cuenta Bancaria";
     t[10906] = "Do the audit of a document.";
@@ -5388,8 +5400,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12319] = "Es un sistema de rastreo GPS para varios dispositivos, le permite rastrear sus veh\u00edculos, mercanc\u00edas, etc., en tiempo real. Soporta la mayor parte de protocolos de comunicaci\u00f3n de proveedores conocidos";
     t[12322] = "Driver Licence";
     t[12323] = new java.lang.String[] { "Licencia de Conducir", "Licencias de Conducir" };
-    t[12330] = "Unique identifier for tax payments in your country.";
-    t[12331] = "Identificador \u00fanico para pago de impuestos en su pa\u00eds.";
+    t[12330] = "Import Markdown";
+    t[12331] = "Importar Markdown";
     t[12334] = "Stock in Outbound Process";
     t[12335] = "Inventario en Proceso de Salida";
     t[12336] = "Change";
@@ -5656,6 +5668,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12951] = "El identificador confirmado debe ser igual al asignado, \u00a1por favor verifique!";
     t[12954] = "Pull to Arrange";
     t[12955] = "Acomodo";
+    t[12968] = "Unique identifier for tax payments in your country.";
+    t[12969] = "Identificador \u00fanico para pago de impuestos en su pa\u00eds.";
     t[12970] = "Plate";
     t[12971] = new java.lang.String[] { "Placa", "Placas" };
     t[12974] = "Cyclic";

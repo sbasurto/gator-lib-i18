@@ -5013,6 +5013,21 @@ msgstr "Por favor proceda a pagar la diferencia de @0"
 msgid "Sector Filter"
 msgstr "Filtro de Sector"
 
+msgid "Filters"
+msgstr "Filtros"
+
+msgid "Side Filter"
+msgstr "Filtro de Lado"
+
+msgid "Location ID Filter"
+msgstr "Filtro de Id de Ubicación"
+
+msgid "X Position Filter"
+msgstr "Filtro de Posición X"
+
+msgid "Y Position Filter"
+msgstr "Filtro de Posición Y"
+
 msgid "Corridor Filter"
 msgstr "Filtro de Pasillo"
 
@@ -5593,6 +5608,12 @@ msgstr "¿Cuántos valores desea agregar?"
 
 msgid "Generate Content"
 msgstr "Generar Contenido"
+
+msgid "Import Markdown"
+msgstr "Importar Markdown"
+
+msgid "Export Markdown"
+msgstr "Exportar Markdown"
 
 msgid "Your name"
 msgstr "Su nombre"
