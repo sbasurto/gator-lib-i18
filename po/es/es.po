@@ -8860,6 +8860,12 @@ msgstr "Cerrar e Imprimir"
 msgid "Reset Counting"
 msgstr "Reiniciar Conteo"
 
+msgid "Reset Location"
+msgstr "Reiniciar ubicación"
+
+msgid "Undo last movement"
+msgstr "Deshacer último movimiento"
+
 msgid "External routine raise an exception @0, please verify!"
 msgstr "Una rutina externa generó una excepción @0, ¡por favor verifique!"
 
@@ -9373,3 +9379,21 @@ msgstr "Merma (kg)"
 
 msgid "Weight sent to production (kg)"
 msgstr "Peso enviado a producción (kg)"
+
+msgid "Scan or enter order"
+msgstr "Escanee o escriba la orden"
+
+msgid "Scan fabric"
+msgstr "Escanee la tela"
+
+msgid "Scan location"
+msgstr "Escanee la ubicación"
+
+msgid "New fabric"
+msgstr "Nueva tela"
+
+msgid "Save and print"
+msgstr "Guardar e imprimir"
+
+msgid "Reprint label"
+msgstr "Reimprimir etiqueta"

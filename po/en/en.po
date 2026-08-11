@@ -407,3 +407,30 @@ msgstr "Waste (kg)"
 
 msgid "Weight sent to production (kg)"
 msgstr "Weight sent to production (kg)"
+
+msgid "Auto filled"
+msgstr "Auto filled"
+
+msgid "Scan or enter order"
+msgstr "Scan or enter order"
+
+msgid "Scan fabric"
+msgstr "Scan fabric"
+
+msgid "Scan location"
+msgstr "Scan location"
+
+msgid "Choose"
+msgstr "Choose"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "New fabric"
+msgstr "New fabric"
+
+msgid "Save and print"
+msgstr "Save and print"
+
+msgid "Reprint label"
+msgstr "Reprint label"

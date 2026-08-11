@@ -17,6 +17,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[27] = "Salida Det Id";
     t[30] = "Initial weight (kg)";
     t[31] = "Initial weight (kg)";
+    t[36] = "Reprint label";
+    t[37] = "Reprint label";
     t[40] = "Fabric Roll Control";
     t[41] = "Fabric Roll Control";
     t[42] = "Cancel cut order";
@@ -45,6 +47,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[81] = "The product must exists in location";
     t[86] = "Use another verification method";
     t[87] = "Use another verification method";
+    t[94] = "Scan fabric";
+    t[95] = "Scan fabric";
     t[108] = "Start a new session if this rejection was a mistake.";
     t[109] = "Start a new session if this rejection was a mistake.";
     t[110] = "Scrap 1 name";
@@ -53,6 +57,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[115] = "Scrap 4 name";
     t[120] = "Ent por Defecto";
     t[121] = "Default Inbound";
+    t[124] = "Save";
+    t[125] = "Save";
     t[132] = "Extra 0";
     t[133] = "Extra 0";
     t[136] = "Extra 2";
@@ -87,6 +93,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[195] = "Skip 2";
     t[198] = "Purchase order / Inbound";
     t[199] = "Purchase order / Inbound";
+    t[204] = "Scan or enter order";
+    t[205] = "Scan or enter order";
     t[206] = "SID";
     t[207] = "SID";
     t[208] = "The access request was rejected from Gator Mobile.";
@@ -123,6 +131,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[263] = "CONFIRMED";
     t[264] = "Check authorization";
     t[265] = "Check authorization";
+    t[266] = "Choose";
+    t[267] = "Choose";
     t[268] = "Entra 1";
     t[269] = "Entra 1";
     t[274] = "Receive and print";
@@ -145,10 +155,14 @@ public class Messages_en extends java.util.ResourceBundle {
     t[309] = "Fabric SKU";
     t[318] = "Transfer Quantity";
     t[319] = "Transfer Quantity";
+    t[322] = "Scan location";
+    t[323] = "Scan location";
     t[326] = "Scrap 4 weight (kg)";
     t[327] = "Scrap 4 weight (kg)";
     t[328] = "Counted Quantity";
     t[329] = "Counted Quantity";
+    t[330] = "New fabric";
+    t[331] = "New fabric";
     t[334] = "Cut order";
     t[335] = "Cut order";
     t[342] = "Scrap 6 name";
@@ -167,12 +181,16 @@ public class Messages_en extends java.util.ResourceBundle {
     t[365] = "SKU";
     t[366] = "INGRESADO";
     t[367] = "CAPTURED";
+    t[374] = "Auto filled";
+    t[375] = "Auto filled";
     t[376] = "results";
     t[377] = "results";
     t[378] = "Fabric Cut Orders";
     t[379] = "Fabric Cut Orders";
     t[384] = "Movements";
     t[385] = "Movements";
+    t[386] = "Save and print";
+    t[387] = "Save and print";
     t[398] = "Current weight (kg)";
     t[399] = "Current weight (kg)";
     t[406] = "Scrap 2 name";

@@ -1370,6 +1370,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2991] = "El SKU a contar debe existir para conteo c\u00edclico, \u00a1por favor verifique!";
     t[2992] = "Importing Purchase Orders";
     t[2993] = "Importando Ordenes de Compra";
+    t[3004] = "Undo last movement";
+    t[3005] = "Deshacer \u00faltimo movimiento";
     t[3006] = "There is not such process, please verify!";
     t[3007] = "No existe tal proceso, \u00a1por favor verifique!";
     t[3010] = "Process Id";
@@ -1690,6 +1692,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3699] = "N\u00famero telef\u00f3nico destino";
     t[3704] = "Scrap 2 weight (kg)";
     t[3705] = "Peso del retazo 2 (kg)";
+    t[3706] = "Save and print";
+    t[3707] = "Guardar e imprimir";
     t[3716] = "The server could not verify that you are authorized to access the document requested.";
     t[3717] = "El servidor no pudo verificar que usted est\u00e1 autorizado para acceder el documento solicitado.";
     t[3720] = "Opening Date";
@@ -1998,12 +2002,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4355] = "El pasillo debe de contener informaci\u00f3n, \u00a1por favor verifique! - l\u00ednea(@0)";
     t[4356] = "How many configuration want to add?";
     t[4357] = "\u00bfCu\u00e1ntas configuraciones desea agregar?";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4358] = "Give Approval";
     t[4359] = "Dar VoBo";
     t[4362] = "The inbound document state could not be updated, please verify!";
     t[4363] = "\u00a1El estado del documento de entrada no pudo ser actualizado, por favor verifique!";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4376] = "Submenu";
     t[4377] = new java.lang.String[] { "Submen\u00fa", "Submen\u00fas" };
     t[4378] = "Print";
@@ -2178,6 +2182,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4735] = "Ingl\u00e9s";
     t[4744] = "Payment frequency SAT's catalog management.";
     t[4745] = "Administraci\u00f3n de cat\u00e1logo de periodicidad de pagos SAT.";
+    t[4752] = "Reprint label";
+    t[4753] = "Reimprimir etiqueta";
     t[4764] = "You can invoice from the software with no additional cost, and comply with mexican laws";
     t[4765] = "Usted puede facturar desde el software sin costos adicionales, y cumplir con las leyes mexicanas";
     t[4766] = "Enter your name as appears in your official documents, starting with name and then middle and last name.";
@@ -2204,6 +2210,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4815] = new java.lang.String[] { "Mostrador", "Mostradores" };
     t[4816] = "Read quantity: @0";
     t[4817] = "Cantidad le\u00edda: @0";
+    t[4818] = "Scan fabric";
+    t[4819] = "Escanee la tela";
     t[4822] = "Additional Production Order";
     t[4823] = "Orden de Producci\u00f3n Adicional";
     t[4824] = "Enter tax deposit permit";
@@ -3944,6 +3952,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8793] = new java.lang.String[] { "Forma de Pago SAT", "Formas de Pago SAT" };
     t[8800] = "Do you want to print label?";
     t[8801] = "\u00bfDesea imprimir etiqueta?";
+    t[8808] = "Scan or enter order";
+    t[8809] = "Escanee o escriba la orden";
     t[8810] = "Electronic capacity letter management.";
     t[8811] = "Gesti\u00f3n electr\u00f3nica de cartas cupo.";
     t[8814] = "Cyclical Inventory";
@@ -3994,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8921] = "\u00a1No hay suficiente inventario, por favor verifique!";
     t[8922] = "You must specify the counting document!";
     t[8923] = "\u00a1Debe de especificar el documento de conteo!";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[8926] = "Add or Modify Area's Users";
     t[8927] = "Agregar o Modificar Usuarios del \u00c1rea";
     t[8932] = "The stock quantity could not be updated, please verify!";
@@ -4004,8 +4016,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8937] = "Ingrese el c\u00f3digo que recibi\u00f3 en su tel\u00e9fono celular.";
     t[8938] = "Have a question?";
     t[8939] = "\u00bfTiene una pregunta?";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[8940] = "City";
     t[8941] = new java.lang.String[] { "Ciudad", "Ciudades" };
     t[8942] = "The model and model confirmation must be equals";
@@ -5066,6 +5076,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11377] = "Ver los detalles de documentos de entrada.";
     t[11380] = "Pieces by Box";
     t[11381] = "Piezas por Caja";
+    t[11382] = "Reset Location";
+    t[11383] = "Reiniciar ubicaci\u00f3n";
     t[11390] = "How many offers want to add?";
     t[11391] = "\u00bfCu\u00e1ntas ofertas desea agregar?";
     t[11394] = "Actions to do like adjustments, transfers, etc.";
@@ -5212,6 +5224,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11689] = "No se puede borrar la asignaci\u00f3n del producto, \u00a1por favor verifique!";
     t[11692] = "How many accounts want to add?";
     t[11693] = "\u00bfCu\u00e1ntas cuentas desea agregar?";
+    t[11696] = "Scan location";
+    t[11697] = "Escanee la ubicaci\u00f3n";
     t[11698] = "Trigger Flag";
     t[11699] = "Bandera de Disparo";
     t[11702] = "Origin Due Date";
@@ -5524,6 +5538,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12451] = "Un campo no contiene valor y debe tenerlo (violaci\u00f3n valor no nulo).";
     t[12452] = "Do transfer process.";
     t[12453] = "Realizar traspasos.";
+    t[12456] = "New fabric";
+    t[12457] = "Nueva tela";
     t[12460] = "Inbound Scan Query";
     t[12461] = new java.lang.String[] { "Escaneo de Entrada", "Escaneo de Entradas" };
     t[12470] = "Board";
