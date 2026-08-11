@@ -272,3 +272,138 @@ msgstr "The access request was rejected from Gator Mobile."
 
 msgid "Start a new session if this rejection was a mistake."
 msgstr "Start a new session if this rejection was a mistake."
+
+msgid "Cancel cut order"
+msgstr "Cancel cut order"
+
+msgid "Close cut and print"
+msgstr "Close cut and print"
+
+msgid "Create cut order"
+msgstr "Create cut order"
+
+msgid "Current location"
+msgstr "Current location"
+
+msgid "Current weight (kg)"
+msgstr "Current weight (kg)"
+
+msgid "Cut order"
+msgstr "Cut order"
+
+msgid "Cut outbound weight (kg)"
+msgstr "Cut outbound weight (kg)"
+
+msgid "Cut status"
+msgstr "Cut status"
+
+msgid "Destination location"
+msgstr "Destination location"
+
+msgid "Difference (kg)"
+msgstr "Difference (kg)"
+
+msgid "Fabric"
+msgstr "Fabric"
+
+msgid "Fabric Cut Order"
+msgstr "Fabric Cut Order"
+
+msgid "Fabric Cut Orders"
+msgstr "Fabric Cut Orders"
+
+msgid "Fabric Roll"
+msgstr "Fabric Roll"
+
+msgid "Fabric Roll Control"
+msgstr "Fabric Roll Control"
+
+msgid "Fabric Rolls"
+msgstr "Fabric Rolls"
+
+msgid "Fabric SKU"
+msgstr "Fabric SKU"
+
+msgid "Initial weight (kg)"
+msgstr "Initial weight (kg)"
+
+msgid "Print label"
+msgstr "Print label"
+
+msgid "Provider"
+msgstr "Provider"
+
+msgid "Purchase order / Inbound"
+msgstr "Purchase order / Inbound"
+
+msgid "Put away"
+msgstr "Put away"
+
+msgid "Receive and print"
+msgstr "Receive and print"
+
+msgid "Receive roll"
+msgstr "Receive roll"
+
+msgid "Remaining roll (kg)"
+msgstr "Remaining roll (kg)"
+
+msgid "Roll Id"
+msgstr "Roll Id"
+
+msgid "Scale"
+msgstr "Scale"
+
+msgid "Scrap 1 name"
+msgstr "Scrap 1 name"
+
+msgid "Scrap 1 weight (kg)"
+msgstr "Scrap 1 weight (kg)"
+
+msgid "Scrap 2 name"
+msgstr "Scrap 2 name"
+
+msgid "Scrap 2 weight (kg)"
+msgstr "Scrap 2 weight (kg)"
+
+msgid "Scrap 3 name"
+msgstr "Scrap 3 name"
+
+msgid "Scrap 3 weight (kg)"
+msgstr "Scrap 3 weight (kg)"
+
+msgid "Scrap 4 name"
+msgstr "Scrap 4 name"
+
+msgid "Scrap 4 weight (kg)"
+msgstr "Scrap 4 weight (kg)"
+
+msgid "Scrap 5 name"
+msgstr "Scrap 5 name"
+
+msgid "Scrap 5 weight (kg)"
+msgstr "Scrap 5 weight (kg)"
+
+msgid "Scrap 6 name"
+msgstr "Scrap 6 name"
+
+msgid "Scrap 6 weight (kg)"
+msgstr "Scrap 6 weight (kg)"
+
+msgid "Send to cutting"
+msgstr "Send to cutting"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Tolerance (kg)"
+msgstr "Tolerance (kg)"
+
+msgid "Waste (kg)"
+msgstr "Waste (kg)"
+
+msgid "Weight sent to production (kg)"
+msgstr "Weight sent to production (kg)"

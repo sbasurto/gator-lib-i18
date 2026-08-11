@@ -9253,3 +9253,123 @@ msgstr "El SID debe existir en la ubicación"
 
 msgid "The product must exists in location"
 msgstr "El producto debe existir en la ubicación"
+
+msgid "Cancel cut order"
+msgstr "Cancelar orden de corte"
+
+msgid "Close cut and print"
+msgstr "Cerrar corte e imprimir"
+
+msgid "Create cut order"
+msgstr "Crear orden de corte"
+
+msgid "Current location"
+msgstr "Ubicación actual"
+
+msgid "Current weight (kg)"
+msgstr "Peso actual (kg)"
+
+msgid "Cut order"
+msgstr "Orden de corte"
+
+msgid "Cut outbound weight (kg)"
+msgstr "Peso de salida a corte (kg)"
+
+msgid "Cut status"
+msgstr "Estado del corte"
+
+msgid "Destination location"
+msgstr "Ubicación destino"
+
+msgid "Difference (kg)"
+msgstr "Diferencia (kg)"
+
+msgid "Fabric"
+msgstr "Tela"
+
+msgid "Fabric Cut Order"
+msgstr "Orden de corte de tela"
+
+msgid "Fabric Cut Orders"
+msgstr "Órdenes de corte de tela"
+
+msgid "Fabric Roll"
+msgstr "Rollo de tela"
+
+msgid "Fabric Roll Control"
+msgstr "Control de rollos de tela"
+
+msgid "Fabric Rolls"
+msgstr "Rollos de tela"
+
+msgid "Fabric SKU"
+msgstr "SKU de tela"
+
+msgid "Initial weight (kg)"
+msgstr "Peso inicial (kg)"
+
+msgid "Print label"
+msgstr "Imprimir etiqueta"
+
+msgid "Purchase order / Inbound"
+msgstr "Orden de compra / Entrada"
+
+msgid "Receive and print"
+msgstr "Recibir e imprimir"
+
+msgid "Receive roll"
+msgstr "Recibir rollo"
+
+msgid "Remaining roll (kg)"
+msgstr "Peso del rollo restante (kg)"
+
+msgid "Roll Id"
+msgstr "Id del rollo"
+
+msgid "Scrap 1 name"
+msgstr "Nombre del retazo 1"
+
+msgid "Scrap 1 weight (kg)"
+msgstr "Peso del retazo 1 (kg)"
+
+msgid "Scrap 2 name"
+msgstr "Nombre del retazo 2"
+
+msgid "Scrap 2 weight (kg)"
+msgstr "Peso del retazo 2 (kg)"
+
+msgid "Scrap 3 name"
+msgstr "Nombre del retazo 3"
+
+msgid "Scrap 3 weight (kg)"
+msgstr "Peso del retazo 3 (kg)"
+
+msgid "Scrap 4 name"
+msgstr "Nombre del retazo 4"
+
+msgid "Scrap 4 weight (kg)"
+msgstr "Peso del retazo 4 (kg)"
+
+msgid "Scrap 5 name"
+msgstr "Nombre del retazo 5"
+
+msgid "Scrap 5 weight (kg)"
+msgstr "Peso del retazo 5 (kg)"
+
+msgid "Scrap 6 name"
+msgstr "Nombre del retazo 6"
+
+msgid "Scrap 6 weight (kg)"
+msgstr "Peso del retazo 6 (kg)"
+
+msgid "Send to cutting"
+msgstr "Enviar a corte"
+
+msgid "Tolerance (kg)"
+msgstr "Tolerancia (kg)"
+
+msgid "Waste (kg)"
+msgstr "Merma (kg)"
+
+msgid "Weight sent to production (kg)"
+msgstr "Peso enviado a producción (kg)"
