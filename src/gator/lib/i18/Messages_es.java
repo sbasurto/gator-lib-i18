@@ -1600,6 +1600,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3473] = "Ingrese cantidad, min @0, max @1";
     t[3476] = "Check stock by location with details.";
     t[3477] = "Verificar el inventario por ubicaci\u00f3n.";
+    t[3482] = "Weight of cut pieces (kg)";
+    t[3483] = "Peso de piezas cortadas (kg)";
     t[3486] = "You can see a summarized of all purchase by buyer, and authorize by branch office, by buyer, by order, etc.";
     t[3487] = "Usted puede ver un resumen de todas las compras por proveedor y autorizar por sucursal, por comprador, etc.";
     t[3492] = "Vendor Name";
@@ -2000,10 +2002,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4345] = "Costo de Env\u00edo";
     t[4346] = "Code sent to your mobile phone";
     t[4347] = "C\u00f3digo enviado a su tel\u00e9fono celular";
-    t[4354] = "The corridor could not be empty, please verify! - line(@0)";
-    t[4355] = "El pasillo debe de contener informaci\u00f3n, \u00a1por favor verifique! - l\u00ednea(@0)";
   }
   static void clinit_part_1 (java.lang.Object[] t) {
+    t[4354] = "The corridor could not be empty, please verify! - line(@0)";
+    t[4355] = "El pasillo debe de contener informaci\u00f3n, \u00a1por favor verifique! - l\u00ednea(@0)";
     t[4356] = "How many configuration want to add?";
     t[4357] = "\u00bfCu\u00e1ntas configuraciones desea agregar?";
     t[4358] = "Give Approval";
@@ -3516,8 +3518,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7777] = "Solicitud de Soporte";
     t[7780] = "The receipt of this document has not been started, please verify!";
     t[7781] = "\u00a1El recibo de este documento no ha iniciado, por favor verifique!";
-    t[7782] = "Weight sent to production (kg)";
-    t[7783] = "Peso enviado a producci\u00f3n (kg)";
     t[7784] = "Purchase";
     t[7785] = new java.lang.String[] { "Compra", "Compras" };
     t[7786] = "Add Processes";

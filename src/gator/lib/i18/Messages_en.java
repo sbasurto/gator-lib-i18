@@ -5,8 +5,6 @@ public class Messages_en extends java.util.ResourceBundle {
     java.lang.String[] t = new java.lang.String[466];
     t[0] = "";
     t[1] = "Project-Id-Version: 0.1\nReport-Msgid-Bugs-To: \nPO-Revision-Date: 2012-08-16 12:08+local\nLast-Translator: Sergio Basurto <sbasurto@soft-gator.com>\nLanguage-Team: ENGLISH <services@soft-gator.com>\nLanguage: \nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n";
-    t[6] = "Weight sent to production (kg)";
-    t[7] = "Weight sent to production (kg)";
     t[8] = "Cancel cut order";
     t[9] = "Cancel cut order";
     t[10] = "Difference (kg)";
@@ -51,6 +49,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[103] = "Extra 7";
     t[106] = "SID Information";
     t[107] = "SID Information";
+    t[110] = "Weight of cut pieces (kg)";
+    t[111] = "Weight of cut pieces (kg)";
     t[112] = "Cut outbound weight (kg)";
     t[113] = "Cut outbound weight (kg)";
     t[114] = "Scrap 3 weight (kg)";

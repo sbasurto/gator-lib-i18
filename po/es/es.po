@@ -9377,8 +9377,8 @@ msgstr "Tolerancia (kg)"
 msgid "Waste (kg)"
 msgstr "Merma (kg)"
 
-msgid "Weight sent to production (kg)"
-msgstr "Peso enviado a producción (kg)"
+msgid "Weight of cut pieces (kg)"
+msgstr "Peso de piezas cortadas (kg)"
 
 msgid "Scan or enter order"
 msgstr "Escanee o escriba la orden"
