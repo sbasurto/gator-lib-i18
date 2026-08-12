@@ -434,3 +434,12 @@ msgstr "Save and print"
 
 msgid "Reprint label"
 msgstr "Reprint label"
+
+msgid "Correct receipt"
+msgstr "Correct receipt"
+
+msgid "Void roll"
+msgstr "Void roll"
+
+msgid "Void this fabric roll?"
+msgstr "Void this fabric roll?"

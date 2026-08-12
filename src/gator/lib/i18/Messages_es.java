@@ -1280,6 +1280,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2769] = new java.lang.String[] { "Temporada", "Temporadas" };
     t[2770] = "Technology Enterprise";
     t[2771] = "Empresa de Tecnolog\u00eda";
+    t[2774] = "Correct receipt";
+    t[2775] = "Corregir recepci\u00f3n";
     t[2780] = "Users management, add, update or delete.";
     t[2781] = "Gesti\u00f3n de usuarios, agregar, cambiar o borrar.";
     t[2784] = "Inbound documents migration error, please verify";
@@ -2000,10 +2002,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4347] = "C\u00f3digo enviado a su tel\u00e9fono celular";
     t[4354] = "The corridor could not be empty, please verify! - line(@0)";
     t[4355] = "El pasillo debe de contener informaci\u00f3n, \u00a1por favor verifique! - l\u00ednea(@0)";
-    t[4356] = "How many configuration want to add?";
-    t[4357] = "\u00bfCu\u00e1ntas configuraciones desea agregar?";
   }
   static void clinit_part_1 (java.lang.Object[] t) {
+    t[4356] = "How many configuration want to add?";
+    t[4357] = "\u00bfCu\u00e1ntas configuraciones desea agregar?";
     t[4358] = "Give Approval";
     t[4359] = "Dar VoBo";
     t[4362] = "The inbound document state could not be updated, please verify!";
@@ -2500,6 +2502,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5437] = "Debe seleccionar un valor de la lista @0";
     t[5442] = "Signature";
     t[5443] = new java.lang.String[] { "Firma", "Firmas" };
+    t[5448] = "Void this fabric roll?";
+    t[5449] = "\u00bfAnular este rollo de tela?";
     t[5456] = "Group Kind";
     t[5457] = new java.lang.String[] { "Tipo de Grupo", "Tipos de Grupo" };
     t[5458] = "The file could not be processed, please verify! - file(@0)";
@@ -4000,12 +4004,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8911] = "Confirmar Ubicaci\u00f3n de Acomodo";
     t[8912] = "The destination address does not exist, please verify! - line(@0)";
     t[8913] = "La direcci\u00f3n destino no existe, \u00a1por favor verifique! - l\u00ednea(@0)";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[8920] = "There is not enough inventory, please verify!";
     t[8921] = "\u00a1No hay suficiente inventario, por favor verifique!";
     t[8922] = "You must specify the counting document!";
     t[8923] = "\u00a1Debe de especificar el documento de conteo!";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[8926] = "Add or Modify Area's Users";
     t[8927] = "Agregar o Modificar Usuarios del \u00c1rea";
     t[8932] = "The stock quantity could not be updated, please verify!";
@@ -5258,6 +5262,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11779] = "Seguimiento de Dispositivo";
     t[11782] = "Production Inbound";
     t[11783] = "Entrada por Producci\u00f3n";
+    t[11784] = "Void roll";
+    t[11785] = "Anular rollo";
     t[11786] = "VAT";
     t[11787] = "IVA";
     t[11792] = "Calculate Finish Good Price";

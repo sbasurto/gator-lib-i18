@@ -9397,3 +9397,12 @@ msgstr "Guardar e imprimir"
 
 msgid "Reprint label"
 msgstr "Reimprimir etiqueta"
+
+msgid "Correct receipt"
+msgstr "Corregir recepción"
+
+msgid "Void roll"
+msgstr "Anular rollo"
+
+msgid "Void this fabric roll?"
+msgstr "¿Anular este rollo de tela?"
