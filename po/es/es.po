@@ -9406,3 +9406,378 @@ msgstr "Anular rollo"
 
 msgid "Void this fabric roll?"
 msgstr "¿Anular este rollo de tela?"
+
+msgid "The movement audit could not be registered; the operation was not applied. Please try again."
+msgstr "No fue posible registrar la auditoría del movimiento; la operación no fue aplicada. Intente nuevamente."
+
+msgid "Quantity Difference"
+msgstr "Diferencia de cantidad"
+
+msgid "Rport to show picking SID's"
+msgstr "Reporte para mostrar los SID de surtido."
+
+msgid "Account Movements"
+msgstr "Movimientos en Cuenta"
+
+msgid "Accounts"
+msgstr "Cuentas"
+
+msgid "Addresses"
+msgstr "Direcciones"
+
+msgid "Adjustments"
+msgstr "Ajustes"
+
+msgid "Appointments"
+msgstr "Citas"
+
+msgid "Areas"
+msgstr "Áreas"
+
+msgid "Bank Conciliations"
+msgstr "Conciliaciones Bancarias"
+
+msgid "Banks"
+msgstr "Bancos"
+
+msgid "Boxes"
+msgstr "Cajas"
+
+msgid "Brands"
+msgstr "Marcas"
+
+msgid "CRM"
+msgstr "CRM"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "Columns"
+msgstr "Columnas"
+
+msgid "Conditions"
+msgstr "Condiciones"
+
+msgid "Constants"
+msgstr "Constantes"
+
+msgid "Contacts"
+msgstr "Contactos"
+
+msgid "Corridors"
+msgstr "Pasillos"
+
+msgid "Counts"
+msgstr "Conteos"
+
+msgid "Currencies"
+msgstr "Monedas"
+
+msgid "Customers"
+msgstr "Clientes"
+
+msgid "Cyclic Inventories"
+msgstr "Inventarios Cíclicos"
+
+msgid "DHL Shippings"
+msgstr "Envíos DHL"
+
+msgid "Driver Licenses"
+msgstr "Licencias de Conductor"
+
+msgid "Editorials"
+msgstr "Artículos Editoriales"
+
+msgid "Evidences"
+msgstr "Evidencias"
+
+msgid "Families"
+msgstr "Familias"
+
+msgid "Files"
+msgstr "Archivos"
+
+msgid "Finances"
+msgstr "Finanzas"
+
+msgid "G1"
+msgstr "G1"
+
+msgid "Group Kinds"
+msgstr "Tipos de Grupo"
+
+msgid "Groups"
+msgstr "Grupos"
+
+msgid "Inbounds"
+msgstr "Entradas"
+
+msgid "Inbounds Scan Query"
+msgstr "Consulta de escaneo de entradas"
+
+msgid "Java Script"
+msgstr "JavaScript"
+
+msgid "Kardex"
+msgstr "Kardex"
+
+msgid "Locations"
+msgstr "Ubicaciones"
+
+msgid "Mails"
+msgstr "Correos Electrónicos"
+
+msgid "Massive Downloads"
+msgstr "Descargas Masivas"
+
+msgid "Menus"
+msgstr "Menús"
+
+msgid "Operations"
+msgstr "Operaciones"
+
+msgid "Operations by Users"
+msgstr "Operaciones por Usuario"
+
+msgid "Outbounds"
+msgstr "Salidas"
+
+msgid "Outbounds Scan Query"
+msgstr "Consulta de escaneo de salidas"
+
+msgid "Pools"
+msgstr "Listados"
+
+msgid "Printers"
+msgstr "Impresoras"
+
+msgid "Process Kinds"
+msgstr "Tipos de Proceso"
+
+msgid "Product Stock Summarize"
+msgstr "Existencia Resumida de Producto"
+
+msgid "Product not Picked"
+msgstr "Productos no Surtidos"
+
+msgid "Production Outbounds"
+msgstr "Salidas de Producción"
+
+msgid "Productive processes"
+msgstr "Procesos Productivos"
+
+msgid "Projects"
+msgstr "Proyectos"
+
+msgid "Providers"
+msgstr "Proveedores"
+
+msgid "Purchase Authorization"
+msgstr "Autorización de Compras"
+
+msgid "Purchase Orders"
+msgstr "Órdenes de Compra"
+
+msgid "Purchases"
+msgstr "Compras"
+
+msgid "Queries"
+msgstr "Consultas"
+
+msgid "Quotations"
+msgstr "Cotizaciones"
+
+msgid "Reports"
+msgstr "Reportes"
+
+msgid "Requisitions"
+msgstr "Pedidos"
+
+msgid "Returns"
+msgstr "Devoluciones"
+
+msgid "SAT"
+msgstr "SAT"
+
+msgid "Sales Invoiced"
+msgstr "Ventas Facturadas"
+
+msgid "Screens"
+msgstr "Pantallas"
+
+msgid "Sectors"
+msgstr "Sectores"
+
+msgid "Series"
+msgstr "Series"
+
+msgid "Shipments"
+msgstr "Embarques"
+
+msgid "Show Picking SIDs"
+msgstr "Mostrar Etiquetas de Surtido"
+
+msgid "Stocks"
+msgstr "Inventarios"
+
+msgid "Tables"
+msgstr "Tablas"
+
+msgid "Tasks"
+msgstr "Tareas"
+
+msgid "Transfers"
+msgstr "Traslados"
+
+msgid "Transport Units"
+msgstr "Unidades de Transporte"
+
+msgid "Warehouses"
+msgstr "Bodegas"
+
+msgid "ZZMy Profile"
+msgstr "ZZMi Perfil"
+
+msgid "Accounts payable report."
+msgstr "Reporte de cuentas por pagar."
+
+msgid "Allow to logout and manage user and account information."
+msgstr "Permite cerrar sesión y administrar la información del usuario y la cuenta."
+
+msgid "Allow to manage finance."
+msgstr "Permite administrar finanzas."
+
+msgid "Allows for the authorization of purchases."
+msgstr "Permite autorizar compras."
+
+msgid "Bill of Materials consulting."
+msgstr "Consulta de listas de materiales."
+
+msgid "Cash transactions."
+msgstr "Movimientos de caja."
+
+msgid "Check the existence of the summarized product."
+msgstr "Consulta la existencia resumida del producto."
+
+msgid "Configure cyclic inventory."
+msgstr "Configura inventarios cíclicos."
+
+msgid "Contacts management."
+msgstr "Administración de contactos."
+
+msgid "Corridors management."
+msgstr "Administración de pasillos."
+
+msgid "Counting Report, etc."
+msgstr "Reporte de conteos."
+
+msgid "Customer resources managment."
+msgstr "Administración de recursos de clientes."
+
+msgid "Do packing process by picking label."
+msgstr "Realiza el empaque mediante etiqueta de surtido."
+
+msgid "Do picking process with packing by RFId."
+msgstr "Realiza el surtido con empaque mediante RFId."
+
+msgid "Do receipt process by QR."
+msgstr "Realiza la recepción mediante QR."
+
+msgid "Editorial creation."
+msgstr "Creación de artículos editoriales."
+
+msgid "Packaging management."
+msgstr "Administración de embalaje."
+
+msgid "Packing consulting."
+msgstr "Consulta de empaques."
+
+msgid "Productive processes management."
+msgstr "Administración de procesos productivos."
+
+msgid "Program physical and cyclic stocks."
+msgstr "Programa inventarios físicos y cíclicos."
+
+msgid "Pruchase management."
+msgstr "Administración de compras."
+
+msgid "Report of invoiced sales orders."
+msgstr "Reporte de órdenes de venta facturadas."
+
+msgid "Report to show picking SIDs."
+msgstr "Reporte para mostrar los SID de surtido."
+
+msgid "Report to show product not picking."
+msgstr "Reporte de productos no surtidos."
+
+msgid "SAT's Certificates catalog management."
+msgstr "Administración del catálogo de certificados del SAT."
+
+msgid "SAT's Coins catalog management."
+msgstr "Administración del catálogo de monedas del SAT."
+
+msgid "SAT's Countries catalog management."
+msgstr "Administración del catálogo de países del SAT."
+
+msgid "SAT's Custom patent catalog management."
+msgstr "Administración del catálogo de patentes aduanales del SAT."
+
+msgid "SAT's Customs catalog management."
+msgstr "Administración del catálogo de aduanas del SAT."
+
+msgid "SAT's Exports catalog management."
+msgstr "Administración del catálogo de exportaciones del SAT."
+
+msgid "SAT's Kind of factor catalog management."
+msgstr "Administración del catálogo de tipos de factor del SAT."
+
+msgid "SAT's Kind of voucher catalog management."
+msgstr "Administración del catálogo de tipos de comprobante del SAT."
+
+msgid "SAT's Measurement units catalog management."
+msgstr "Administración del catálogo de unidades de medida del SAT."
+
+msgid "SAT's Months catalog management."
+msgstr "Administración del catálogo de meses del SAT."
+
+msgid "SAT's Payment method catalog management."
+msgstr "Administración del catálogo de métodos de pago del SAT."
+
+msgid "SAT's Periodicity catalog management."
+msgstr "Administración del catálogo de periodicidades del SAT."
+
+msgid "SAT's Products catalog management."
+msgstr "Administración del catálogo de productos del SAT."
+
+msgid "SAT's Relations catalog management."
+msgstr "Administración del catálogo de relaciones del SAT."
+
+msgid "SAT's Tax catalog management."
+msgstr "Administración del catálogo de impuestos del SAT."
+
+msgid "SAT's Tax object catalog management."
+msgstr "Administración del catálogo de objetos de impuesto del SAT."
+
+msgid "SAT's Tax regime catalog management."
+msgstr "Administración del catálogo de regímenes fiscales del SAT."
+
+msgid "SAT's Use of CFDI catalog management."
+msgstr "Administración del catálogo de usos de CFDI del SAT."
+
+msgid "SAT's Way to pay catalog management."
+msgstr "Administración del catálogo de formas de pago del SAT."
+
+msgid "Sales management."
+msgstr "Administración de ventas."
+
+msgid "Sectors management."
+msgstr "Administración de sectores."
+
+msgid "Ship document by SID."
+msgstr "Embarca documentos mediante SID."
+
+msgid "System configuration and managemen: Massive uploads, Customers, Providers, Locations, Products, etc."
+msgstr "Configuración y administración del sistema: cargas masivas, clientes, proveedores, ubicaciones, productos, etc."
+
+msgid "Validate which is the maximum PT production."
+msgstr "Valida la producción máxima de producto terminado."
