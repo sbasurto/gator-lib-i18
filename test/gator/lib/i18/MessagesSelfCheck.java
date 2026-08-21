@@ -20,6 +20,22 @@ public final class MessagesSelfCheck {
 		assert "Agrupador de precios por cliente".equals(spanish.getString("Customer Price Grouping"));
 		assert "Agrupador de precios base por producto".equals(spanish.getString("Product Price Grouping"));
 		assert "Incremento sobre costo (sólo grupos de precio) (%)".equals(spanish.getString("Price increase over cost (price groups only) (%)"));
+		assert "Ventas Detalle".equals(spanish.getString("Sales Detail"));
+		assert "Diario".equals(spanish.getString("Daily"));
+		assert "Semanal".equals(spanish.getString("Weekly"));
+		assert "Mensual".equals(spanish.getString("Monthly"));
+		assert "Anual".equals(spanish.getString("Annual"));
+		assert "Acumulado".equals(spanish.getString("Accumulated"));
+		assert "Compras Detalle".equals(spanish.getString("Purchase Detail"));
+		assert "Sin familia".equals(spanish.getString("No family"));
+		assert "Descripción".equals(spanish.getString("Description"));
+		assert "Familia".equals(spanish.getString("Family"));
+		assert "Precio".equals(spanish.getString("Price"));
+		assert "Costo".equals(spanish.getString("Cost"));
+		assert "Description".equals(english.getString("Description"));
+		assert "Family".equals(english.getString("Family"));
+		assert "Price".equals(english.getString("Price"));
+		assert "Cost".equals(english.getString("Cost"));
         assert "CONFIRMED".equals(english.getString("CONFIRMADO"));
     }
 }

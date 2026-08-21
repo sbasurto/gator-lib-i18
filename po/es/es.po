@@ -9928,3 +9928,39 @@ msgstr "Agrupadores de precios base por producto"
 
 msgid "Price increase over cost (price groups only) (%)"
 msgstr "Incremento sobre costo (sólo grupos de precio) (%)"
+
+msgid "Sales Detail"
+msgstr "Ventas Detalle"
+
+msgid "Sales Details"
+msgstr "Ventas Detalle"
+
+msgid "Detailed sales by product."
+msgstr "Detalle de ventas por producto."
+
+msgid "Daily"
+msgstr "Diario"
+
+msgid "Weekly"
+msgstr "Semanal"
+
+msgid "Monthly"
+msgstr "Mensual"
+
+msgid "Annual"
+msgstr "Anual"
+
+msgid "Accumulated"
+msgstr "Acumulado"
+
+msgid "Purchase Detail"
+msgstr "Compras Detalle"
+
+msgid "Purchase Details"
+msgstr "Compras Detalle"
+
+msgid "Detailed purchases by product."
+msgstr "Detalle de compras por producto."
+
+msgid "No family"
+msgstr "Sin familia"

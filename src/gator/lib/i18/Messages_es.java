@@ -112,6 +112,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[193] = "SKU";
     t[194] = "Add Postal Code";
     t[195] = "Agregar C\u00f3digo Postal";
+    t[200] = "Sales Detail";
+    t[201] = "Ventas Detalle";
     t[204] = "You do not have the correct (CSD) certificate, please verify!";
     t[205] = "No cuento con un certificado (CSD) v\u00e1lido, \u00a1por favor verifique!";
     t[210] = "One or both codes are not valid, please verify!";
@@ -916,6 +918,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1899] = "\u00a1El SID ya existe y no est\u00e1 en estado de recibo, por favor verifique!";
     t[1900] = "Is In Transit";
     t[1901] = "Est\u00e1 en Tr\u00e1nsito";
+    t[1902] = "Accumulated";
+    t[1903] = "Acumulado";
     t[1906] = "Address";
     t[1907] = new java.lang.String[] { "Direcci\u00f3n", "Direcciones" };
     t[1908] = "Owner";
@@ -1398,6 +1402,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2871] = "La cantidad excede la cantidad en ubicaci\u00f3n, \u00a1por favor verifique!";
     t[2874] = "Add or Modify Document Detail";
     t[2875] = "Agregar o Modificar Detalles de Documento";
+    t[2878] = "Sales Details";
+    t[2879] = "Ventas Detalle";
     t[2882] = "Done";
     t[2883] = "Completado";
     t[2884] = "One SID cannot be located at two positions at same time, please verify!";
@@ -1996,14 +2002,14 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4113] = "SID de Surtido";
     t[4114] = "Check Number";
     t[4115] = "N\u00famero de Cheque";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4118] = "You must filter by SKU";
     t[4119] = "Debe de filtrar por SKU";
     t[4120] = "We set up your answering machine with the recording you like.";
     t[4121] = "Configuramos su contestador autom\u00e1tico con la grabaci\u00f3n que usted guste.";
     t[4126] = "You can manage several accounts at a time, allowing each account see its own vehicles with very easy interface";
     t[4127] = "Puede administrar varias cuentas al mismo tiempo, permitiendo que cada cuenta vea sus propios veh\u00edculos con una interfaz muy sencilla";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4128] = "If you have trouble with your network or simply need a new network we design it, with emphasis on the performance and aesthetics";
     t[4129] = "Si tiene problemas con su red o simplemente necesita una nueva nosotros la dise\u00f1amos, con \u00e9nfasis en la est\u00e9tica y el desempe\u00f1o";
     t[4138] = "Operations";
@@ -2272,6 +2278,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4661] = "Contrase\u00f1a";
     t[4664] = "Monitoring Outbound Details";
     t[4665] = "Detalles de Supervisi\u00f3n de Salidas";
+    t[4666] = "Annual";
+    t[4667] = "Anual";
     t[4672] = "The CFDI's provider (@0) and Purchase Order's provider (@1) do not match, please verify!";
     t[4673] = "El proveedor en la factura (@0) y el proveedor en la orden de compra (@1) no coinciden, \u00a1por favor verifique!";
     t[4674] = "Dragging Tag";
@@ -2384,6 +2392,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4895] = "La bodega no existe, \u00a1por favor verifique!";
     t[4904] = "Refill";
     t[4905] = "Reabastos";
+    t[4906] = "No family";
+    t[4907] = "Sin familia";
     t[4910] = "Receipt Differences";
     t[4911] = "Diferencias Recibo";
     t[4914] = "The document could not be modified, please verify!";
@@ -3126,6 +3136,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6475] = "\u00a1Para terminar conteo debe de especificar la ubicaci\u00f3n!";
     t[6476] = "The unit measure in which product is sold.";
     t[6477] = "La unidad de medida en la que el producto se vende.";
+    t[6482] = "Purchase Detail";
+    t[6483] = "Compras Detalle";
     t[6484] = "SID";
     t[6485] = "SID";
     t[6486] = "Create a new picking";
@@ -3486,6 +3498,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7223] = "Realizar el proceso de surtido.";
     t[7224] = "Price Policy";
     t[7225] = "Pol\u00edtica de Precios";
+    t[7230] = "Detailed purchases by product.";
+    t[7231] = "Detalle de compras por producto.";
     t[7240] = "strives to ensure the security, integrity and privacy of personally identifiable information of our customers. We use a variety of physical and electronic security measures including restricting physical access to our offices, firewalls and secure databases to keep personal information secure from misuse, loss or unauthorized use or disclosure";
     t[7241] = "se esfuerza por asegurar la seguridad, integridad y privacidad de informaci\u00f3n personal de nuestros clientes. Nosotros utilizamos una variedad de medidas de seguridad incluyendo acceso restringido a nuestras oficinas, cortafuegos, y bases de datos seguras para mantener su informaci\u00f3n personal segura de usos mal intencionados, perdida o divulgaci\u00f3n no autorizada";
     t[7246] = "You can send all commands supported for each device with a couple of clicks";
@@ -3810,6 +3824,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7937] = new java.lang.String[] { "Primario", "Primarios" };
     t[7940] = "About us";
     t[7941] = "Acerca de";
+    t[7942] = "Weekly";
+    t[7943] = "Semanal";
     t[7944] = "Choose Account";
     t[7945] = "Seleccionar Cuenta";
     t[7946] = "With Insurance";
@@ -3988,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8321] = "No puede enviar a surtir un documento sin productos";
     t[8322] = "Frequency Programming";
     t[8323] = "Programaci\u00f3n de Frecuencia";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[8326] = "Confirmed labels: @0";
     t[8327] = "Etiquetas confirmadas: @0";
     t[8334] = "The provider (@1) must exist, please verify! - line(@0)";
@@ -4004,8 +4022,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8373] = "Seleccionar Cotizaci\u00f3n";
     t[8374] = "How many menus want to add?";
     t[8375] = "\u00bfCu\u00e1ntos men\u00fas desea agregar?";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[8376] = "Customer Id";
     t[8377] = "Id de Cliente";
     t[8378] = "Attach Files";
@@ -4444,6 +4460,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9347] = "F\u00e1cil conexi\u00f3n con sistemas de terceros.";
     t[9348] = "File Group";
     t[9349] = "Archivo Grupo";
+    t[9354] = "Daily";
+    t[9355] = "Diario";
     t[9358] = "Section";
     t[9359] = new java.lang.String[] { "Secci\u00f3n", "Secciones" };
     t[9360] = "Create Product";
@@ -5652,6 +5670,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11929] = "Con el fin de entregar su paquete de forma precisa el nombre de la calle es indispensable.";
     t[11930] = "Add Document";
     t[11931] = "Agregar Documento";
+    t[11932] = "Purchase Details";
+    t[11933] = "Compras Detalle";
     t[11934] = "Number anywhere";
     t[11935] = "N\u00famero en cualquier parte";
     t[11940] = "Location";
@@ -5914,6 +5934,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12521] = "Gesti\u00f3n de facturaci\u00f3n log\u00edstica.";
     t[12522] = "Outbound Scan Query";
     t[12523] = new java.lang.String[] { "Escaneo de Salida", "Escaneo de Salidas" };
+    t[12524] = "Detailed sales by product.";
+    t[12525] = "Detalle de ventas por producto.";
     t[12526] = "Delayed Events";
     t[12527] = "Eventos Demorados";
     t[12528] = "Appointments management.";
@@ -5984,6 +6006,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12651] = new java.lang.String[] { "Bodega", "Bodegas" };
     t[12656] = "Authorization";
     t[12657] = new java.lang.String[] { "Autorizaci\u00f3n", "Autorizaciones" };
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[12658] = "Add Submenus";
     t[12659] = "Agregar Submen\u00fas";
     t[12668] = "Please write your street address.";
@@ -6006,8 +6030,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12701] = "Consulta de escaneo de salidas";
     t[12706] = "My Information";
     t[12707] = "Mi Informaci\u00f3n";
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[12708] = "Please enter the password to authorize transaction.";
     t[12709] = "Por favor introduzca la contrase\u00f1a para autorizar la transacci\u00f3n.";
     t[12712] = "Remark";
@@ -6098,6 +6120,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12907] = new java.lang.String[] { "C\u00e9dula de Inventario", "C\u00e9dulas de Inventario" };
     t[12912] = "Substitute";
     t[12913] = new java.lang.String[] { "Substituto", "Substitutos" };
+    t[12914] = "Monthly";
+    t[12915] = "Mensual";
     t[12918] = "Delivered Boxes";
     t[12919] = "Cajas Entregadas";
     t[12920] = "Plural\u0004Processed with Errors";

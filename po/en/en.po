@@ -965,3 +965,51 @@ msgstr "Product Price Groupings"
 
 msgid "Price increase over cost (price groups only) (%)"
 msgstr "Price increase over cost (price groups only) (%)"
+
+msgid "Sales Detail"
+msgstr "Sales Detail"
+
+msgid "Sales Details"
+msgstr "Sales Details"
+
+msgid "Detailed sales by product."
+msgstr "Detailed sales by product."
+
+msgid "Daily"
+msgstr "Daily"
+
+msgid "Weekly"
+msgstr "Weekly"
+
+msgid "Monthly"
+msgstr "Monthly"
+
+msgid "Annual"
+msgstr "Annual"
+
+msgid "Accumulated"
+msgstr "Accumulated"
+
+msgid "Purchase Detail"
+msgstr "Purchase Detail"
+
+msgid "Purchase Details"
+msgstr "Purchase Details"
+
+msgid "Detailed purchases by product."
+msgstr "Detailed purchases by product."
+
+msgid "No family"
+msgstr "No family"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Family"
+msgstr "Family"
+
+msgid "Price"
+msgstr "Price"
+
+msgid "Cost"
+msgstr "Cost"
