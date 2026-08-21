@@ -818,3 +818,150 @@ msgstr "System configuration and managemen: Massive uploads, Customers, Provider
 
 msgid "Validate which is the maximum PT production."
 msgstr "Validate which is the maximum PT production."
+
+msgid "Agrupador de app_producto_descuento"
+msgstr "Product discount grouping"
+
+msgid "Allow add new tickets."
+msgstr "Allow add new tickets."
+
+msgid "Allow to access some financial information."
+msgstr "Allow to access some financial information."
+
+msgid "Allow to add users to a group or groups to a user."
+msgstr "Allow to add users to a group or groups to a user."
+
+msgid "Allow to authorize anything"
+msgstr "Allow to authorize anything"
+
+msgid "Allow to authorize as supervisor"
+msgstr "Allow to authorize as supervisor"
+
+msgid "Allow to manage order totally"
+msgstr "Allow to manage order totally"
+
+msgid "Allow to modify CFDi version at Invoice level."
+msgstr "Allow to modify CFDi version at Invoice level."
+
+msgid "Allow to modify cost in BoM"
+msgstr "Allow to modify cost in BoM"
+
+msgid "Allow to modify invoice number and serie."
+msgstr "Allow to modify invoice number and serie."
+
+msgid "Allow to modify price in BoM"
+msgstr "Allow to modify price in BoM"
+
+msgid "Allow to promote a manual to a blog artcle."
+msgstr "Allow to promote a manual to a blog article."
+
+msgid "Allow to see all Tickets"
+msgstr "Allow to see all Tickets"
+
+msgid "Allow to see all articles"
+msgstr "Allow to see all articles"
+
+msgid "Allow to see all purchase orders."
+msgstr "Allow to see all purchase orders."
+
+msgid "Allow to see all requisition orders."
+msgstr "Allow to see all requisition orders."
+
+msgid "Allow to see all requisitions of the same areas that user belongs."
+msgstr "Allow to see all requisitions of the same areas that user belongs."
+
+msgid "Allow to set Responsible for Support Tickets"
+msgstr "Allow to set Responsible for Support Tickets"
+
+msgid "Allow to set accept solutions even if is not the ticket owner."
+msgstr "Allow to accept solutions even if the user is not the ticket owner."
+
+msgid "Change currency at payment"
+msgstr "Change currency at payment"
+
+msgid "Change payment method on invoices."
+msgstr "Change payment method on invoices."
+
+msgid "Convert Requisitions in Purchase Orders"
+msgstr "Convert Requisitions in Purchase Orders"
+
+msgid "Creación y edición de productos con sus características."
+msgstr "Create and edit products with their characteristics."
+
+msgid "Create production orders anytime"
+msgstr "Create production orders anytime"
+
+msgid "Delete Logistic Invoices"
+msgstr "Delete Logistic Invoices"
+
+msgid "Import files from any process"
+msgstr "Import files from any process"
+
+msgid "Purchase Orders Authorization"
+msgstr "Purchase Orders Authorization"
+
+msgid "See Development"
+msgstr "See Development"
+
+msgid "Set seller in customers."
+msgstr "Set seller in customers."
+
+msgid "Soft Gator Development Team"
+msgstr "Soft Gator Development Team"
+
+msgid "Soft Gator Support Team"
+msgstr "Soft Gator Support Team"
+
+msgid "Technical Manuals"
+msgstr "Technical Manuals"
+
+msgid "Administra la parte de documentos de entrada (crear nuevo producto, importar o entrar a detalle)."
+msgstr "Manage inbound documents (create a new product, import, or open details)."
+
+msgid "Administra los documentos de surtido (crear, importar y entrar a un detalle)."
+msgstr "Manage picking documents (create, import, or open details)."
+
+msgid "Administra los tipo proceso de entradas."
+msgstr "Manage inbound process types."
+
+msgid "Permite cancelar conteos en cualquier estado que no tengan cédula generada."
+msgstr "Allow canceling counts in any status without a generated certificate."
+
+msgid "Allow to create addresses with interfaces."
+msgstr "Allow to create addresses with interfaces."
+
+msgid "Cajero"
+msgstr "Cashier"
+
+msgid "Permite ingresar un segundo lote en un documento de recibo."
+msgstr "Allow entering a second lot in a receipt document."
+
+msgid "User's Manuals"
+msgstr "User's Manuals"
+
+msgid "Permite finalizar empaque aunque no se haya empacado todo."
+msgstr "Allow finishing packing before everything has been packed."
+
+msgid "En la pantalla de productos muestra el botón de crear productos"
+msgstr "Show the create product button on the product screen"
+
+msgid "Este botón te permite volver a estado surtiendose."
+msgstr "Allow returning to the picking status."
+
+msgid "Ver actas nacionales y fiscales"
+msgstr "View domestic and fiscal certificates"
+
+msgid "Customer Price Grouping"
+msgstr "Customer Price Grouping"
+
+msgid "Customer Price Groupings"
+msgstr "Customer Price Groupings"
+
+msgid "Product Price Grouping"
+msgstr "Product Price Grouping"
+
+msgid "Product Price Groupings"
+msgstr "Product Price Groupings"
+
+msgid "Price increase over cost (price groups only) (%)"
+msgstr "Price increase over cost (price groups only) (%)"

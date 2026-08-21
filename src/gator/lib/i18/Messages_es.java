@@ -20,6 +20,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[31] = new java.lang.String[] { "Moneda SAT", "Monedas SAT" };
     t[32] = "Period";
     t[33] = new java.lang.String[] { "Periodo", "Periodos" };
+    t[34] = "Allow to modify invoice number and serie.";
+    t[35] = "Permitir modificar el n\u00famero y la serie de la factura.";
     t[36] = "Final Stock";
     t[37] = "Inventario Final";
     t[38] = "The customs requisition key cannot be empty";
@@ -246,6 +248,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[491] = new java.lang.String[] { "Certificado", "Certificados" };
     t[496] = "Payment Id";
     t[497] = "Id de Pago";
+    t[500] = "Price increase over cost (price groups only) (%)";
+    t[501] = "Incremento sobre costo (s\u00f3lo grupos de precio) (%)";
     t[502] = "Y Position Filter";
     t[503] = "Filtro de Posici\u00f3n Y";
     t[506] = "System Administrator Group";
@@ -620,6 +624,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1285] = "\u00bfEst\u00e1 por importar productos, est\u00e1 seguro?";
     t[1286] = "How many groups want to add?";
     t[1287] = "\u00bfCu\u00e1ntos grupos desea agregar?";
+    t[1288] = "Creaci\u00f3n y edici\u00f3n de productos con sus caracter\u00edsticas.";
+    t[1289] = "Creaci\u00f3n y edici\u00f3n de productos con sus caracter\u00edsticas.";
     t[1296] = "Enter supervisor password";
     t[1297] = "Ingrese contrase\u00f1a de supervisor";
     t[1300] = "Order summary";
@@ -656,6 +662,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1361] = "Usuario de base de datos";
     t[1362] = "Accept All Cookies";
     t[1363] = "Aceptar Todas las Cookies";
+    t[1364] = "Purchase Orders Authorization";
+    t[1365] = "Autorizaci\u00f3n de \u00f3rdenes de compra";
+    t[1372] = "Allow to access some financial information.";
+    t[1373] = "Permitir acceder a informaci\u00f3n financiera.";
     t[1374] = "Verify the distribution to locations.";
     t[1375] = "Verificar el reparto a ubicaciones.";
     t[1378] = "ON HOLD";
@@ -692,6 +702,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1457] = "\u00daltima Revisi\u00f3n";
     t[1458] = "Detail Id";
     t[1459] = new java.lang.String[] { "Id de Detalle", "Ids de Detalle" };
+    t[1462] = "Permite ingresar un segundo lote en un documento de recibo.";
+    t[1463] = "Permite ingresar un segundo lote en un documento de recibo.";
     t[1466] = "You could have extensions in any country, and have them interconected as if they were in the same building.";
     t[1467] = "Puede tener extensiones en cualquier pa\u00eds y tenerlas interconectadas como si estuvieran en el mismo edificio.";
     t[1478] = "Approve this access from Gator Mobile.";
@@ -986,6 +998,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2033] = new java.lang.String[] { "Indicador", "Indicadores" };
     t[2034] = "Impression";
     t[2035] = new java.lang.String[] { "Impresi\u00f3n", "Impresiones" };
+    t[2036] = "Agrupador de app_producto_descuento";
+    t[2037] = "Agrupador de descuentos de producto";
     t[2038] = "Reject Solution";
     t[2039] = "Rechazar Soluci\u00f3n";
     t[2040] = "Write a hint and press enter to select";
@@ -1378,6 +1392,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2861] = "Consulta de escaneo de entradas";
     t[2866] = "Production Line";
     t[2867] = "L\u00ednea de Producci\u00f3n";
+    t[2868] = "Allow to set accept solutions even if is not the ticket owner.";
+    t[2869] = "Permitir aceptar soluciones aunque no sea propietario del ticket.";
     t[2870] = "The quantity exceedes the location quantity, please verify!";
     t[2871] = "La cantidad excede la cantidad en ubicaci\u00f3n, \u00a1por favor verifique!";
     t[2874] = "Add or Modify Document Detail";
@@ -1498,6 +1514,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3145] = "Todos los derechos reservados";
     t[3150] = "Accounts Receivable";
     t[3151] = "Cuentas por Cobrar";
+    t[3154] = "See Development";
+    t[3155] = "Ver desarrollo";
     t[3162] = "File";
     t[3163] = new java.lang.String[] { "Archivo", "Archivos" };
     t[3166] = "Sales Currency";
@@ -1698,6 +1716,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3529] = "Destinatario";
     t[3540] = "This field is defined by the system in this kind of repetition";
     t[3541] = "Este campo es definido por el sistema en este tipo de repetici\u00f3n";
+    t[3544] = "Allow to modify price in BoM";
+    t[3545] = "Permitir modificar el precio en la lista de materiales";
     t[3546] = "Add or Modify Presentations";
     t[3547] = "Agregar o Modificar Presentaciones";
     t[3548] = "Logout system";
@@ -1708,6 +1728,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3553] = "Unifique todas sus comunicaciones en un solo lugar, usted puede tener muchas extensiones en diferentes sucursales compartiendo l\u00edneas y extensiones.";
     t[3558] = "Component SKU";
     t[3559] = "SKU de Componente";
+    t[3562] = "Allow to manage order totally";
+    t[3563] = "Permitir administrar completamente el pedido";
     t[3568] = "Please define a function to call";
     t[3569] = "Por favor defina una funci\u00f3n a llamar";
     t[3570] = "The specified movement '@0' is not valid, please verify!";
@@ -1738,10 +1760,14 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3627] = "Ancho";
     t[3628] = "Shipping Order";
     t[3629] = "Orden de Embarque";
+    t[3640] = "Allow to promote a manual to a blog artcle.";
+    t[3641] = "Permitir publicar un manual como art\u00edculo del blog.";
     t[3646] = "Finished Good SKU";
     t[3647] = "SKU Producto Terminado";
     t[3652] = "Host Name";
     t[3653] = "Nombre del Anfitri\u00f3n(Host)";
+    t[3656] = "Allow to see all Tickets";
+    t[3657] = "Permitir ver todos los tickets";
     t[3666] = "Event reminder";
     t[3667] = "Recordatorio de evento";
     t[3668] = "It allows arming pallets within the system and manage it as units within the warehouses, also allowing pieces or boxes.";
@@ -1826,6 +1852,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3833] = "utilizar cookies, las cookies son informaci\u00f3n que un sitio Web transfiere a su disco duro para prop\u00f3sitos de seguimiento. Las cookies facilitan a un usuario el acceso y utilizaci\u00f3n de un sitio. Nos permiten identificar el uso de patrones y la informaci\u00f3n recolectada nos ayuda a mejorar nuestro contenido y anuncios. Si usted no quiere que su informaci\u00f3n sea recolectada con cookies, hay un procedimiento simple en la mayor\u00eda de los navegadores que le permite negar el acceso a  las cookies. Pero debe tomar en cuenta que puede ser que las cookies sean necesarias para proveerle con caracter\u00edsticas tales como transacciones en l\u00ednea o servicios registrados";
     t[3834] = "Location's Detail";
     t[3835] = "Detalle de Ubicaci\u00f3n";
+    t[3836] = "Allow to set Responsible for Support Tickets";
+    t[3837] = "Permitir asignar responsables a tickets de soporte";
     t[3838] = "Location Consolidates";
     t[3839] = "Ubicaci\u00f3n Consolida";
     t[3846] = "Confirmed Lot";
@@ -1974,6 +2002,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4121] = "Configuramos su contestador autom\u00e1tico con la grabaci\u00f3n que usted guste.";
     t[4126] = "You can manage several accounts at a time, allowing each account see its own vehicles with very easy interface";
     t[4127] = "Puede administrar varias cuentas al mismo tiempo, permitiendo que cada cuenta vea sus propios veh\u00edculos con una interfaz muy sencilla";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4128] = "If you have trouble with your network or simply need a new network we design it, with emphasis on the performance and aesthetics";
     t[4129] = "Si tiene problemas con su red o simplemente necesita una nueva nosotros la dise\u00f1amos, con \u00e9nfasis en la est\u00e9tica y el desempe\u00f1o";
     t[4138] = "Operations";
@@ -2002,8 +2032,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4183] = "Proveedor Tipo";
     t[4184] = "Driver licences management.";
     t[4185] = "Gesti\u00f3n de licencias de conducir.";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4188] = "Feature";
     t[4189] = new java.lang.String[] { "Caracter\u00edstica", "Caracter\u00edsticas" };
     t[4190] = "Banks management.";
@@ -2102,10 +2130,14 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4379] = "Imprimir";
     t[4384] = "Go Back";
     t[4385] = "Regresar";
+    t[4388] = "Allow to authorize as supervisor";
+    t[4389] = "Permitir autorizar como supervisor";
     t[4392] = "Kind of regime SAT's catalog management.";
     t[4393] = "Administraci\u00f3n de cat\u00e1logo de reg\u00edmenes.";
     t[4396] = "Accept Solution";
     t[4397] = "Aceptar Soluci\u00f3n";
+    t[4408] = "Allow to see all purchase orders.";
+    t[4409] = "Permitir ver todas las \u00f3rdenes de compra.";
     t[4412] = "Confirm quantity: @0";
     t[4413] = "Cantidad confirmada: @0";
     t[4414] = "Arrival Date";
@@ -2282,6 +2314,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4745] = "Administraci\u00f3n de cat\u00e1logo de periodicidad de pagos SAT.";
     t[4752] = "Reprint label";
     t[4753] = "Reimprimir etiqueta";
+    t[4754] = "Soft Gator Development Team";
+    t[4755] = "Equipo de desarrollo de Soft Gator";
     t[4764] = "You can invoice from the software with no additional cost, and comply with mexican laws";
     t[4765] = "Usted puede facturar desde el software sin costos adicionales, y cumplir con las leyes mexicanas";
     t[4766] = "Enter your name as appears in your official documents, starting with name and then middle and last name.";
@@ -2820,6 +2854,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5931] = "Procesos automatizados.";
     t[5932] = "You must confirm both codes, one sent by email and one sent by sms, if you want to receive other pair of codes request them <a id='gappNewCodesRequest' href='#'>please send me codes again</a>.";
     t[5933] = "Debe de confirmar ambos c\u00f3digos, uno enviado por correo electr\u00f3nico y otro enviado por mensaje de texto a su celular, si desea recibir otro par de c\u00f3digos solicitelos <a id='gappNewCodesRequest' href='#'>por favor envienme los c\u00f3digos nuevamente</a>.";
+    t[5936] = "Product Price Grouping";
+    t[5937] = "Agrupador de precios base por producto";
     t[5944] = "Line";
     t[5945] = new java.lang.String[] { "L\u00ednea", "L\u00edneas" };
     t[5950] = "Packing Id";
@@ -3066,6 +3102,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6427] = "Gesti\u00f3n de movimientos bancarios.";
     t[6428] = "This document has difference in quantities, it must be closed by a supervisor!";
     t[6429] = "\u00a1Este documento tiene diferencia en cantidades, debe ser finalizado por un supervisor!";
+    t[6438] = "Este bot\u00f3n te permite volver a estado surtiendose.";
+    t[6439] = "Este bot\u00f3n permite volver al estado surti\u00e9ndose.";
     t[6440] = "Boxes";
     t[6441] = "Cajas";
     t[6442] = "The location and location confirmation must be equals";
@@ -3278,6 +3316,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6889] = "Men\u00fas";
     t[6890] = "GATOR SYSTEM";
     t[6891] = "SISTEMA GATOR";
+    t[6896] = "Allow to create addresses with interfaces.";
+    t[6897] = "Permitir crear direcciones con interfaces.";
     t[6898] = "Show additional information";
     t[6899] = "Mostrar informaci\u00f3n adicional";
     t[6902] = "Confirm distribution tag";
@@ -3304,6 +3344,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6931] = "\u00a1Debe especificar una fecha para la entrega, por favor verifique!";
     t[6934] = "Shipped";
     t[6935] = "Embarcados";
+    t[6936] = "Convert Requisitions in Purchase Orders";
+    t[6937] = "Convertir requisiciones en \u00f3rdenes de compra";
     t[6946] = "The picked quantity must be grater than 0, please verify!";
     t[6947] = "\u00a1La cantidad surtida debe ser mayor a 0, por favor verifique!";
     t[6950] = "Billing and Deliver Information";
@@ -3454,6 +3496,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7257] = "Seleccione Acuse";
     t[7258] = "Cost";
     t[7259] = new java.lang.String[] { "Costo", "Costos" };
+    t[7276] = "Create production orders anytime";
+    t[7277] = "Crear \u00f3rdenes de producci\u00f3n en cualquier momento";
     t[7282] = "The product does not exist in this distribution tag or location, please verify";
     t[7283] = "El producto no existe en esta ubicaci\u00f3n de reparto, \u00a1por favor verifique!";
     t[7286] = "The movement audit could not be registered; the operation was not applied. Please try again.";
@@ -3614,6 +3658,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7629] = "Documento de Faltantes";
     t[7640] = "If you do the pull, the target location will exceed maximum weight, please verify!";
     t[7641] = "Si realiza el arrastre. la ubicaci\u00f3n destino exceder\u00e1 el peso m\u00e1ximo, \u00a1por favor verifique!";
+    t[7642] = "Ver actas nacionales y fiscales";
+    t[7643] = "Ver actas nacionales y fiscales";
     t[7646] = "Are you sure you want to send to auth?";
     t[7647] = "\u00bfEst\u00e1 seguro que desea enviar a autorizar?";
     t[7648] = "Production orders management.";
@@ -3698,6 +3744,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7815] = "La ubicaci\u00f3n consolida, es necesario confirmarla, \u00a1por favor verifique!";
     t[7820] = "Manage provider's invoices.";
     t[7821] = "Gesti\u00f3n de facturas de proveedor.";
+    t[7822] = "Allow to authorize anything";
+    t[7823] = "Permitir autorizar cualquier operaci\u00f3n";
     t[7830] = "Enterprise Name";
     t[7831] = "Nombre/Raz\u00f3n Social de la Empresa";
     t[7832] = "Human resource";
@@ -3734,6 +3782,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7891] = "Realiza el empaque mediante etiqueta de surtido.";
     t[7894] = "SAT's Custom patent catalog management.";
     t[7895] = "Administraci\u00f3n del cat\u00e1logo de patentes aduanales del SAT.";
+    t[7900] = "En la pantalla de productos muestra el bot\u00f3n de crear productos";
+    t[7901] = "En la pantalla de productos muestra el bot\u00f3n de crear productos";
     t[7904] = "Bank Id";
     t[7905] = "Id de Banco";
     t[7908] = "Disabled";
@@ -3954,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8373] = "Seleccionar Cotizaci\u00f3n";
     t[8374] = "How many menus want to add?";
     t[8375] = "\u00bfCu\u00e1ntos men\u00fas desea agregar?";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[8376] = "Customer Id";
     t[8377] = "Id de Cliente";
     t[8378] = "Attach Files";
@@ -3976,6 +4028,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8427] = "P\u00e1gina de Error - @0";
     t[8428] = "Your email";
     t[8429] = "Su correo electr\u00f3nico";
+    t[8434] = "Administra la parte de documentos de entrada (crear nuevo producto, importar o entrar a detalle).";
+    t[8435] = "Administra la parte de documentos de entrada (crear nuevo producto, importar o entrar a detalle).";
     t[8436] = "Sector";
     t[8437] = new java.lang.String[] { "Sector", "Sectores" };
     t[8438] = "Point of sales transactions.";
@@ -4004,8 +4058,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8471] = "Consulta la existencia resumida del producto.";
     t[8472] = "Open Cash Register";
     t[8473] = "Abrir Caja Registradora";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[8474] = "Dummy 1";
     t[8475] = "Auxiliar 1";
     t[8478] = "Location State";
@@ -4038,6 +4090,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8559] = "No puede seleccionar m\u00e1s de un registro, \u00a1por favor verifique!";
     t[8560] = "Android OS.";
     t[8561] = "Sistema Operativo Android.";
+    t[8564] = "Soft Gator Support Team";
+    t[8565] = "Equipo de soporte de Soft Gator";
     t[8566] = "Pull Location";
     t[8567] = "Ubicaci\u00f3n de Acomodo";
     t[8570] = "Super user";
@@ -4060,6 +4114,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8605] = "Un correo ha sido enviado";
     t[8624] = "Lot";
     t[8625] = new java.lang.String[] { "Lote", "Lotes" };
+    t[8628] = "User's Manuals";
+    t[8629] = "Manuales de usuario";
     t[8630] = "The tax is not defined, please verify!";
     t[8631] = "El impuesto no est\u00e1 definido, \u00a1por favor verifique!";
     t[8632] = "Choose Group";
@@ -4080,6 +4136,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8665] = "El archivo ya existe";
     t[8668] = "The dragging tag is duplicated or not valid, please verify!";
     t[8669] = "La etiqueta de arrastre est\u00e1 duplicada o no es valida, \u00a1por favor verifique!";
+    t[8670] = "Allow add new tickets.";
+    t[8671] = "Permitir agregar tickets nuevos.";
     t[8672] = "If you want to link this event to a customer";
     t[8673] = "Si desea vincular un cliente a este evento";
     t[8674] = "We will be glad to hear from you";
@@ -4108,6 +4166,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8723] = "Solicitar Recolecci\u00f3n";
     t[8728] = "The reference (@1) already exist, please verify! - line(@0)";
     t[8729] = "La referencia (@1) ya existe, \u00a1por favor verifique! - l\u00ednea(@0)";
+    t[8732] = "Cajero";
+    t[8733] = "Cajero";
     t[8734] = "Picking Auto";
     t[8735] = "Surtir Auto";
     t[8744] = "Location Max Due Date";
@@ -4248,6 +4308,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9043] = "Agregar Art\u00edculo";
     t[9044] = "Importing Picking Files";
     t[9045] = "Importando Archivos de Surtido";
+    t[9048] = "Allow to modify CFDi version at Invoice level.";
+    t[9049] = "Permitir modificar la versi\u00f3n del CFDI en la factura.";
     t[9050] = "Location Validation Fails! - line(@0)";
     t[9051] = "Fall\u00f3 la validaci\u00f3n de la Ubicaci\u00f3n - l\u00ednea(@0)";
     t[9052] = "Please provide a valid subject for your message.";
@@ -4398,6 +4460,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9393] = "Conductor";
     t[9406] = "The specified inventory does not exist, please verify!";
     t[9407] = "\u00a1El inventario especificado no existe, por favor verifique!";
+    t[9410] = "Allow to see all requisitions of the same areas that user belongs.";
+    t[9411] = "Permitir ver las requisiciones de las \u00e1reas a las que pertenece el usuario.";
     t[9414] = "Process Name";
     t[9415] = "Nombre de Proceso";
     t[9420] = "Kind of payments SAT's catalog management.";
@@ -4498,6 +4562,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9627] = "Contrase\u00f1a Corta";
     t[9628] = "Product Transfer";
     t[9629] = new java.lang.String[] { "Transferencia de Producto", "Transferencia de Productos" };
+    t[9630] = "Administra los tipo proceso de entradas.";
+    t[9631] = "Administra los tipos de proceso de entradas.";
     t[9632] = "Amount to pay with this payment method";
     t[9633] = "Monto a pagar con este m\u00e9todo de pago";
     t[9642] = "Confirm";
@@ -4588,6 +4654,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9801] = "Consultas";
     t[9802] = "Select group to share";
     t[9803] = "Seleccione con que grupo compartir";
+    t[9804] = "Technical Manuals";
+    t[9805] = "Manuales t\u00e9cnicos";
     t[9806] = "Review the stock history.";
     t[9807] = "Ver el inventario hist\u00f3rico.";
     t[9808] = "Kind of payroll SAT's catalog management.";
@@ -4622,6 +4690,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9879] = "Autentifaci\u00f3n exitosa";
     t[9882] = "Charged";
     t[9883] = "Cobrado";
+    t[9888] = "Change currency at payment";
+    t[9889] = "Cambiar la moneda al pagar";
     t[9902] = "Production Requisition";
     t[9903] = new java.lang.String[] { "Pedido de Producci\u00f3n", "Pedidos de Producci\u00f3n" };
     t[9904] = "Area";
@@ -4924,6 +4994,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10569] = "Enviar a Surtido";
     t[10572] = "The counting SID and SID confirmation must be equals";
     t[10573] = "El SID a contar y el confirmado deben de ser iguales";
+    t[10576] = "Customer Price Grouping";
+    t[10577] = "Agrupador de precios por cliente";
     t[10578] = "Receipt Kind";
     t[10579] = "Tipo de Comprobante";
     t[10588] = "The counting for location [@0] will be finished, do you want to continue?";
@@ -4978,6 +5050,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10681] = "Nacionalizado";
     t[10686] = "The customer could not be imported, please verify! - customer(@0)";
     t[10687] = "No se import\u00f3 el cliente, \u00a1por favor verifique! - cliente(@0)";
+    t[10688] = "Allow to see all articles";
+    t[10689] = "Permitir ver todos los art\u00edculos";
     t[10690] = "We are the solution";
     t[10691] = "Nosotros somos la soluci\u00f3n";
     t[10694] = "Delete";
@@ -5042,6 +5116,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10795] = "\u00bfCu\u00e1ntos detalles desea agregar?";
     t[10802] = "Acknowledge No";
     t[10803] = "Acuse No";
+    t[10804] = "Administra los documentos de surtido (crear, importar y entrar a un detalle).";
+    t[10805] = "Administra los documentos de surtido (crear, importar y entrar a un detalle).";
     t[10812] = "Providers management.";
     t[10813] = "Gesti\u00f3n de proveedores.";
     t[10818] = "The movement could not be recorded on kardex, please verify!";
@@ -5060,6 +5136,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10855] = new java.lang.String[] { "Pedido", "Pedidos" };
     t[10856] = "Minimal Amount";
     t[10857] = "Cantidad M\u00ednima";
+    t[10858] = "Import files from any process";
+    t[10859] = "Importar archivos desde cualquier proceso";
     t[10860] = "States Registration";
     t[10861] = "Registro de Estados";
     t[10862] = "Outbounds";
@@ -5224,6 +5302,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11201] = "Mar";
     t[11204] = "Ask Quotation";
     t[11205] = "Solicitar una Cotizaci\u00f3n";
+    t[11212] = "Permite cancelar conteos en cualquier estado que no tengan c\u00e9dula generada.";
+    t[11213] = "Permite cancelar conteos en cualquier estado que no tengan c\u00e9dula generada.";
     t[11214] = "Total quantity: @0";
     t[11215] = "Cantidad total: @0";
     t[11216] = "VAT Charged vs Paid";
@@ -5266,6 +5346,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11285] = "Escriba o Escanee Lote";
     t[11286] = "Complementary Information";
     t[11287] = "Informaci\u00f3n Complementaria";
+    t[11288] = "Allow to modify cost in BoM";
+    t[11289] = "Permitir modificar el costo en la lista de materiales";
     t[11298] = "Customer";
     t[11299] = new java.lang.String[] { "Cliente", "Clientes" };
     t[11302] = "Specialized Training";
@@ -5284,6 +5366,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11325] = new java.lang.String[] { "Producto SAT", "Productos SAT" };
     t[11330] = "Show in Store";
     t[11331] = "Mostrar en Tienda";
+    t[11334] = "Allow to see all requisition orders.";
+    t[11335] = "Permitir ver todas las requisiciones.";
     t[11340] = "Current Month";
     t[11341] = "Mes Corriente";
     t[11342] = "in Mexico";
@@ -5328,6 +5412,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11451] = new java.lang.String[] { "Tel\u00e9fono", "Tel\u00e9fonos" };
     t[11452] = "Also this one";
     t[11453] = "Tambi\u00e9n esto";
+    t[11454] = "Delete Logistic Invoices";
+    t[11455] = "Eliminar facturas log\u00edsticas";
     t[11458] = "Search";
     t[11459] = "Buscar";
     t[11460] = "The provider must exist, please verify! - line(@0)";
@@ -5472,6 +5558,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11717] = "Contrase\u00f1a de base de datos";
     t[11728] = "Picking Tag or Reference";
     t[11729] = "SID de Surtido o Referencia";
+    t[11730] = "Change payment method on invoices.";
+    t[11731] = "Cambiar el m\u00e9todo de pago en facturas.";
     t[11732] = "Asterisk Training";
     t[11733] = "Cursos de Asterisk";
     t[11740] = "The product's presentation does not exist";
@@ -5682,6 +5770,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12181] = "Productos no Surtidos";
     t[12194] = "Masculino\u0004Confirmed";
     t[12195] = new java.lang.String[] { "Confirmado", "Confirmados" };
+    t[12196] = "Set seller in customers.";
+    t[12197] = "Asignar vendedor a clientes.";
     t[12198] = "Check differences in picking process.";
     t[12199] = "Verificar diferencias en surtido.";
     t[12202] = "Passwords are not equal";
@@ -5728,12 +5818,16 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12287] = "Agregar o Modificar Categor\u00edas";
     t[12290] = "Check which product is not replicated between warehouses and customers.";
     t[12291] = "Verificar que producto no ha sido replicado.";
+    t[12292] = "Product Price Groupings";
+    t[12293] = "Agrupadores de precios base por producto";
     t[12294] = "Cancel Assignment";
     t[12295] = "Cancelar Asignaci\u00f3n";
     t[12298] = "Review the purchases conciliation with bank movements.";
     t[12299] = "Revisar conciliaci\u00f3n de bancos contra compras.";
     t[12300] = "Exchange in/out information with other systems with a few clicks, as WebServices, plain text files, and more.";
     t[12301] = "Intercambie informaci\u00f3n de entrada/salida con otros sistemas en algunos clics, como WebServices, archivos planos y m\u00e1s.";
+    t[12312] = "Allow to add users to a group or groups to a user.";
+    t[12313] = "Permitir agregar usuarios a un grupo o grupos a un usuario.";
     t[12318] = "Is a GPS tracking system for several GPS devices, allow you to track your vehicles, merchandise, etc., in real time. We support all well know communication protocols from popular vendors";
     t[12319] = "Es un sistema de rastreo GPS para varios dispositivos, le permite rastrear sus veh\u00edculos, mercanc\u00edas, etc., en tiempo real. Soporta la mayor parte de protocolos de comunicaci\u00f3n de proveedores conocidos";
     t[12320] = "Reports";
@@ -5754,6 +5848,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12351] = "Gesti\u00f3n de marcas, creaci\u00f3n de nuevas marcas.";
     t[12352] = "User or Password Wrong";
     t[12353] = "Usuario o Contrase\u00f1a Incorrectos";
+    t[12354] = "Permite finalizar empaque aunque no se haya empacado todo.";
+    t[12355] = "Permite finalizar empaque aunque no se haya empacado todo.";
     t[12358] = "Once keys has been created, they will be deleted after five minutes, please download before?";
     t[12359] = "Una vez que se hayan creado las llaves, se eliminar\u00e1n despu\u00e9s de cinco minutos, \u00a1por favor descarguelas antes!";
     t[12374] = "Add or Modify Prices";
@@ -5784,6 +5880,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12435] = new java.lang.String[] { "Banco", "Bancos" };
     t[12444] = "Add All Items";
     t[12445] = "Agregar Todas las Partidas";
+    t[12446] = "Customer Price Groupings";
+    t[12447] = "Agrupadores de precios por cliente";
     t[12450] = "A field comes empty and it cannot be (not null violation).";
     t[12451] = "Un campo no contiene valor y debe tenerlo (violaci\u00f3n valor no nulo).";
     t[12452] = "Do transfer process.";
@@ -5908,6 +6006,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12701] = "Consulta de escaneo de salidas";
     t[12706] = "My Information";
     t[12707] = "Mi Informaci\u00f3n";
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[12708] = "Please enter the password to authorize transaction.";
     t[12709] = "Por favor introduzca la contrase\u00f1a para autorizar la transacci\u00f3n.";
     t[12712] = "Remark";
@@ -6006,8 +6106,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12927] = "Usted no tiene acceso a este portal, por favor verifique sus credenciales e intente nuevamente";
     t[12930] = "Femenino\u0004Confirmed";
     t[12931] = new java.lang.String[] { "Confirmada", "Confirmadas" };
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[12932] = "Administrator User";
     t[12933] = "Usuario Administrador";
     t[12934] = "Add Users";

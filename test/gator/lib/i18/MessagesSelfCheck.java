@@ -17,6 +17,9 @@ public final class MessagesSelfCheck {
         assert "Diferencia de cantidad".equals(spanish.getString("Quantity Difference"));
         assert "Reporte para mostrar los SID de surtido.".equals(spanish.getString("Report to show picking SIDs."));
         assert "Movimientos en Cuenta".equals(spanish.getString("Account Movements"));
+		assert "Agrupador de precios por cliente".equals(spanish.getString("Customer Price Grouping"));
+		assert "Agrupador de precios base por producto".equals(spanish.getString("Product Price Grouping"));
+		assert "Incremento sobre costo (sólo grupos de precio) (%)".equals(spanish.getString("Price increase over cost (price groups only) (%)"));
         assert "CONFIRMED".equals(english.getString("CONFIRMADO"));
     }
 }
