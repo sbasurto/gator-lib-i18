@@ -8904,7 +8904,7 @@ msgstr[0] "Conteo"
 msgstr[1] "Conteos"
 
 msgid "Close Grouper"
-msgstr "Cerrar Agurpador"
+msgstr "Cerrar Agrupador"
 
 msgid "Picking Tag or Reference"
 msgstr "SID de Surtido o Referencia"

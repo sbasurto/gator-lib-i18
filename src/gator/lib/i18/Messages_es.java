@@ -4415,7 +4415,7 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9268] = "Program physical and cyclic stocks.";
     t[9269] = "Programa inventarios f\u00edsicos y c\u00edclicos.";
     t[9270] = "Close Grouper";
-    t[9271] = "Cerrar Agurpador";
+    t[9271] = "Cerrar Agrupador";
     t[9272] = "Rescheduled";
     t[9273] = "Reprogramado";
     t[9276] = "Importing Product Files";
