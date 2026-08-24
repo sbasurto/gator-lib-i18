@@ -32,6 +32,13 @@ public final class MessagesSelfCheck {
 		assert "Familia".equals(spanish.getString("Family"));
 		assert "Precio".equals(spanish.getString("Price"));
 		assert "Costo".equals(spanish.getString("Cost"));
+		assert "Columnas".equals(spanish.getString("Columns"));
+		assert "Filtros".equals(spanish.getString("Filters"));
+		assert "Aplicar".equals(spanish.getString("Apply"));
+		assert "Valor a buscar".equals(spanish.getString("Value to find"));
+		assert "Agregar filtro".equals(spanish.getString("Add filter"));
+		assert "Debe permanecer visible al menos una columna".equals(spanish.getString("At least one column must remain visible"));
+		assert "Ir a la página".equals(spanish.getString("Go to page"));
 		assert "Description".equals(english.getString("Description"));
 		assert "Family".equals(english.getString("Family"));
 		assert "Price".equals(english.getString("Price"));

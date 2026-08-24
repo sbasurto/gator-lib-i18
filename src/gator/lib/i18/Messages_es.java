@@ -676,6 +676,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1391] = "Precio por Defecto";
     t[1392] = "Send purchase order";
     t[1393] = "Enviar orden de compra";
+    t[1396] = "Apply";
+    t[1397] = "Aplicar";
     t[1398] = "Destination Lot";
     t[1399] = "Lote Destino";
     t[1408] = "Location ID Filter";
@@ -1248,6 +1250,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2563] = new java.lang.String[] { "Tipo de Factor SAT", "Tipos de Factores SAT" };
     t[2564] = "Purchases order management.";
     t[2565] = "Gesti\u00f3n de ordenes de compra.";
+    t[2568] = "Add filter";
+    t[2569] = "Agregar filtro";
     t[2570] = "This will delete the picking movement, are you sure?";
     t[2571] = "Esto borrar\u00e1 el movimiento de surtido, \u00bfest\u00e1 seguro?";
     t[2574] = "CFDI Use";
@@ -1410,6 +1414,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2885] = "Un SID no puede estar localizado en dos posiciones al mismo tiempo, \u00a1por favor verifique!";
     t[2886] = "Authorize for Price Change";
     t[2887] = "Autorizar por Cambio de Precio";
+    t[2888] = "Value to find";
+    t[2889] = "Valor a buscar";
     t[2898] = "The location exceeds the maximum of skus, please verify!";
     t[2899] = "La ubicaci\u00f3n excede el m\u00e1ximo de skus, \u00a1por favor verifique!";
     t[2900] = "Invoice Selection";
@@ -1996,14 +2002,14 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4097] = "RFC de Banco Receptor";
     t[4102] = "Physical Counting";
     t[4103] = "Conteo F\u00edsico";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4104] = "how many SID's do you want to print?";
     t[4105] = "\u00bfCuantos SID's desea imprimir?";
     t[4112] = "Picking Tag";
     t[4113] = "SID de Surtido";
     t[4114] = "Check Number";
     t[4115] = "N\u00famero de Cheque";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4118] = "You must filter by SKU";
     t[4119] = "Debe de filtrar por SKU";
     t[4120] = "We set up your answering machine with the recording you like.";
@@ -3514,6 +3520,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7277] = "Crear \u00f3rdenes de producci\u00f3n en cualquier momento";
     t[7282] = "The product does not exist in this distribution tag or location, please verify";
     t[7283] = "El producto no existe en esta ubicaci\u00f3n de reparto, \u00a1por favor verifique!";
+    t[7284] = "Go to page";
+    t[7285] = "Ir a la p\u00e1gina";
     t[7286] = "The movement audit could not be registered; the operation was not applied. Please try again.";
     t[7287] = "No fue posible registrar la auditor\u00eda del movimiento; la operaci\u00f3n no fue aplicada. Intente nuevamente.";
     t[7288] = "Kind of regime SAT";
@@ -3996,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8297] = new java.lang.String[] { "Documento de Entrada", "Documentos de Entrada" };
     t[8298] = "Confirm Document";
     t[8299] = "Confirmar Documento";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[8302] = "You don't specify inbound kind, please verify!";
     t[8303] = "No especific\u00f3 el tipo de entrada, \u00a1por favor verifique!";
     t[8304] = "Payment Conditions";
@@ -4004,8 +4014,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8321] = "No puede enviar a surtir un documento sin productos";
     t[8322] = "Frequency Programming";
     t[8323] = "Programaci\u00f3n de Frecuencia";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[8326] = "Confirmed labels: @0";
     t[8327] = "Etiquetas confirmadas: @0";
     t[8334] = "The provider (@1) must exist, please verify! - line(@0)";
@@ -4472,6 +4480,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9383] = "Peso inicial (kg)";
     t[9384] = "Choose User";
     t[9385] = "Seleccionar Usuario";
+    t[9388] = "At least one column must remain visible";
+    t[9389] = "Debe permanecer visible al menos una columna";
     t[9390] = "Address Kind";
     t[9391] = "Tipo de Domicilio";
     t[9392] = "Driver";
@@ -5996,6 +6006,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12633] = "mensual";
     t[12634] = "chat (verb)\u0004chat";
     t[12635] = "Charlar";
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[12636] = "Choose Unit Measure";
     t[12637] = "Seleccionar Unidad de Medida";
     t[12640] = "First Counting";
@@ -6006,8 +6018,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12651] = new java.lang.String[] { "Bodega", "Bodegas" };
     t[12656] = "Authorization";
     t[12657] = new java.lang.String[] { "Autorizaci\u00f3n", "Autorizaciones" };
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[12658] = "Add Submenus";
     t[12659] = "Agregar Submen\u00fas";
     t[12668] = "Please write your street address.";

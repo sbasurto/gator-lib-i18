@@ -492,6 +492,24 @@ msgstr "CSS"
 msgid "Columns"
 msgstr "Columns"
 
+msgid "Filters"
+msgstr "Filters"
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "Value to find"
+msgstr "Value to find"
+
+msgid "Add filter"
+msgstr "Add filter"
+
+msgid "At least one column must remain visible"
+msgstr "At least one column must remain visible"
+
+msgid "Go to page"
+msgstr "Go to page"
+
 msgid "Conditions"
 msgstr "Conditions"
 
