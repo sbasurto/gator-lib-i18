@@ -1690,6 +1690,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3455] = "Fecha de expedici\u00f3n";
     t[3466] = "Completed pick movements";
     t[3467] = "Movimientos de surtido completados";
+    t[3468] = "Something unexpected happened. We couldn\u2019t complete the operation. Please try again. If the issue persists, contact support with reference @0.";
+    t[3469] = "Ocurri\u00f3 algo inesperado. No pudimos completar la operaci\u00f3n. Por favor, int\u00e9ntalo de nuevo. Si el problema persiste, contacta a soporte e indica la referencia @0.";
     t[3470] = "@0, is not a valid format.";
     t[3471] = "@0, no es un formato v\u00e1lido.";
     t[3472] = "Enter quantity, min @0, max @1";
@@ -2000,10 +2002,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4093] = "Debe de confirmar la ubicaci\u00f3n, \u00a1por favor verifique!";
     t[4096] = "Beneficiary Bank Tax Id Number";
     t[4097] = "RFC de Banco Receptor";
-    t[4102] = "Physical Counting";
-    t[4103] = "Conteo F\u00edsico";
   }
   static void clinit_part_1 (java.lang.Object[] t) {
+    t[4102] = "Physical Counting";
+    t[4103] = "Conteo F\u00edsico";
     t[4104] = "how many SID's do you want to print?";
     t[4105] = "\u00bfCuantos SID's desea imprimir?";
     t[4112] = "Picking Tag";
@@ -4002,10 +4004,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8293] = "La referencia confirmada no existe para auditar, por favor verifique";
     t[8296] = "Inbound Document";
     t[8297] = new java.lang.String[] { "Documento de Entrada", "Documentos de Entrada" };
-    t[8298] = "Confirm Document";
-    t[8299] = "Confirmar Documento";
   }
   static void clinit_part_2 (java.lang.Object[] t) {
+    t[8298] = "Confirm Document";
+    t[8299] = "Confirmar Documento";
     t[8302] = "You don't specify inbound kind, please verify!";
     t[8303] = "No especific\u00f3 el tipo de entrada, \u00a1por favor verifique!";
     t[8304] = "Payment Conditions";
@@ -6004,10 +6006,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12631] = "Lote Origen";
     t[12632] = "monthly";
     t[12633] = "mensual";
-    t[12634] = "chat (verb)\u0004chat";
-    t[12635] = "Charlar";
   }
   static void clinit_part_3 (java.lang.Object[] t) {
+    t[12634] = "chat (verb)\u0004chat";
+    t[12635] = "Charlar";
     t[12636] = "Choose Unit Measure";
     t[12637] = "Seleccionar Unidad de Medida";
     t[12640] = "First Counting";
