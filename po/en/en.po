@@ -1031,3 +1031,36 @@ msgstr "Price"
 
 msgid "Cost"
 msgstr "Cost"
+
+msgid "How do you want this operation to be authorized?"
+msgstr "How do you want this operation to be authorized?"
+
+msgid "Supervisor password"
+msgstr "Supervisor password"
+
+msgid "Code by email"
+msgstr "Code by email"
+
+msgid "Code by SMS"
+msgstr "Code by SMS"
+
+msgid "The authorization service is not available"
+msgstr "The authorization service is not available"
+
+msgid "Authorization could not be requested"
+msgstr "Authorization could not be requested"
+
+msgid "Authorization pending"
+msgstr "Authorization pending"
+
+msgid "The request was sent to all authorized users. The first response will be used."
+msgstr "The request was sent to all authorized users. The first response will be used."
+
+msgid "Authorization was not granted"
+msgstr "Authorization was not granted"
+
+msgid "Enter the code received by the authorized user"
+msgstr "Enter the code received by the authorized user"
+
+msgid "Authorize operation"
+msgstr "Authorize operation"

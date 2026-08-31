@@ -21,6 +21,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[33] = "Reprint label";
     t[34] = "Finances";
     t[35] = "Finances";
+    t[36] = "Code by email";
+    t[37] = "Code by email";
     t[38] = "SAT's Countries catalog management.";
     t[39] = "SAT's Countries catalog management.";
     t[42] = "Cancel cut order";
@@ -53,6 +55,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[107] = "Receive roll";
     t[108] = "Check authorization";
     t[109] = "Check authorization";
+    t[112] = "Authorization pending";
+    t[113] = "Authorization pending";
     t[122] = "Scrap 2 weight (kg)";
     t[123] = "Scrap 2 weight (kg)";
     t[128] = "Corridors";
@@ -75,6 +79,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[159] = "Sales Invoiced";
     t[166] = "Projects";
     t[167] = "Projects";
+    t[170] = "Authorize operation";
+    t[171] = "Authorize operation";
     t[174] = "SAT's Kind of factor catalog management.";
     t[175] = "SAT's Kind of factor catalog management.";
     t[176] = "SAT's Tax object catalog management.";
@@ -153,10 +159,16 @@ public class Messages_en extends java.util.ResourceBundle {
     t[317] = "CSS";
     t[318] = "Bank Conciliations";
     t[319] = "Bank Conciliations";
+    t[322] = "Supervisor password";
+    t[323] = "Supervisor password";
+    t[324] = "Code by SMS";
+    t[325] = "Code by SMS";
     t[328] = "Pagination";
     t[329] = "Pagination";
     t[332] = "Remaining roll (kg)";
     t[333] = "Remaining roll (kg)";
+    t[338] = "The request was sent to all authorized users. The first response will be used.";
+    t[339] = "The request was sent to all authorized users. The first response will be used.";
     t[340] = "Allow to see all articles";
     t[341] = "Allow to see all articles";
     t[346] = "Next";
@@ -257,6 +269,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[543] = "Validate which is the maximum PT production.";
     t[544] = "Staying Ok";
     t[545] = "Staying Ok";
+    t[548] = "How do you want this operation to be authorized?";
+    t[549] = "How do you want this operation to be authorized?";
     t[552] = "Evidences";
     t[553] = "Evidences";
     t[554] = "Banks";
@@ -355,6 +369,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[753] = "Check the existence of the summarized product.";
     t[756] = "Permite finalizar empaque aunque no se haya empacado todo.";
     t[757] = "Allow finishing packing before everything has been packed.";
+    t[758] = "Authorization was not granted";
+    t[759] = "Authorization was not granted";
     t[762] = "Sectors management.";
     t[763] = "Sectors management.";
     t[772] = "Providers";
@@ -365,6 +381,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[781] = "Fabric Rolls";
     t[784] = "Allow to authorize anything";
     t[785] = "Allow to authorize anything";
+    t[786] = "The authorization service is not available";
+    t[787] = "The authorization service is not available";
     t[788] = "Entra 1";
     t[789] = "Entra 1";
     t[792] = "User's Manuals";
@@ -425,6 +443,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[925] = "Allow to authorize as supervisor";
     t[926] = "SAT's Relations catalog management.";
     t[927] = "SAT's Relations catalog management.";
+    t[938] = "Enter the code received by the authorized user";
+    t[939] = "Enter the code received by the authorized user";
     t[940] = "Purchases";
     t[941] = "Purchases";
     t[942] = "Sales management.";
@@ -539,6 +559,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1133] = "Outbounds Scan Query";
     t[1134] = "Purchase Details";
     t[1135] = "Purchase Details";
+    t[1136] = "Authorization could not be requested";
+    t[1137] = "Authorization could not be requested";
     t[1140] = "Scan or enter order";
     t[1141] = "Scan or enter order";
     t[1144] = "Shipments";

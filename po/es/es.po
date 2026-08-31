@@ -9983,3 +9983,35 @@ msgstr "Sin familia"
 msgid "Something unexpected happened. We couldn’t complete the operation. Please try again. If the issue persists, contact support with reference @0."
 msgstr "Ocurrió algo inesperado. No pudimos completar la operación. Por favor, inténtalo de nuevo. Si el problema persiste, contacta a soporte e indica la referencia @0."
 
+msgid "How do you want this operation to be authorized?"
+msgstr "¿Cómo desea autorizar esta operación?"
+
+msgid "Supervisor password"
+msgstr "Contraseña de supervisor"
+
+msgid "Code by email"
+msgstr "Código por correo"
+
+msgid "Code by SMS"
+msgstr "Código por SMS"
+
+msgid "The authorization service is not available"
+msgstr "El servicio de autorización no está disponible"
+
+msgid "Authorization could not be requested"
+msgstr "No fue posible solicitar la autorización"
+
+msgid "Authorization pending"
+msgstr "Autorización pendiente"
+
+msgid "The request was sent to all authorized users. The first response will be used."
+msgstr "La solicitud se envió a todos los autorizadores. Se utilizará la primera respuesta."
+
+msgid "Authorization was not granted"
+msgstr "La autorización no fue concedida"
+
+msgid "Enter the code received by the authorized user"
+msgstr "Ingrese el código recibido por el autorizador"
+
+msgid "Authorize operation"
+msgstr "Autorizar operación"
