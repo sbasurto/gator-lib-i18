@@ -32,6 +32,21 @@ public final class MessagesSelfCheck {
 		assert "Familia".equals(spanish.getString("Family"));
 		assert "Precio".equals(spanish.getString("Price"));
 		assert "Costo".equals(spanish.getString("Cost"));
+		assert "Administración de Ventas".equals(spanish.getString("Sales Administration"));
+		assert "Reporte de Precios".equals(spanish.getString("Price Report"));
+		assert "Tipo de precio".equals(spanish.getString("tipo_precio"));
+		assert "Cliente".equals(spanish.getString("cliente"));
+		assert "Grupo".equals(spanish.getString("grupo"));
+		assert "SKU".equals(spanish.getString("sku"));
+		assert "Producto".equals(spanish.getString("producto"));
+		assert "Costo".equals(spanish.getString("costo"));
+		assert "Precio de catálogo".equals(spanish.getString("precio_catalogo"));
+		assert "Porcentaje".equals(spanish.getString("porcentaje"));
+		assert "Precio configurado".equals(spanish.getString("precio_configurado"));
+		assert "Precio calculado".equals(spanish.getString("precio_calculado"));
+		assert "Moneda".equals(spanish.getString("moneda"));
+		assert "Estado".equals(spanish.getString("estado"));
+		assert "Verifique los permisos de acceso".equals(spanish.getString("Verify access rights"));
 		assert "Columnas".equals(spanish.getString("Columns"));
 		assert "Filtros".equals(spanish.getString("Filters"));
 		assert "Aplicar".equals(spanish.getString("Apply"));
@@ -43,6 +58,21 @@ public final class MessagesSelfCheck {
 		assert "Family".equals(english.getString("Family"));
 		assert "Price".equals(english.getString("Price"));
 		assert "Cost".equals(english.getString("Cost"));
+		assert "Sales Administration".equals(english.getString("Sales Administration"));
+		assert "Price Report".equals(english.getString("Price Report"));
+		assert "Price Type".equals(english.getString("tipo_precio"));
+		assert "Customer".equals(english.getString("cliente"));
+		assert "Group".equals(english.getString("grupo"));
+		assert "SKU".equals(english.getString("sku"));
+		assert "Product".equals(english.getString("producto"));
+		assert "Cost".equals(english.getString("costo"));
+		assert "Catalog Price".equals(english.getString("precio_catalogo"));
+		assert "Percentage".equals(english.getString("porcentaje"));
+		assert "Configured Price".equals(english.getString("precio_configurado"));
+		assert "Calculated Price".equals(english.getString("precio_calculado"));
+		assert "Currency".equals(english.getString("moneda"));
+		assert "Status".equals(english.getString("estado"));
+		assert "Verify access rights".equals(english.getString("Verify access rights"));
         assert "CONFIRMED".equals(english.getString("CONFIRMADO"));
     }
 }

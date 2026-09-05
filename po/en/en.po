@@ -1064,3 +1064,48 @@ msgstr "Enter the code received by the authorized user"
 
 msgid "Authorize operation"
 msgstr "Authorize operation"
+
+msgid "Sales Administration"
+msgstr "Sales Administration"
+
+msgid "Price Report"
+msgstr "Price Report"
+
+msgid "tipo_precio"
+msgstr "Price Type"
+
+msgid "cliente"
+msgstr "Customer"
+
+msgid "grupo"
+msgstr "Group"
+
+msgid "sku"
+msgstr "SKU"
+
+msgid "producto"
+msgstr "Product"
+
+msgid "costo"
+msgstr "Cost"
+
+msgid "precio_catalogo"
+msgstr "Catalog Price"
+
+msgid "porcentaje"
+msgstr "Percentage"
+
+msgid "precio_configurado"
+msgstr "Configured Price"
+
+msgid "precio_calculado"
+msgstr "Calculated Price"
+
+msgid "moneda"
+msgstr "Currency"
+
+msgid "estado"
+msgstr "Status"
+
+msgid "Verify access rights"
+msgstr "Verify access rights"

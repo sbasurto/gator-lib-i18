@@ -222,6 +222,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[409] = "Conteo 2";
     t[410] = "Count 3";
     t[411] = "Conteo 3";
+    t[414] = "porcentaje";
+    t[415] = "Porcentaje";
     t[422] = "Menu Icon";
     t[423] = "Icono de Men\u00fa";
     t[428] = "Count locations in counting process.";
@@ -362,6 +364,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[717] = "No puede modificar este registro, el inventario ha sido afectado";
     t[718] = "Element Id";
     t[719] = "Id de Elemento";
+    t[720] = "producto";
+    t[721] = "Producto";
     t[736] = "Save";
     t[737] = "Guardar";
     t[756] = "Minimum Buy Quantity";
@@ -1644,6 +1648,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3339] = "Utilizamos cookies para administrar la seguridad as\u00ed como la funcionalidad de este sitio, para poder utilizar este sitio debe de dar click en \"Aceptar Todas las Cookies\", al dar click usted acepta que Soft Gator puede almacenar cookies en su dispositivo y publicar informaci\u00f3n como se describe en nuestra <a href='https://soft-gator.com/softgator-web/cookies_policy.jsp' target='_blank' class='aqua'>Pol\u00edtica de Cookies</a>";
     t[3342] = "Continue";
     t[3343] = "Continuar";
+    t[3350] = "estado";
+    t[3351] = "Estado";
     t[3354] = "A stock record could not be created, please verify!";
     t[3355] = "El registro de inventario no pudo ser creado, \u00a1por favor verifique!";
     t[3358] = "Scrap 6 weight (kg)";
@@ -1996,14 +2002,14 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4067] = "Es List.Mat.";
     t[4068] = "Enter a valid postal code";
     t[4069] = "Ingrese un c\u00f3digo postal v\u00e1lido";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4072] = "Parent Id";
     t[4073] = "Id del Padre";
     t[4074] = "All sids must be delivered to destination location, verify!";
     t[4075] = "\u00a1Todos los sids deben de ser entregados en su ubicaci\u00f3n destino, verifique!";
     t[4076] = "The confirmed product must be equals to the one in movement, please verify!";
     t[4077] = "El producto confirmado debe de ser igual al del movimiento, \u00a1por favor verifique!";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4078] = "Availability";
     t[4079] = "Disponibilidad";
     t[4080] = "How many categories want to add?";
@@ -3072,6 +3078,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6325] = "\u00bfEst\u00e1 por importar destinos, est\u00e1 seguro?";
     t[6326] = "Add or Modify Bank's Accounts";
     t[6327] = "Agregar o Modificar Cuentas Bancarias";
+    t[6332] = "precio_catalogo";
+    t[6333] = "Precio de cat\u00e1logo";
     t[6336] = "menu";
     t[6337] = new java.lang.String[] { "men\u00fa", "men\u00fas" };
     t[6338] = "Brands";
@@ -3262,6 +3270,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6707] = "El folio y la serie ya han sido utilizados, \u00a1por favor verifique!";
     t[6710] = "You cannot request an EMAIL of a report without pages, please verify!";
     t[6711] = "\u00a1No puede solicitar un correo electr\u00f3nico de un reporte sin p\u00e1ginas, por favor verifique!";
+    t[6714] = "cliente";
+    t[6715] = "Cliente";
     t[6720] = "SENT MORE THAN ONCE";
     t[6721] = "ENVIADO M\u00c1S DE UNA VEZ";
     t[6726] = "Add more than one Card";
@@ -3290,6 +3300,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6771] = "Debe crear primero al cliente";
     t[6774] = "You cannot make blind receipt, please verify!";
     t[6775] = "Usted no puede realizar recibos ciegos, \u00a1por favor verifique!";
+    t[6778] = "precio_configurado";
+    t[6779] = "Precio configurado";
     t[6782] = "Tolerance (kg)";
     t[6783] = "Tolerancia (kg)";
     t[6786] = "BAD REQUEST ERROR";
@@ -3500,6 +3512,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7193] = "Entradas Recientes";
     t[7194] = "Fabric Rolls";
     t[7195] = "Rollos de tela";
+    t[7196] = "costo";
+    t[7197] = "Costo";
     t[7202] = "Enter the received key";
     t[7203] = "Ingrese la clave recibida";
     t[7206] = "The balance for document (@0) could not be updated, please verify!";
@@ -3868,6 +3882,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7991] = "Cliente (Receptor del Comprobante Digital)";
     t[7992] = "Assign Auto";
     t[7993] = "Asignar Auto";
+    t[7994] = "moneda";
+    t[7995] = "Moneda";
     t[7998] = "Pruchase management.";
     t[7999] = "Administraci\u00f3n de compras.";
     t[8018] = "Configuration and Privacy";
@@ -3988,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8233] = "Una rutina externa gener\u00f3 una excepci\u00f3n @0, \u00a1por favor verifique!";
     t[8240] = "Recreate Period";
     t[8241] = "Recrear Periodo";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[8242] = "Apply Payment";
     t[8243] = "Aplicar Pago";
     t[8248] = "The confirm location is [@0], do you want to continue?";
@@ -4004,8 +4022,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8269] = "Informaci\u00f3n requerida no encontrada, \u00a1por favor verifique!";
     t[8276] = "Fiscal Invoice";
     t[8277] = "Factura Fiscal";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[8280] = "Identify the operator by his name.";
     t[8281] = "Identifica al operador por su nombre.";
     t[8288] = "Transfer Detail";
@@ -4014,6 +4030,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8291] = "Seleccionar Servidor";
     t[8292] = "The confirmed reference does not exist to audit, verify";
     t[8293] = "La referencia confirmada no existe para auditar, por favor verifique";
+    t[8294] = "grupo";
+    t[8295] = "Grupo";
     t[8296] = "Inbound Document";
     t[8297] = new java.lang.String[] { "Documento de Entrada", "Documentos de Entrada" };
     t[8298] = "Confirm Document";
@@ -4228,6 +4246,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8777] = "Salidas de Producci\u00f3n";
     t[8778] = "Specify production line for the actual SID! - [@0]";
     t[8779] = "\u00a1Especifique la l\u00ednea de producci\u00f3n! - [@0]";
+    t[8782] = "Verify access rights";
+    t[8783] = "Verifique los permisos de acceso";
     t[8784] = "You must provide a reference for the document";
     t[8785] = "Debe proporcionar una referencia para el documento";
     t[8792] = "SAT's Way to Pay";
@@ -4340,6 +4360,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9027] = "Extra 2";
     t[9030] = "Cash Register Id";
     t[9031] = "Id de Caja Registradora";
+    t[9038] = "sku";
+    t[9039] = "SKU";
     t[9040] = "Due Date is required and must be valid, please verify! - line(@0)";
     t[9041] = "La caducidad es requerida y debe de ser v\u00e1lida, \u00a1por favor verifique! - l\u00ednea(@0)";
     t[9042] = "Add Article";
@@ -4864,6 +4886,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10171] = "Por defecto el producto debe de estar clasificado como A, B o C.";
     t[10174] = "Add or Modify Group's Menus";
     t[10175] = "Agregar o Modificar Men\u00fas del Grupo";
+    t[10178] = "Sales Administration";
+    t[10179] = "Administraci\u00f3n de Ventas";
     t[10180] = "Select Packing";
     t[10181] = "Seleccionar empaque";
     t[10188] = "Asterisk Ultimate";
@@ -5976,10 +6000,14 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12531] = "Su cuenta ha sido confirmada, !por favor proceda a iniciar sesi\u00f3n\u00a1";
     t[12532] = "You are trying to enter a quantity grater than the specified in document, please verify!";
     t[12533] = "Esta ingresando una cantidad mayor a la especificada en el documento, \u00a1por favor verifique!";
+    t[12536] = "precio_calculado";
+    t[12537] = "Precio calculado";
     t[12540] = "Security";
     t[12541] = "Seguridad";
     t[12542] = "Items @0";
     t[12543] = "Productos @0";
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[12544] = "Accounts";
     t[12545] = "Cuentas";
     t[12546] = "Add Items";
@@ -6006,8 +6034,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12595] = "PROHIBIDO";
     t[12596] = "Customize Stock";
     t[12597] = "Inventario Personalizado";
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[12598] = "My Configuration";
     t[12599] = "Mi Configuraci\u00f3n";
     t[12602] = "The inbound document must exist, please verify!";
@@ -6088,6 +6114,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12749] = "Agregar o Modificar Submen\u00fas del Grupo";
     t[12750] = "Sales Order's Id";
     t[12751] = "Id de la Orden de Venta";
+    t[12754] = "Price Report";
+    t[12755] = "Reporte de Precios";
     t[12756] = "SAT's Certificate";
     t[12757] = new java.lang.String[] { "Certificado SAT", "Certificados SAT" };
     t[12762] = "Discount Amount";
@@ -6246,6 +6274,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[13099] = "Carga / Descarga";
     t[13106] = "Do not modify password";
     t[13107] = "No modificar contrase\u00f1a";
+    t[13116] = "tipo_precio";
+    t[13117] = "Tipo de precio";
     t[13120] = "Taxable";
     t[13121] = "Gravable";
     t[13122] = "Please select picking kind first";

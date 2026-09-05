@@ -10015,3 +10015,48 @@ msgstr "Ingrese el código recibido por el autorizador"
 
 msgid "Authorize operation"
 msgstr "Autorizar operación"
+
+msgid "Sales Administration"
+msgstr "Administración de Ventas"
+
+msgid "Price Report"
+msgstr "Reporte de Precios"
+
+msgid "tipo_precio"
+msgstr "Tipo de precio"
+
+msgid "cliente"
+msgstr "Cliente"
+
+msgid "grupo"
+msgstr "Grupo"
+
+msgid "sku"
+msgstr "SKU"
+
+msgid "producto"
+msgstr "Producto"
+
+msgid "costo"
+msgstr "Costo"
+
+msgid "precio_catalogo"
+msgstr "Precio de catálogo"
+
+msgid "porcentaje"
+msgstr "Porcentaje"
+
+msgid "precio_configurado"
+msgstr "Precio configurado"
+
+msgid "precio_calculado"
+msgstr "Precio calculado"
+
+msgid "moneda"
+msgstr "Moneda"
+
+msgid "estado"
+msgstr "Estado"
+
+msgid "Verify access rights"
+msgstr "Verifique los permisos de acceso"
