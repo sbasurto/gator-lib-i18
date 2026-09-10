@@ -1060,6 +1060,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2115] = new java.lang.String[] { "Organizador", "Organizadores" };
     t[2116] = "The target state could not be found, please verify!";
     t[2117] = "No se entr\u00f3 el estado destino, \u00a1por favor verifique!";
+    t[2118] = "Approve";
+    t[2119] = "Aprobar";
     t[2124] = "The transaction could not be registered in cash register, please verify!";
     t[2125] = "La transacci\u00f3n no pudo ser registrada en la caja registradora, \u00a1por favor verifique!";
     t[2128] = "Additional Deliveries";
@@ -2000,10 +2002,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4065] = "Ubicaci\u00f3n Posici\u00f3n Y";
     t[4066] = "Is BoM";
     t[4067] = "Es List.Mat.";
-    t[4068] = "Enter a valid postal code";
-    t[4069] = "Ingrese un c\u00f3digo postal v\u00e1lido";
   }
   static void clinit_part_1 (java.lang.Object[] t) {
+    t[4068] = "Enter a valid postal code";
+    t[4069] = "Ingrese un c\u00f3digo postal v\u00e1lido";
     t[4072] = "Parent Id";
     t[4073] = "Id del Padre";
     t[4074] = "All sids must be delivered to destination location, verify!";
@@ -2444,6 +2446,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4961] = "\u00bfOlvid\u00f3 su Contrase\u00f1a?";
     t[4962] = "Receipt finished goods.";
     t[4963] = "Recivir productos terminados.";
+    t[4964] = "Deactivate";
+    t[4965] = "Desactivar";
     t[4970] = "SAAI Acknowledgement";
     t[4971] = "Acuse SAAI";
     t[4974] = "Process Executor";
@@ -2522,6 +2526,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5109] = "Creado";
     t[5114] = "Do you want to create the inventory card?";
     t[5115] = "\u00bfDesea crear la c\u00e9dula de inventario?";
+    t[5122] = "Recalculate";
+    t[5123] = "Recalcular";
     t[5126] = "Manual Cancellation";
     t[5127] = "Cancelaci\u00f3n Manual";
     t[5128] = "Returns for rf.";
@@ -3998,14 +4004,14 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8221] = "Saltar";
     t[8224] = "Your message";
     t[8225] = "Su mensaje";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[8230] = "Component and product have incompatible units of measure, please verify";
     t[8231] = "Componente y producto tienen unidades de medida incompatibles, por favor verifique";
     t[8232] = "External routine raise an exception @0, please verify!";
     t[8233] = "Una rutina externa gener\u00f3 una excepci\u00f3n @0, \u00a1por favor verifique!";
     t[8240] = "Recreate Period";
     t[8241] = "Recrear Periodo";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[8242] = "Apply Payment";
     t[8243] = "Aplicar Pago";
     t[8248] = "The confirm location is [@0], do you want to continue?";
@@ -5806,6 +5812,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12091] = "Entradas Totales";
     t[12096] = "Timezone";
     t[12097] = "Zona horaria";
+    t[12098] = "Delete manual charge";
+    t[12099] = "Eliminar cargo manual";
     t[12104] = "@0 to count by cycle";
     t[12105] = "@0 a contar por ciclo";
     t[12106] = "Changing SID";
@@ -5904,6 +5912,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12301] = "Intercambie informaci\u00f3n de entrada/salida con otros sistemas en algunos clics, como WebServices, archivos planos y m\u00e1s.";
     t[12312] = "Allow to add users to a group or groups to a user.";
     t[12313] = "Permitir agregar usuarios a un grupo o grupos a un usuario.";
+    t[12316] = "Add manual charge";
+    t[12317] = "Agregar cargo manual";
     t[12318] = "Is a GPS tracking system for several GPS devices, allow you to track your vehicles, merchandise, etc., in real time. We support all well know communication protocols from popular vendors";
     t[12319] = "Es un sistema de rastreo GPS para varios dispositivos, le permite rastrear sus veh\u00edculos, mercanc\u00edas, etc., en tiempo real. Soporta la mayor parte de protocolos de comunicaci\u00f3n de proveedores conocidos";
     t[12320] = "Reports";
@@ -5996,6 +6006,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12527] = "Eventos Demorados";
     t[12528] = "Appointments management.";
     t[12529] = "Gesti\u00f3n de citas.";
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[12530] = "Your account has been confirmed, please proceed to login!";
     t[12531] = "Su cuenta ha sido confirmada, !por favor proceda a iniciar sesi\u00f3n\u00a1";
     t[12532] = "You are trying to enter a quantity grater than the specified in document, please verify!";
@@ -6006,8 +6018,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12541] = "Seguridad";
     t[12542] = "Items @0";
     t[12543] = "Productos @0";
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[12544] = "Accounts";
     t[12545] = "Cuentas";
     t[12546] = "Add Items";

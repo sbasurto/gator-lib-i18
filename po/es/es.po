@@ -10060,3 +10060,18 @@ msgstr "Estado"
 
 msgid "Verify access rights"
 msgstr "Verifique los permisos de acceso"
+
+msgid "Recalculate"
+msgstr "Recalcular"
+
+msgid "Add manual charge"
+msgstr "Agregar cargo manual"
+
+msgid "Delete manual charge"
+msgstr "Eliminar cargo manual"
+
+msgid "Approve"
+msgstr "Aprobar"
+
+msgid "Deactivate"
+msgstr "Desactivar"
