@@ -10075,3 +10075,21 @@ msgstr "Aprobar"
 
 msgid "Deactivate"
 msgstr "Desactivar"
+
+msgid "Are you sure you want to log out?"
+msgstr "¿Desea cerrar la sesión?"
+
+msgid "Log out"
+msgstr "Cerrar sesión"
+
+msgid "Your session has expired"
+msgstr "Tu sesión expiró"
+
+msgid "Your session has ended"
+msgstr "Tu sesión ha finalizado"
+
+msgid "For your security, sign in again to continue."
+msgstr "Por seguridad, vuelve a iniciar sesión para continuar."
+
+msgid "Go to sign in"
+msgstr "Ir al inicio de sesión"

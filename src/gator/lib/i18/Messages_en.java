@@ -75,8 +75,12 @@ public class Messages_en extends java.util.ResourceBundle {
     t[195] = "Show";
     t[200] = "Allow to create addresses with interfaces.";
     t[201] = "Allow to create addresses with interfaces.";
+    t[210] = "Go to sign in";
+    t[211] = "Go to sign in";
     t[214] = "Sales Detail";
     t[215] = "Sales Detail";
+    t[226] = "Are you sure you want to log out?";
+    t[227] = "Are you sure you want to log out?";
     t[236] = "No family";
     t[237] = "No family";
     t[242] = "Staying Ok";
@@ -317,6 +321,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[757] = "Reports";
     t[762] = "Do picking process with packing by RFId.";
     t[763] = "Do picking process with packing by RFId.";
+    t[764] = "For your security, sign in again to continue.";
+    t[765] = "For your security, sign in again to continue.";
     t[768] = "Este bot\u00f3n te permite volver a estado surtiendose.";
     t[769] = "Allow returning to the picking status.";
     t[770] = "Allow to promote a manual to a blog artcle.";
@@ -407,6 +413,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1001] = "SKU";
     t[1006] = "The access request was rejected from Gator Mobile.";
     t[1007] = "The access request was rejected from Gator Mobile.";
+    t[1008] = "Log out";
+    t[1009] = "Log out";
     t[1012] = "Entrada Det Id";
     t[1013] = "Entrada Det Id";
     t[1018] = "CSS";
@@ -537,6 +545,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1345] = "Files";
     t[1350] = "Waste (kg)";
     t[1351] = "Waste (kg)";
+    t[1364] = "Your session has expired";
+    t[1365] = "Your session has expired";
     t[1366] = "Counted Quantity";
     t[1367] = "Counted Quantity";
     t[1374] = "Permite finalizar empaque aunque no se haya empacado todo.";
@@ -607,6 +617,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1531] = "Allow to add users to a group or groups to a user.";
     t[1532] = "Validate which is the maximum PT production.";
     t[1533] = "Validate which is the maximum PT production.";
+    t[1542] = "Your session has ended";
+    t[1543] = "Your session has ended";
     t[1548] = "Go to page";
     t[1549] = "Go to page";
     t[1554] = "Allow to access some financial information.";

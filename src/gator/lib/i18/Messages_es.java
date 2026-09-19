@@ -726,6 +726,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1485] = new java.lang.String[] { "Patente Aduanal SAT", "Patentes Aduanales SAT" };
     t[1486] = "Global outbound documents for all accounts and warehouses report.";
     t[1487] = "Reporte global de documentos de salida para todas las cuentas y bodegas.";
+    t[1490] = "Go to sign in";
+    t[1491] = "Ir al inicio de sesi\u00f3n";
     t[1494] = "The box is full please close packing to continue";
     t[1495] = "La caja est\u00e1 llena por favor cierre el empaque para continuar";
     t[1498] = "You cannot group inbound documents with different kinds, please verify!";
@@ -1182,6 +1184,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2349] = "Reabastecer el pasillo de surtido.";
     t[2350] = "Learn to use Blender a free and open source 3D creation suite. It supports the entirety of the 3D pipeline\u2014modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation";
     t[2351] = "Aprenda a utilizar Blender una suite de c\u00f3digo abierto de creaci\u00f3n de 3D. Se utiliza para animaci\u00f3n, simulaci\u00f3n, representaci\u00f3n, composici\u00f3n, y rastreo de movimiento, incluso en edici\u00f3n de video y creaci\u00f3n de juegos";
+    t[2356] = "For your security, sign in again to continue.";
+    t[2357] = "Por seguridad, vuelve a iniciar sesi\u00f3n para continuar.";
     t[2360] = "The document id cannot be empty, please verify!";
     t[2361] = "Ingrese el id del documento, \u00a1por favor verifique!";
     t[2362] = "The SID already exist and is not in picking state, please verify!";
@@ -1998,12 +2002,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4059] = "El SID origen no existe en la ubicaci\u00f3n origen, \u00a1por favor verifique!";
     t[4060] = "A new way to do software";
     t[4061] = "Una nueva forma de hacer software";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4064] = "Location Y position";
     t[4065] = "Ubicaci\u00f3n Posici\u00f3n Y";
     t[4066] = "Is BoM";
     t[4067] = "Es List.Mat.";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4068] = "Enter a valid postal code";
     t[4069] = "Ingrese un c\u00f3digo postal v\u00e1lido";
     t[4072] = "Parent Id";
@@ -2872,6 +2876,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5861] = new java.lang.String[] { "Ruta", "Rutas" };
     t[5862] = "You are about to delete a payment method, are you sure?";
     t[5863] = "Est\u00e1 a punto de borrar un m\u00e9todo de pago, \u00bfest\u00e1 seguro?";
+    t[5864] = "Your session has expired";
+    t[5865] = "Tu sesi\u00f3n expir\u00f3";
     t[5866] = "The quantity must be grater than 0, please verify!";
     t[5867] = "\u00a1La cantidad debe ser mayor a 0, por favor verifique!";
     t[5874] = "Authorize All";
@@ -3756,6 +3762,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7725] = "Viernes";
     t[7726] = "The document id already exist, please verify! - line(@0)";
     t[7727] = "El documento ya existe, \u00a1por favor verifique! - l\u00ednea(@0)";
+    t[7734] = "Are you sure you want to log out?";
+    t[7735] = "\u00bfDesea cerrar la sesi\u00f3n?";
     t[7736] = "The file columns and database columns must be the same in number";
     t[7737] = "Las columnas del archivo y las columnas de la base de datos deben de ser las mismas en n\u00famero";
     t[7738] = "The location is not a general location, please verify";
@@ -3996,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8201] = "Seleccionar Municipio";
     t[8206] = "Add or Modify Customers";
     t[8207] = "Agregar o Modificar Clientes";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[8214] = "There still are picking movements, please verify!";
     t[8215] = "A\u00fan hay movimientos de surtido, \u00a1por favor verifique!";
     t[8220] = "Verbo\u0004Skip";
@@ -4004,8 +4014,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8225] = "Su mensaje";
     t[8230] = "Component and product have incompatible units of measure, please verify";
     t[8231] = "Componente y producto tienen unidades de medida incompatibles, por favor verifique";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[8232] = "External routine raise an exception @0, please verify!";
     t[8233] = "Una rutina externa gener\u00f3 una excepci\u00f3n @0, \u00a1por favor verifique!";
     t[8240] = "Recreate Period";
@@ -4230,6 +4238,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8733] = "Cajero";
     t[8734] = "Picking Auto";
     t[8735] = "Surtir Auto";
+    t[8736] = "Your session has ended";
+    t[8737] = "Tu sesi\u00f3n ha finalizado";
     t[8744] = "Location Max Due Date";
     t[8745] = "Ubicaci\u00f3n M\u00e1ximo de Caducidades";
     t[8750] = "Accumulated Month";
@@ -5996,6 +6006,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12513] = new java.lang.String[] { "Reparto", "Repartos" };
     t[12518] = "Send to Assign";
     t[12519] = "Enviar a Asignaci\u00f3n";
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[12520] = "Logistic invoicing management.";
     t[12521] = "Gesti\u00f3n de facturaci\u00f3n log\u00edstica.";
     t[12522] = "Outbound Scan Query";
@@ -6006,8 +6018,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12527] = "Eventos Demorados";
     t[12528] = "Appointments management.";
     t[12529] = "Gesti\u00f3n de citas.";
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[12530] = "Your account has been confirmed, please proceed to login!";
     t[12531] = "Su cuenta ha sido confirmada, !por favor proceda a iniciar sesi\u00f3n\u00a1";
     t[12532] = "You are trying to enter a quantity grater than the specified in document, please verify!";
@@ -6234,6 +6244,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12995] = "Aditar cualquier surtido antes de cargar.";
     t[12996] = "You cannot transfer from or to a staying area, please verify!";
     t[12997] = "No puede hacer traspaso desde o hacia una bah\u00eda, \u00a1por favor verifique!";
+    t[12998] = "Log out";
+    t[12999] = "Cerrar sesi\u00f3n";
     t[13002] = "Floor Positions";
     t[13003] = "Posiciones de Piso";
     t[13008] = "Show Authorization Card";

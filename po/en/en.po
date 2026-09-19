@@ -1109,3 +1109,21 @@ msgstr "Status"
 
 msgid "Verify access rights"
 msgstr "Verify access rights"
+
+msgid "Are you sure you want to log out?"
+msgstr "Are you sure you want to log out?"
+
+msgid "Log out"
+msgstr "Log out"
+
+msgid "Your session has expired"
+msgstr "Your session has expired"
+
+msgid "Your session has ended"
+msgstr "Your session has ended"
+
+msgid "For your security, sign in again to continue."
+msgstr "For your security, sign in again to continue."
+
+msgid "Go to sign in"
+msgstr "Go to sign in"
