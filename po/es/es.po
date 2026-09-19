@@ -8768,7 +8768,7 @@ msgstr "Meses de CFDI"
 msgid "For general public the invoice must contains global node, please verify!"
 msgstr "Para público en general la factura debe contener el nodo global, ¡por favor verifique!"
 
-msgid "You are entering dullicate serial number(s) (@0), please verify!"
+msgid "You are entering duplicate serial number(s) (@0), please verify!"
 msgstr "Esta ingresando una serie(s) duplicada(s) (@0), ¡por favor verifique!"
 
 msgid "The serial number(@0) is already in other document(@1), please verify!"

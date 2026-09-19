@@ -6,6 +6,7 @@ public final class MessagesSelfCheck {
     public static void main(String[] args) {
         ResourceBundle spanish = ResourceBundle.getBundle("gator.lib.i18.Messages_es");
         ResourceBundle english = ResourceBundle.getBundle("gator.lib.i18.Messages_en");
+        assert "Esta ingresando una serie(s) duplicada(s) (@0), ¡por favor verifique!".equals(spanish.getString("You are entering duplicate serial number(s) (@0), please verify!"));
         assert "Recalcular".equals(spanish.getString("Recalculate"));
         assert "Agregar cargo manual".equals(spanish.getString("Add manual charge"));
         assert "Eliminar cargo manual".equals(spanish.getString("Delete manual charge"));

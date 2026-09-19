@@ -3822,8 +3822,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7865] = "Id C\u00edclico";
     t[7866] = "You must send quantity for this kind of transfer, please verify!";
     t[7867] = "Debe enviar cantidad para este tipo de traspaso, \u00a1por favor verifique!";
-    t[7868] = "You are entering dullicate serial number(s) (@0), please verify!";
-    t[7869] = "Esta ingresando una serie(s) duplicada(s) (@0), \u00a1por favor verifique!";
     t[7870] = "This is the user id that you must use to access this portal.";
     t[7871] = "Este es el id de usuario que debe utilizar para acceder este sitio.";
     t[7874] = "Show your tracking devices on Google Maps, allowing you to see the street view, last routes, etc.,";
@@ -4004,10 +4002,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8221] = "Saltar";
     t[8224] = "Your message";
     t[8225] = "Su mensaje";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[8230] = "Component and product have incompatible units of measure, please verify";
     t[8231] = "Componente y producto tienen unidades de medida incompatibles, por favor verifique";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[8232] = "External routine raise an exception @0, please verify!";
     t[8233] = "Una rutina externa gener\u00f3 una excepci\u00f3n @0, \u00a1por favor verifique!";
     t[8240] = "Recreate Period";
@@ -4172,6 +4170,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8603] = "La contrase\u00f1a debe de tener valor";
     t[8604] = "An email has been sent";
     t[8605] = "Un correo ha sido enviado";
+    t[8612] = "You are entering duplicate serial number(s) (@0), please verify!";
+    t[8613] = "Esta ingresando una serie(s) duplicada(s) (@0), \u00a1por favor verifique!";
     t[8624] = "Lot";
     t[8625] = new java.lang.String[] { "Lote", "Lotes" };
     t[8628] = "User's Manuals";
