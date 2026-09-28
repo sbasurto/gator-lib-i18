@@ -10150,3 +10150,45 @@ msgstr "Activa"
 
 msgid "Inactive"
 msgstr "Inactiva"
+
+msgid "Gross weight (kg)"
+msgstr "Peso bruto (kg)"
+
+msgid "Tare (kg)"
+msgstr "Tara (kg)"
+
+msgid "Net weight (kg)"
+msgstr "Peso neto (kg)"
+
+msgid "Fabric color"
+msgstr "Color de tela"
+
+msgid "Fabric pattern"
+msgstr "Estampado"
+
+msgid "Fabric quality"
+msgstr "Calidad"
+
+msgid "Length (m)"
+msgstr "Metros del rollo"
+
+msgid "Width (m)"
+msgstr "Ancho (m)"
+
+msgid "Label resolution (DPI)"
+msgstr "Resolución de etiqueta (dpi)"
+
+msgid "Rolls received this session — enter next roll weight and meters"
+msgstr "Rollos recibidos en esta pantalla — capture peso y metros del siguiente"
+
+msgid "Label folio"
+msgstr "Folio de etiqueta"
+
+msgid "Roll Id / Last received roll"
+msgstr "Id del rollo / Último recibido"
+
+msgid "Save, print and receive another roll"
+msgstr "Guardar, imprimir y recibir otro rollo"
+
+msgid "Complete fabric details, positive measurements and gross weight greater than tare"
+msgstr "Complete los datos de tela, las medidas positivas y un peso bruto mayor que la tara"

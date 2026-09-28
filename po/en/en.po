@@ -1184,3 +1184,45 @@ msgstr "Active"
 
 msgid "Inactive"
 msgstr "Inactive"
+
+msgid "Gross weight (kg)"
+msgstr "Gross weight (kg)"
+
+msgid "Tare (kg)"
+msgstr "Tare (kg)"
+
+msgid "Net weight (kg)"
+msgstr "Net weight (kg)"
+
+msgid "Fabric color"
+msgstr "Fabric color"
+
+msgid "Fabric pattern"
+msgstr "Fabric pattern"
+
+msgid "Fabric quality"
+msgstr "Fabric quality"
+
+msgid "Length (m)"
+msgstr "Length (m)"
+
+msgid "Width (m)"
+msgstr "Width (m)"
+
+msgid "Label resolution (DPI)"
+msgstr "Label resolution (DPI)"
+
+msgid "Rolls received this session — enter next roll weight and meters"
+msgstr "Rolls received this session — enter next roll weight and meters"
+
+msgid "Label folio"
+msgstr "Label folio"
+
+msgid "Roll Id / Last received roll"
+msgstr "Roll Id / Last received roll"
+
+msgid "Save, print and receive another roll"
+msgstr "Save, print and receive another roll"
+
+msgid "Complete fabric details, positive measurements and gross weight greater than tare"
+msgstr "Complete fabric details, positive measurements and gross weight greater than tare"

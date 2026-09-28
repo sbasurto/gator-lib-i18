@@ -234,6 +234,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[511] = "La ubicaci\u00f3n excede el m\u00e1ximo de sids, \u00a1por favor verifique!";
     t[518] = "Continue Shopping";
     t[519] = "Continuar Comprando";
+    t[520] = "Gross weight (kg)";
+    t[521] = "Peso bruto (kg)";
     t[522] = "Allow to add users to a group or groups to a user.";
     t[523] = "Permitir agregar usuarios a un grupo o grupos a un usuario.";
     t[528] = "Packing management.";
@@ -536,6 +538,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1163] = "Confirmar Orden de Compra";
     t[1166] = "Inbound Validation Fails!";
     t[1167] = "Fall\u00f3 la Validaci\u00f3n de la Entrada";
+    t[1172] = "Fabric pattern";
+    t[1173] = "Estampado";
     t[1174] = "Floor Positions";
     t[1175] = "Posiciones de Piso";
     t[1176] = "Pull to Arrange";
@@ -1526,8 +1530,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3709] = "Seleccionar Forma de Pago";
     t[3710] = "Event";
     t[3711] = new java.lang.String[] { "Evento", "Eventos" };
+    t[3716] = "Tare (kg)";
+    t[3717] = "Tara (kg)";
     t[3724] = "Curtains Use";
     t[3725] = "Uso de Cortinas";
+    t[3726] = "Fabric quality";
+    t[3727] = "Calidad";
     t[3732] = "Add Accounts";
     t[3733] = "Agregar Cuentas";
     t[3742] = "Not distribute";
@@ -1994,16 +2002,18 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4887] = "Agregar o Modificar Grupos del Usuario";
     t[4894] = "You are about to delete the inventory card, are you sure?";
     t[4895] = "Esta apunto de borrar la c\u00e9dula de inventario, \u00bfesta seguro?";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4896] = "Bind 9 DNS Server";
     t[4897] = "Servidor DNS Bind 9";
     t[4902] = "Cancelation Date";
     t[4903] = new java.lang.String[] { "Fecha de Cancelaci\u00f3n", "Fechas de Cancelaci\u00f3n" };
     t[4906] = "Check the stock summary.";
     t[4907] = "Verificar el resumen de inventario.";
+    t[4908] = "Fabric color";
+    t[4909] = "Color de tela";
     t[4910] = "Final Inventory";
     t[4911] = "Inventario Final";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4914] = "Id Menu";
     t[4915] = "Men\u00fa Id";
     t[4922] = "You cannot modify this record, is pending to pull";
@@ -2610,6 +2620,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6507] = new java.lang.String[] { "Cami\u00f3n", "Camiones" };
     t[6518] = "This SKU is not contained in SID, please verify!";
     t[6519] = "\u00a1El SKU no est\u00e1 contenido en el SID, por favor verifique!";
+    t[6538] = "Width (m)";
+    t[6539] = "Ancho (m)";
     t[6540] = "You cannot modify this record, stock already has been affected";
     t[6541] = "No puede modificar este registro, el inventario ha sido afectado";
     t[6544] = "Customer Return";
@@ -3240,8 +3252,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8099] = "Ubicaci\u00f3n M\u00e1ximo de SKU's";
     t[8100] = "Stock counting.";
     t[8101] = "Conteo de inventario.";
+    t[8104] = "Complete fabric details, positive measurements and gross weight greater than tare";
+    t[8105] = "Complete los datos de tela, las medidas positivas y un peso bruto mayor que la tara";
     t[8110] = "Extra information";
     t[8111] = "Informaci\u00f3n extra";
+    t[8114] = "Net weight (kg)";
+    t[8115] = "Peso neto (kg)";
     t[8138] = "There is not enough inventory please verify!";
     t[8139] = "No hay suficiente inventario, \u00a1por favor verifique!";
     t[8140] = "Message";
@@ -3846,6 +3862,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9669] = new java.lang.String[] { "Agregar Partida", "Agregar Partidas" };
     t[9670] = "Make our customers more productive through efficient use of technology. Ensuring the quality of our products and services thereby increasing the efficiency and effectiveness of the organization in achieving its objectives";
     t[9671] = "Lograr que nuestros clientes sean m\u00e1s productivos con el eficiente uso de la tecnolog\u00eda. Garantizando la calidad en nuestros productos y servicios incrementando as\u00ed la eficiencia y eficacia de la organizaci\u00f3n en el logro de sus objetivos";
+    t[9684] = "Rolls received this session \u2014 enter next roll weight and meters";
+    t[9685] = "Rollos recibidos en esta pantalla \u2014 capture peso y metros del siguiente";
     t[9686] = "Close Cash Register";
     t[9687] = "Cerrar Caja Registradora";
     t[9694] = "Transport units management.";
@@ -3986,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10029] = "Administraci\u00f3n del cat\u00e1logo de usos de CFDI del SAT.";
     t[10034] = "Taxable Related Document";
     t[10035] = "Documento Relacionado Gravable";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[10036] = "Disabled";
     t[10037] = "Deshabilitado";
     t[10038] = "The movement audit could not be registered; the operation was not applied. Please try again.";
@@ -4004,8 +4024,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10059] = "\u00a1La orden de producci\u00f3n no existe, por favor verifique!";
     t[10062] = "Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While Soft Gator S.A de C.V strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board";
     t[10063] = "Cualquier informaci\u00f3n publicada a los tablones de anuncios y/o comunicada en \u00e1reas de charla se convierte en informaci\u00f3n p\u00fablica. Mientras que Soft Gator S.A de C.V se esfuerza por proteger y respetar su privacidad, nosotros no podemos garantizar la seguridad de ninguna informaci\u00f3n que usted haya publicado en cuartos de charla o tablones de noticias o cualquier otro medio electr\u00f3nico fuera de la jurisdicci\u00f3n de Soft Gator S.A de C.V";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[10068] = "Lot";
     t[10069] = new java.lang.String[] { "Lote", "Lotes" };
     t[10070] = "This field is defined by the system in this kind of repetition";
@@ -4332,6 +4350,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10807] = "Entrenamiento Especializado";
     t[10822] = "This month";
     t[10823] = "Este mes";
+    t[10840] = "Length (m)";
+    t[10841] = "Metros del rollo";
     t[10842] = "Specify production line for the actual SID! - [@0]";
     t[10843] = "\u00a1Especifique la l\u00ednea de producci\u00f3n! - [@0]";
     t[10846] = "Discount Percentage";
@@ -4354,6 +4374,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10899] = "Destinatario";
     t[10908] = "Unpaid Taxes";
     t[10909] = "Impuestos Pendientes de Pago";
+    t[10910] = "Save, print and receive another roll";
+    t[10911] = "Guardar, imprimir y recibir otro rollo";
     t[10916] = "There is a counting process happening, please verify!";
     t[10917] = "Hay un conteo en proceso, \u00a1por favor verifique!";
     t[10918] = "Customs's catalog management";
@@ -4540,6 +4562,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11365] = "Adjuntar";
     t[11376] = "SENT MORE THAN ONCE";
     t[11377] = "ENVIADO M\u00c1S DE UNA VEZ";
+    t[11378] = "Roll Id / Last received roll";
+    t[11379] = "Id del rollo / \u00daltimo recibido";
     t[11380] = "Bill of material management.";
     t[11381] = "Gesti\u00f3n de listas de materiales.";
     t[11382] = "Google Maps Location";
@@ -4660,6 +4684,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11709] = "Tipo de otros pagos SAT";
     t[11710] = "Validate which is the maximum Finish Good's production.";
     t[11711] = "Verifique cual es el m\u00e1ximo de producci\u00f3n de PT.";
+    t[11712] = "Label folio";
+    t[11713] = "Folio de etiqueta";
     t[11716] = "Process";
     t[11717] = new java.lang.String[] { "Proceso", "Procesos" };
     t[11730] = "Location's Detail";
@@ -4804,6 +4830,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12057] = "\u00bfCu\u00e1ntos usuarios desea agregar?";
     t[12062] = "Add percentages, amount or formulas";
     t[12063] = "Sumar porcentajes, cantidades o f\u00f3rmulas";
+    t[12066] = "Label resolution (DPI)";
+    t[12067] = "Resoluci\u00f3n de etiqueta (dpi)";
     t[12068] = "Add Servers";
     t[12069] = "Agregar Servidores";
     t[12070] = "Product reception.";
@@ -5978,6 +6006,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14969] = "Los saldos de la orden de venta no pudieron actualizarse, \u00a1por favor verifique!";
     t[14974] = "Regular Pickup";
     t[14975] = "Recolecci\u00f3n Regular";
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[14976] = "You must specify an inbound document";
     t[14977] = "Debe especificar un documento de recibo";
     t[14980] = "Importing Files";
@@ -6006,8 +6036,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[15029] = "Por favor proporcione su nombre completo.";
     t[15030] = "Importing Conversion Codes Files";
     t[15031] = "Importando Archivos de C\u00f3digos Conversi\u00f3n";
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[15036] = "Learn to use Blender a free and open source 3D creation suite. It supports the entirety of the 3D pipeline\u2014modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation";
     t[15037] = "Aprenda a utilizar Blender una suite de c\u00f3digo abierto de creaci\u00f3n de 3D. Se utiliza para animaci\u00f3n, simulaci\u00f3n, representaci\u00f3n, composici\u00f3n, y rastreo de movimiento, incluso en edici\u00f3n de video y creaci\u00f3n de juegos";
     t[15038] = "Apply";
