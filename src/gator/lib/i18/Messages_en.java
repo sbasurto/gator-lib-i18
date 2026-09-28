@@ -7,6 +7,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1] = "Project-Id-Version: 0.1\nReport-Msgid-Bugs-To: \nPO-Revision-Date: 2012-08-16 12:08+local\nLast-Translator: Sergio Basurto <sbasurto@soft-gator.com>\nLanguage-Team: ENGLISH <services@soft-gator.com>\nLanguage: \nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n";
     t[2] = "Quotations";
     t[3] = "Quotations";
+    t[4] = "Scales";
+    t[5] = "Scales";
     t[8] = "Editorial creation.";
     t[9] = "Editorial creation.";
     t[20] = "Bank Conciliations";
@@ -121,6 +123,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[289] = "Roll cut status";
     t[290] = "Creaci\u00f3n y edici\u00f3n de productos con sus caracter\u00edsticas.";
     t[291] = "Create and edit products with their characteristics.";
+    t[292] = "New scale";
+    t[293] = "New scale";
     t[298] = "Provider";
     t[299] = "Provider";
     t[320] = "Sectors";
@@ -155,6 +159,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[393] = "Driver Licenses";
     t[402] = "Location Information";
     t[403] = "Location Information";
+    t[410] = "Scale service URL";
+    t[411] = "Scale service URL";
     t[416] = "SAT's Products catalog management.";
     t[417] = "SAT's Products catalog management.";
     t[418] = "Cash transactions.";
@@ -183,6 +189,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[491] = "Customer Price Groupings";
     t[492] = "Rport to show picking SID's";
     t[493] = "Rport to show picking SID's";
+    t[498] = "Token (leave blank to keep current)";
+    t[499] = "Token (leave blank to keep current)";
     t[502] = "Editorials";
     t[503] = "Editorials";
     t[512] = "New fabric";
@@ -257,6 +265,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[685] = "Product discount grouping";
     t[686] = "sku";
     t[687] = "SKU";
+    t[690] = "Active";
+    t[691] = "Active";
     t[692] = "How do you want this operation to be authorized?";
     t[693] = "How do you want this operation to be authorized?";
     t[696] = "Order remaining weight (kg)";
@@ -487,8 +497,12 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1271] = "Close roll cut and print";
     t[1276] = "Requisitions";
     t[1277] = "Requisitions";
+    t[1280] = "Timeout (ms)";
+    t[1281] = "Timeout (ms)";
     t[1288] = "Administra los tipo proceso de entradas.";
     t[1289] = "Manage inbound process types.";
+    t[1292] = "Inactive";
+    t[1293] = "Inactive";
     t[1296] = "Fabric SKU";
     t[1297] = "Fabric SKU";
     t[1300] = "Authorization was not granted";

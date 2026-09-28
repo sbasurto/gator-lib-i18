@@ -1672,8 +1672,8 @@ msgstr[1] "Caducidades"
 
 msgid "Scale"
 msgid_plural "Scales"
-msgstr[0] "Bascula"
-msgstr[1] "Basculas"
+msgstr[0] "Báscula"
+msgstr[1] "Básculas"
 
 msgid "Lot"
 msgid_plural "Lots"
@@ -10129,3 +10129,24 @@ msgstr "Cerrar corte del rollo e imprimir"
 
 msgid "Select scale"
 msgstr "Seleccionar báscula"
+
+msgid "Scales"
+msgstr "Básculas"
+
+msgid "New scale"
+msgstr "Nueva báscula"
+
+msgid "Scale service URL"
+msgstr "URL del servicio de báscula"
+
+msgid "Token (leave blank to keep current)"
+msgstr "Token (dejar vacío para conservar el actual)"
+
+msgid "Timeout (ms)"
+msgstr "Tiempo de espera (ms)"
+
+msgid "Active"
+msgstr "Activa"
+
+msgid "Inactive"
+msgstr "Inactiva"

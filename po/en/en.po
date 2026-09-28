@@ -1163,3 +1163,24 @@ msgstr "Close roll cut and print"
 
 msgid "Select scale"
 msgstr "Select scale"
+
+msgid "Scales"
+msgstr "Scales"
+
+msgid "New scale"
+msgstr "New scale"
+
+msgid "Scale service URL"
+msgstr "Scale service URL"
+
+msgid "Token (leave blank to keep current)"
+msgstr "Token (leave blank to keep current)"
+
+msgid "Timeout (ms)"
+msgstr "Timeout (ms)"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Inactive"
+msgstr "Inactive"

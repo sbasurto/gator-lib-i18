@@ -412,6 +412,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[879] = "Administraci\u00f3n de Usuario";
     t[880] = "The customer's address is wrong, please verify! - customer(@0)";
     t[881] = "Direcci\u00f3n del cliente incorrecta, \u00a1por favor verifique! - cliente(@0)";
+    t[894] = "Scale service URL";
+    t[895] = "URL del servicio de b\u00e1scula";
     t[896] = "How many accounts want to add?";
     t[897] = "\u00bfCu\u00e1ntas cuentas desea agregar?";
     t[902] = "You are about to import locations, are you sure?";
@@ -682,6 +684,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1555] = "Haga llamadas desde cualquier dispositivo, computadora, tel\u00e9fono, tableta, etc.,";
     t[1560] = "The customer cannot be empty, please verify! - line(@0)";
     t[1561] = "El cliente no puede estar vac\u00edo, \u00a1por favor verifique! - l\u00ednea(@0)";
+    t[1562] = "Scales";
+    t[1563] = "B\u00e1sculas";
     t[1564] = "Redundancy in different countries.";
     t[1565] = "Redundancia en diferentes pa\u00edses.";
     t[1570] = "The list of products to pull is too long: @0";
@@ -1178,6 +1182,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2827] = new java.lang.String[] { "Secci\u00f3n", "Secciones" };
     t[2838] = "Offer";
     t[2839] = new java.lang.String[] { "Oferta", "Ofertas" };
+    t[2844] = "Active";
+    t[2845] = "Activa";
     t[2846] = "Package management, Vim basic commands, root user, permissions of file system, disk quotas, user management and installation of window managers";
     t[2847] = "Manejo de paquetes, comandos b\u00e1sicos de Vim, usuario root, permisos del sistema de archivos, cuotas de disco, administraci\u00f3n de usuarios e instalaci\u00f3n de manejadores de ventanas";
     t[2848] = "Location Max Lot";
@@ -1776,6 +1782,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4379] = "Borrar Env\u00edo";
     t[4380] = "Master Product (@1) validation error, please verify! - line(@0)";
     t[4381] = "Error de validaci\u00f3n del producto M\u00e1ster (@1), \u00a1por favor verifique! - l\u00ednea(@0)";
+    t[4384] = "Timeout (ms)";
+    t[4385] = "Tiempo de espera (ms)";
     t[4388] = "Thursday";
     t[4389] = "Jueves";
     t[4394] = "Operator";
@@ -1994,6 +2002,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4907] = "Verificar el resumen de inventario.";
     t[4910] = "Final Inventory";
     t[4911] = "Inventario Final";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4914] = "Id Menu";
     t[4915] = "Men\u00fa Id";
     t[4922] = "You cannot modify this record, is pending to pull";
@@ -2002,8 +2012,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4931] = "Recuperar Contrase\u00f1a";
     t[4936] = "The product does not exist in this account.";
     t[4937] = "El producto no existe en esta cuenta.";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4962] = "Picking Order";
     t[4963] = "Orden de Surtido";
     t[4966] = "Choose";
@@ -2860,6 +2868,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7085] = "Gator W tiene un conjunto de procesos autom\u00e1ticos, que ayudan a facilitar la operaci\u00f3n de su almac\u00e9n.";
     t[7086] = "There is not product to pull.";
     t[7087] = "No hay producto que arrastrar";
+    t[7094] = "Token (leave blank to keep current)";
+    t[7095] = "Token (dejar vac\u00edo para conservar el actual)";
     t[7100] = "The transferred taxes must be filled in all items that charge a tax, please verify!";
     t[7101] = "Los impuestos trasladados deben de ser llenados en todas las partidas que cobren impuestos, \u00a1por favor verifique!";
     t[7102] = "The picking has not been initialized, if you want to cancel, use cancellation option instead";
@@ -2958,6 +2968,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7375] = "La ubicaci\u00f3n confirmada es [@0], \u00bfdesea continuar?";
     t[7380] = "Program physical and cyclic stocks.";
     t[7381] = "Programa inventarios f\u00edsicos y c\u00edclicos.";
+    t[7382] = "Inactive";
+    t[7383] = "Inactiva";
     t[7384] = "Tells if the product is enable or disabled.";
     t[7385] = "Indica si el producto est\u00e1 habilitado o no.";
     t[7394] = "Set how long before you wish your reminder";
@@ -3992,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10059] = "\u00a1La orden de producci\u00f3n no existe, por favor verifique!";
     t[10062] = "Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While Soft Gator S.A de C.V strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board";
     t[10063] = "Cualquier informaci\u00f3n publicada a los tablones de anuncios y/o comunicada en \u00e1reas de charla se convierte en informaci\u00f3n p\u00fablica. Mientras que Soft Gator S.A de C.V se esfuerza por proteger y respetar su privacidad, nosotros no podemos garantizar la seguridad de ninguna informaci\u00f3n que usted haya publicado en cuartos de charla o tablones de noticias o cualquier otro medio electr\u00f3nico fuera de la jurisdicci\u00f3n de Soft Gator S.A de C.V";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[10068] = "Lot";
     t[10069] = new java.lang.String[] { "Lote", "Lotes" };
     t[10070] = "This field is defined by the system in this kind of repetition";
@@ -4004,8 +4018,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10081] = "Confirmar";
     t[10082] = "Close Date";
     t[10083] = "Fecha de Cierre";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[10084] = "We run test and tools to check your security integrity permietral and internal";
     t[10085] = "Corremos pruebas y herramientas para revisar su seguridad perimetral e interna";
     t[10086] = "Add Configuration";
@@ -4265,7 +4277,7 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10686] = "Appointment Id";
     t[10687] = "Id de Cita";
     t[10690] = "Scale";
-    t[10691] = new java.lang.String[] { "Bascula", "Basculas" };
+    t[10691] = new java.lang.String[] { "B\u00e1scula", "B\u00e1sculas" };
     t[10694] = "Affecting Inventory";
     t[10695] = "Afectando Inventario";
     t[10696] = "Correct receipt";
@@ -5994,6 +6006,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[15029] = "Por favor proporcione su nombre completo.";
     t[15030] = "Importing Conversion Codes Files";
     t[15031] = "Importando Archivos de C\u00f3digos Conversi\u00f3n";
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[15036] = "Learn to use Blender a free and open source 3D creation suite. It supports the entirety of the 3D pipeline\u2014modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation";
     t[15037] = "Aprenda a utilizar Blender una suite de c\u00f3digo abierto de creaci\u00f3n de 3D. Se utiliza para animaci\u00f3n, simulaci\u00f3n, representaci\u00f3n, composici\u00f3n, y rastreo de movimiento, incluso en edici\u00f3n de video y creaci\u00f3n de juegos";
     t[15038] = "Apply";
@@ -6006,8 +6020,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[15045] = new java.lang.String[] { "Partida", "Partidas" };
     t[15046] = "You cannot group documents with different picking kind, please verify!";
     t[15047] = "No puede agrupar documentos con diferentes tipos de surtido, \u00a1por favor verifique!";
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[15048] = "Quality status management, add, update or delete.";
     t[15049] = "Gesti\u00f3n de estados de calidad, agregar, actualizar o borrar.";
     t[15050] = "Customs Value";
@@ -6282,6 +6294,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[15775] = "La ubicaci\u00f3n de conteo y la confirmada deben de ser iguales";
     t[15780] = "Account Movement";
     t[15781] = new java.lang.String[] { "Movimiento en Cuenta", "Movimientos en Cuenta" };
+    t[15782] = "New scale";
+    t[15783] = "Nueva b\u00e1scula";
     t[15784] = "Also is important to mention we are the unique installers of GNU/Linux";
     t[15785] = "Tambi\u00e9n es importante mencionar que somos los \u00fanicos instaladores de GNU/Linux";
     t[15788] = "A dedicate module to make commission management easily, you can specify a percent or a formula to calculate the commissions automatically";
