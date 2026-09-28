@@ -1127,3 +1127,39 @@ msgstr "For your security, sign in again to continue."
 
 msgid "Go to sign in"
 msgstr "Go to sign in"
+
+msgid "Rolls in cut order"
+msgstr "Rolls in cut order"
+
+msgid "Add roll to cut order"
+msgstr "Add roll to cut order"
+
+msgid "Scan or enter available roll ID"
+msgstr "Scan or enter available roll ID"
+
+msgid "Add roll"
+msgstr "Add roll"
+
+msgid "Order status"
+msgstr "Order status"
+
+msgid "Order original weight (kg)"
+msgstr "Order original weight (kg)"
+
+msgid "Order outbound weight (kg)"
+msgstr "Order outbound weight (kg)"
+
+msgid "Order remaining weight (kg)"
+msgstr "Order remaining weight (kg)"
+
+msgid "Roll cut status"
+msgstr "Roll cut status"
+
+msgid "Remove roll from cut order"
+msgstr "Remove roll from cut order"
+
+msgid "Close roll cut and print"
+msgstr "Close roll cut and print"
+
+msgid "Select scale"
+msgstr "Select scale"

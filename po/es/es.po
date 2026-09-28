@@ -10093,3 +10093,39 @@ msgstr "Por seguridad, vuelve a iniciar sesión para continuar."
 
 msgid "Go to sign in"
 msgstr "Ir al inicio de sesión"
+
+msgid "Rolls in cut order"
+msgstr "Rollos de la orden de corte"
+
+msgid "Add roll to cut order"
+msgstr "Agregar rollo a la orden de corte"
+
+msgid "Scan or enter available roll ID"
+msgstr "Escanee o capture el ID de un rollo disponible"
+
+msgid "Add roll"
+msgstr "Agregar rollo"
+
+msgid "Order status"
+msgstr "Estado de la orden"
+
+msgid "Order original weight (kg)"
+msgstr "Peso inicial de la orden (kg)"
+
+msgid "Order outbound weight (kg)"
+msgstr "Peso de salida de la orden (kg)"
+
+msgid "Order remaining weight (kg)"
+msgstr "Remanente de la orden (kg)"
+
+msgid "Roll cut status"
+msgstr "Estado del corte del rollo"
+
+msgid "Remove roll from cut order"
+msgstr "Quitar rollo de la orden"
+
+msgid "Close roll cut and print"
+msgstr "Cerrar corte del rollo e imprimir"
+
+msgid "Select scale"
+msgstr "Seleccionar báscula"
