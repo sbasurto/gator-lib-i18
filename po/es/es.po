@@ -10375,3 +10375,72 @@ msgstr "Registrado"
 
 msgid "Place"
 msgstr "Lugar"
+
+msgid "Item capture"
+msgstr "Captura de partidas"
+
+msgid "Back"
+msgstr "Regresar"
+
+msgid "Search items"
+msgstr "Buscar partida"
+
+msgid "All items"
+msgstr "Todas las partidas"
+
+msgid "New batch items"
+msgstr "Nuevas del lote"
+
+msgid "General data"
+msgstr "Datos generales"
+
+msgid "Document context"
+msgstr "Contexto del documento"
+
+msgid "Draft"
+msgstr "Borrador"
+
+msgid "New item"
+msgstr "Nueva"
+
+msgid "Modified"
+msgstr "Modificación"
+
+msgid "Saved"
+msgstr "Guardada"
+
+msgid "Save item"
+msgstr "Guardar partida"
+
+msgid "Save and next"
+msgstr "Guardar y siguiente"
+
+msgid "Save pending items"
+msgstr "Guardar pendientes"
+
+msgid "Pending items"
+msgstr "Pendientes"
+
+msgid "Restore"
+msgstr "Restaurar"
+
+msgid "Could not retain the draft in this browser tab. Keep the capture open."
+msgstr "No se pudo conservar el borrador en esta pestaña. Mantén la captura abierta."
+
+msgid "Could not save the item. Review the indicated field or server message."
+msgstr "No se pudo guardar la partida. Revisa el campo indicado o el mensaje del servidor."
+
+msgid "Saving"
+msgstr "Guardando"
+
+msgid "Save confirmation was not received. Verify the document before sending again."
+msgstr "No llegó la confirmación del guardado. Verifica el documento antes de volver a enviar."
+
+msgid "Loading document items"
+msgstr "Consultando partidas del documento"
+
+msgid "Could not load all document items. Select the scope again to retry."
+msgstr "No se pudieron consultar todas las partidas. Selecciona el alcance otra vez para reintentar."
+
+msgid "Enter a whole number between 1 and 1000."
+msgstr "Indica un número entero entre 1 y 1000."

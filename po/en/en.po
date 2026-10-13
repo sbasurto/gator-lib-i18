@@ -1430,3 +1430,81 @@ msgstr "Event"
 
 msgid "Place"
 msgstr "Place"
+
+msgid "Item capture"
+msgstr "Item capture"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Search items"
+msgstr "Search items"
+
+msgid "All items"
+msgstr "All items"
+
+msgid "New batch items"
+msgstr "New batch items"
+
+msgid "General data"
+msgstr "General data"
+
+msgid "Extra information"
+msgstr "Extra information"
+
+msgid "Document context"
+msgstr "Document context"
+
+msgid "Item"
+msgstr "Item"
+
+msgid "Draft"
+msgstr "Draft"
+
+msgid "New item"
+msgstr "New item"
+
+msgid "Modified"
+msgstr "Modified"
+
+msgid "Saved"
+msgstr "Saved"
+
+msgid "Save item"
+msgstr "Save item"
+
+msgid "Save and next"
+msgstr "Save and next"
+
+msgid "Save pending items"
+msgstr "Save pending items"
+
+msgid "Pending items"
+msgstr "Pending items"
+
+msgid "Restore"
+msgstr "Restore"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Could not retain the draft in this browser tab. Keep the capture open."
+msgstr "Could not retain the draft in this browser tab. Keep the capture open."
+
+msgid "Could not save the item. Review the indicated field or server message."
+msgstr "Could not save the item. Review the indicated field or server message."
+
+msgid "Saving"
+msgstr "Saving"
+
+msgid "Save confirmation was not received. Verify the document before sending again."
+msgstr "Save confirmation was not received. Verify the document before sending again."
+
+msgid "Loading document items"
+msgstr "Loading document items"
+
+msgid "Could not load all document items. Select the scope again to retry."
+msgstr "Could not load all document items. Select the scope again to retry."
+
+msgid "Enter a whole number between 1 and 1000."
+msgstr "Enter a whole number between 1 and 1000."

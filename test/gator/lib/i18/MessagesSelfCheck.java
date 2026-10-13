@@ -5,6 +5,9 @@ import java.util.ResourceBundle;
 public final class MessagesSelfCheck {
     public static void main(String[] args) {
         ResourceBundle spanish = ResourceBundle.getBundle("gator.lib.i18.Messages_es");
+        assert "Guardar partida".equals(spanish.getString("Save item"));
+        assert "Nueva".equals(spanish.getString("New item"));
+        assert "Contexto del documento".equals(spanish.getString("Document context"));
         assert "Abrir pantallas maximizadas por defecto".equals(spanish.getString("Open screens maximized by default"));
         assert "Minimizar".equals(spanish.getString("Minimize"));
         assert "Maximizar".equals(spanish.getString("Maximize"));

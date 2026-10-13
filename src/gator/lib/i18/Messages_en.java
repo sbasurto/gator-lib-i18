@@ -29,6 +29,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[41] = "Customer Price Grouping";
     t[44] = "Roll cut status";
     t[45] = "Roll cut status";
+    t[48] = "Saved";
+    t[49] = "Saved";
     t[50] = "DHL Shippings";
     t[51] = "DHL Shippings";
     t[54] = "estado";
@@ -37,6 +39,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[57] = "SAT's Custom patent catalog management.";
     t[64] = "New fabric";
     t[65] = "New fabric";
+    t[68] = "Save and next";
+    t[69] = "Save and next";
     t[70] = "Open screens maximized by default";
     t[71] = "Open screens maximized by default";
     t[72] = "Skip 2";
@@ -59,6 +63,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[99] = "Purchase Authorization";
     t[102] = "Sales management.";
     t[103] = "Sales management.";
+    t[104] = "Could not save the item. Review the indicated field or server message.";
+    t[105] = "Could not save the item. Review the indicated field or server message.";
     t[108] = "The SID must exists in location";
     t[109] = "The SID must exists in location";
     t[112] = "Packaging management.";
@@ -81,6 +87,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[139] = "Difference (kg)";
     t[140] = "Warehouse";
     t[141] = "Warehouse";
+    t[144] = "Draft";
+    t[145] = "Draft";
     t[146] = "Packing Information";
     t[147] = "Packing Information";
     t[150] = "Product Stock Summarize";
@@ -97,6 +105,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[171] = "ZZMy Profile";
     t[174] = "Mails";
     t[175] = "Mails";
+    t[180] = "Restore";
+    t[181] = "Restore";
     t[184] = "Allow to promote a manual to a blog artcle.";
     t[185] = "Allow to promote a manual to a blog article.";
     t[188] = "Outbounds";
@@ -141,6 +151,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[265] = "Accounts";
     t[266] = "Order original weight (kg)";
     t[267] = "Order original weight (kg)";
+    t[268] = "Could not retain the draft in this browser tab. Keep the capture open.";
+    t[269] = "Could not retain the draft in this browser tab. Keep the capture open.";
     t[270] = "Warehouses";
     t[271] = "Warehouses";
     t[272] = "Currencies";
@@ -183,6 +195,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[351] = "Import files from any process";
     t[358] = "Add roll to cut order";
     t[359] = "Add roll to cut order";
+    t[372] = "Save pending items";
+    t[373] = "Save pending items";
     t[374] = "Save changes";
     t[375] = "Save changes";
     t[376] = "Add roll";
@@ -197,6 +211,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[393] = "SAT's Periodicity catalog management.";
     t[394] = "Reprint label";
     t[395] = "Reprint label";
+    t[400] = "Loading document items";
+    t[401] = "Loading document items";
     t[402] = "Boxes";
     t[403] = "Boxes";
     t[404] = "costo";
@@ -217,6 +233,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[437] = "Initial weight (kg)";
     t[442] = "Adjustments";
     t[443] = "Adjustments";
+    t[444] = "Could not load all document items. Select the scope again to retry.";
+    t[445] = "Could not load all document items. Select the scope again to retry.";
     t[450] = "The access request was rejected from Gator Mobile.";
     t[451] = "The access request was rejected from Gator Mobile.";
     t[452] = "Rolls in cut order";
@@ -225,6 +243,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[455] = "Configure indicator";
     t[456] = "Sales Invoiced";
     t[457] = "Sales Invoiced";
+    t[458] = "Close";
+    t[459] = "Close";
     t[470] = "Requisitions";
     t[471] = "Requisitions";
     t[472] = "This preference is personal. It does not change indicator data.";
@@ -249,6 +269,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[507] = "Fabric pattern";
     t[510] = "Authorization pending";
     t[511] = "Authorization pending";
+    t[514] = "Search items";
+    t[515] = "Search items";
     t[520] = "Editorial creation.";
     t[521] = "Editorial creation.";
     t[534] = "Loading indicator";
@@ -271,6 +293,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[573] = "Save, print and receive another roll";
     t[576] = "Choose your indicators and their order.";
     t[577] = "Choose your indicators and their order.";
+    t[580] = "Save confirmation was not received. Verify the document before sending again.";
+    t[581] = "Save confirmation was not received. Verify the document before sending again.";
     t[584] = "Show Picking SIDs";
     t[585] = "Show Picking SIDs";
     t[586] = "Allows for the authorization of purchases.";
@@ -287,6 +311,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[613] = "Counting Report, etc.";
     t[614] = "INGRESADO";
     t[615] = "CAPTURED";
+    t[616] = "Extra information";
+    t[617] = "Extra information";
     t[620] = "Allow to set accept solutions even if is not the ticket owner.";
     t[621] = "Allow to accept solutions even if the user is not the ticket owner.";
     t[622] = "Units";
@@ -303,6 +329,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[643] = "Current state";
     t[648] = "Allow to set Responsible for Support Tickets";
     t[649] = "Allow to set Responsible for Support Tickets";
+    t[652] = "All items";
+    t[653] = "All items";
     t[654] = "Scan location";
     t[655] = "Scan location";
     t[666] = "Fabric";
@@ -347,6 +375,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[767] = "Scan or enter order";
     t[768] = "Rport to show picking SID's";
     t[769] = "Rport to show picking SID's";
+    t[770] = "Item capture";
+    t[771] = "Item capture";
     t[772] = "Contacts";
     t[773] = "Contacts";
     t[776] = "Enter the code received by the authorized user";
@@ -373,6 +403,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[827] = "Close roll cut and print";
     t[828] = "Authorization was not granted";
     t[829] = "Authorization was not granted";
+    t[838] = "Saving";
+    t[839] = "Saving";
     t[840] = "Code by SMS";
     t[841] = "Code by SMS";
     t[848] = "Check authorization";
@@ -447,6 +479,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1013] = "Detailed sales by product.";
     t[1014] = "Allow to add users to a group or groups to a user.";
     t[1015] = "Allow to add users to a group or groups to a user.";
+    t[1018] = "Save item";
+    t[1019] = "Save item";
     t[1022] = "SAT's Relations catalog management.";
     t[1023] = "SAT's Relations catalog management.";
     t[1028] = "Cancel cut order";
@@ -475,6 +509,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1095] = "Weekly";
     t[1096] = "No family";
     t[1097] = "No family";
+    t[1100] = "Enter a whole number between 1 and 1000.";
+    t[1101] = "Enter a whole number between 1 and 1000.";
     t[1102] = "Scales";
     t[1103] = "Scales";
     t[1106] = "SID Information";
@@ -573,6 +609,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1317] = "Send to cutting";
     t[1320] = "Your operation at a glance.";
     t[1321] = "Your operation at a glance.";
+    t[1322] = "New batch items";
+    t[1323] = "New batch items";
     t[1326] = "Tasks";
     t[1327] = "Tasks";
     t[1328] = "Cyclic Inventories";
@@ -603,6 +641,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1389] = "Soft Gator Development Team";
     t[1390] = "SAT's Exports catalog management.";
     t[1391] = "SAT's Exports catalog management.";
+    t[1392] = "Document context";
+    t[1393] = "Document context";
     t[1394] = "Brands";
     t[1395] = "Brands";
     t[1402] = "Allow to logout and manage user and account information.";
@@ -625,6 +665,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1441] = "Length (m)";
     t[1446] = "Period";
     t[1447] = "Period";
+    t[1454] = "Modified";
+    t[1455] = "Modified";
     t[1466] = "Gross weight (kg)";
     t[1467] = "Gross weight (kg)";
     t[1470] = "Scale service URL";
@@ -635,6 +677,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1485] = "Productive processes management.";
     t[1486] = "Evidences";
     t[1487] = "Evidences";
+    t[1498] = "Back";
+    t[1499] = "Back";
     t[1500] = "Allow to authorize anything";
     t[1501] = "Allow to authorize anything";
     t[1512] = "Series";
@@ -657,6 +701,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1561] = "Occupied";
     t[1564] = "Transfer Quantity";
     t[1565] = "Transfer Quantity";
+    t[1568] = "Item";
+    t[1569] = "Item";
     t[1576] = "Inactive";
     t[1577] = "Inactive";
     t[1578] = "Kardex";
@@ -715,6 +761,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1745] = "Change payment method on invoices.";
     t[1748] = "Value";
     t[1749] = "Value";
+    t[1754] = "General data";
+    t[1755] = "General data";
     t[1756] = "At least one column must remain visible";
     t[1757] = "At least one column must remain visible";
     t[1758] = "The product must exists in location";
@@ -763,6 +811,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1903] = "Corridors management.";
     t[1904] = "Fabric Cut Orders";
     t[1905] = "Fabric Cut Orders";
+    t[1906] = "Pending items";
+    t[1907] = "Pending items";
     t[1924] = "SAT's Kind of voucher catalog management.";
     t[1925] = "SAT's Kind of voucher catalog management.";
     t[1926] = "Allow to access some financial information.";
@@ -819,6 +869,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[2047] = "Select Packing";
     t[2048] = "Production Outbounds";
     t[2049] = "Production Outbounds";
+    t[2050] = "New item";
+    t[2051] = "New item";
     t[2054] = "Event";
     t[2055] = "Event";
     t[2056] = "Inbounds";
