@@ -10192,3 +10192,24 @@ msgstr "Guardar, imprimir y recibir otro rollo"
 
 msgid "Complete fabric details, positive measurements and gross weight greater than tare"
 msgstr "Complete los datos de tela, las medidas positivas y un peso bruto mayor que la tara"
+
+msgid "Minimize"
+msgstr "Minimizar"
+
+msgid "Maximize"
+msgstr "Maximizar"
+
+msgid "Restore size"
+msgstr "Restaurar tamaño"
+
+msgid "Close pool"
+msgstr "Cerrar pool"
+
+msgid "Open screens maximized by default"
+msgstr "Abrir pantallas maximizadas por defecto"
+
+msgid "Could not load your preference. Please try again."
+msgstr "No se pudo consultar tu preferencia. Puedes volver a intentar."
+
+msgid "Could not save your preference. Your previous choice is preserved."
+msgstr "No se pudo guardar tu preferencia. Tu elección anterior se conserva."

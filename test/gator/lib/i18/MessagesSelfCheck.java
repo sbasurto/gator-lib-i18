@@ -5,6 +5,12 @@ import java.util.ResourceBundle;
 public final class MessagesSelfCheck {
     public static void main(String[] args) {
         ResourceBundle spanish = ResourceBundle.getBundle("gator.lib.i18.Messages_es");
+        assert "Abrir pantallas maximizadas por defecto".equals(spanish.getString("Open screens maximized by default"));
+        assert "Minimizar".equals(spanish.getString("Minimize"));
+        assert "Maximizar".equals(spanish.getString("Maximize"));
+        assert "Restaurar tamaño".equals(spanish.getString("Restore size"));
+        assert "Cerrar pool".equals(spanish.getString("Close pool"));
+
         ResourceBundle english = ResourceBundle.getBundle("gator.lib.i18.Messages_en");
         assert "Esta ingresando una serie(s) duplicada(s) (@0), ¡por favor verifique!".equals(spanish.getString("You are entering duplicate serial number(s) (@0), please verify!"));
         assert "Recalcular".equals(spanish.getString("Recalculate"));

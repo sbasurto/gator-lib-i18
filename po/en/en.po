@@ -1226,3 +1226,24 @@ msgstr "Save, print and receive another roll"
 
 msgid "Complete fabric details, positive measurements and gross weight greater than tare"
 msgstr "Complete fabric details, positive measurements and gross weight greater than tare"
+
+msgid "Minimize"
+msgstr "Minimize"
+
+msgid "Maximize"
+msgstr "Maximize"
+
+msgid "Restore size"
+msgstr "Restore size"
+
+msgid "Close pool"
+msgstr "Close pool"
+
+msgid "Open screens maximized by default"
+msgstr "Open screens maximized by default"
+
+msgid "Could not load your preference. Please try again."
+msgstr "Could not load your preference. Please try again."
+
+msgid "Could not save your preference. Your previous choice is preserved."
+msgstr "Could not save your preference. Your previous choice is preserved."
