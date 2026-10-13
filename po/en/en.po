@@ -1247,3 +1247,186 @@ msgstr "Could not load your preference. Please try again."
 
 msgid "Could not save your preference. Your previous choice is preserved."
 msgstr "Could not save your preference. Your previous choice is preserved."
+
+msgid "Configure"
+msgstr "Configure"
+
+msgid "Configure indicator"
+msgstr "Configure indicator"
+
+msgid "Configure board"
+msgstr "Configure board"
+
+msgid "Chart"
+msgstr "Chart"
+
+msgid "Data summary"
+msgstr "Data summary"
+
+msgid "View report"
+msgstr "View report"
+
+msgid "Period"
+msgstr "Period"
+
+msgid "Current month"
+msgstr "Current month"
+
+msgid "Previous month"
+msgstr "Previous month"
+
+msgid "Indicator title"
+msgstr "Indicator title"
+
+msgid "No historical data"
+msgstr "No historical data"
+
+msgid "No linked report"
+msgstr "No linked report"
+
+msgid "No indicators selected"
+msgstr "No indicators selected"
+
+msgid "Preferences saved in this browser"
+msgstr "Preferences saved in this browser"
+
+msgid "Changes applied but could not be saved"
+msgstr "Changes applied but could not be saved"
+
+msgid "Could not load indicator"
+msgstr "Could not load indicator"
+
+msgid "Loading indicator"
+msgstr "Loading indicator"
+
+msgid "Your operation at a glance."
+msgstr "Your operation at a glance."
+
+msgid "Indicator report"
+msgstr "Indicator report"
+
+msgid "Current state"
+msgstr "Current state"
+
+msgid "Historical closing balances"
+msgstr "Historical closing balances"
+
+msgid "Units"
+msgstr "Units"
+
+msgid "Concept"
+msgstr "Concept"
+
+msgid "Value"
+msgstr "Value"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Available"
+msgstr "Available"
+
+msgid "Damaged"
+msgstr "Damaged"
+
+msgid "Other statuses"
+msgstr "Other statuses"
+
+msgid "Occupied"
+msgstr "Occupied"
+
+msgid "Capacity"
+msgstr "Capacity"
+
+msgid "Free"
+msgstr "Free"
+
+msgid "Move up"
+msgstr "Move up"
+
+msgid "Move down"
+msgstr "Move down"
+
+msgid "Configure a destination"
+msgstr "Configure a destination"
+
+msgid "Preferences are available only during this visit"
+msgstr "Preferences are available only during this visit"
+
+msgid "Title is required"
+msgstr "Title is required"
+
+msgid "Adjust its appearance and destination."
+msgstr "Adjust its appearance and destination."
+
+msgid "Line with area"
+msgstr "Line with area"
+
+msgid "Bars"
+msgstr "Bars"
+
+msgid "Goal"
+msgstr "Goal"
+
+msgid "Shown as a reference line on the chart."
+msgstr "Shown as a reference line on the chart."
+
+msgid "Linked report"
+msgstr "Linked report"
+
+msgid "The report opens with this indicator’s period and selected warehouse."
+msgstr "The report opens with this indicator’s period and selected warehouse."
+
+msgid "This preference is personal. It does not change indicator data."
+msgstr "This preference is personal. It does not change indicator data."
+
+msgid "Save changes"
+msgstr "Save changes"
+
+msgid "Choose your indicators and their order."
+msgstr "Choose your indicators and their order."
+
+msgid "Enable the indicators you need. Use the arrows to order them."
+msgstr "Enable the indicators you need. Use the arrows to order them."
+
+msgid "Restore defaults"
+msgstr "Restore defaults"
+
+msgid "Save board"
+msgstr "Save board"
+
+msgid "Occupancy"
+msgstr "Occupancy"
+
+msgid "No data for this chart"
+msgstr "No data for this chart"
+
+msgid "No configured capacity"
+msgstr "No configured capacity"
+
+msgid "Select warehouse"
+msgstr "Select warehouse"
+
+msgid "Warehouse"
+msgstr "Warehouse"
+
+msgid "Current operational report"
+msgstr "Current operational report"
+
+msgid "Operational reports show the current state"
+msgstr "Operational reports show the current state"
+
+msgid "Pending events"
+msgstr "Pending events"
+
+msgid "Historical data"
+msgstr "Historical data"
+
+msgid "Registered"
+msgstr "Registered"
+
+msgid "Event"
+msgstr "Event"
+
+msgid "Place"
+msgstr "Place"

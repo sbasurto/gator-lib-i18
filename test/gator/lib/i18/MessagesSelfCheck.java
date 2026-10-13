@@ -11,6 +11,9 @@ public final class MessagesSelfCheck {
         assert "Restaurar tamaño".equals(spanish.getString("Restore size"));
         assert "Cerrar pool".equals(spanish.getString("Close pool"));
 
+        assert "Menú".equals(spanish.getString("Menu"));
+        assert "Tableros".equals(((String[]) ((Messages_es) spanish).lookup("Board"))[1]);
+        assert "Ver reporte".equals(spanish.getString("View report"));
         ResourceBundle english = ResourceBundle.getBundle("gator.lib.i18.Messages_en");
         assert "Esta ingresando una serie(s) duplicada(s) (@0), ¡por favor verifique!".equals(spanish.getString("You are entering duplicate serial number(s) (@0), please verify!"));
         assert "Recalcular".equals(spanish.getString("Recalculate"));

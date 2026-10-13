@@ -875,8 +875,8 @@ msgstr[1] "Meses"
 
 msgid "Period"
 msgid_plural "Periods"
-msgstr[0] "Periodo"
-msgstr[1] "Periodos"
+msgstr[0] "Período"
+msgstr[1] "Períodos"
 
 msgid "Phone Number"
 msgid_plural "Phone Numbers"
@@ -10213,3 +10213,165 @@ msgstr "No se pudo consultar tu preferencia. Puedes volver a intentar."
 
 msgid "Could not save your preference. Your previous choice is preserved."
 msgstr "No se pudo guardar tu preferencia. Tu elección anterior se conserva."
+
+msgid "Configure"
+msgstr "Configurar"
+
+msgid "Configure indicator"
+msgstr "Configurar indicador"
+
+msgid "Configure board"
+msgstr "Configurar tablero"
+
+msgid "Chart"
+msgstr "Gráfica"
+
+msgid "Data summary"
+msgstr "Resumen de datos"
+
+msgid "View report"
+msgstr "Ver reporte"
+
+msgid "Current month"
+msgstr "Mes actual"
+
+msgid "Previous month"
+msgstr "Mes anterior"
+
+msgid "Indicator title"
+msgstr "Título"
+
+msgid "No historical data"
+msgstr "Sin datos históricos"
+
+msgid "No linked report"
+msgstr "Sin reporte vinculado"
+
+msgid "No indicators selected"
+msgstr "No tienes indicadores visibles"
+
+msgid "Preferences saved in this browser"
+msgstr "Preferencias guardadas en este navegador"
+
+msgid "Changes applied but could not be saved"
+msgstr "Cambios aplicados, pero no fue posible guardarlos"
+
+msgid "Could not load indicator"
+msgstr "No fue posible cargar el indicador"
+
+msgid "Loading indicator"
+msgstr "Cargando indicador"
+
+msgid "Your operation at a glance."
+msgstr "Tu operación, en una sola vista."
+
+msgid "Indicator report"
+msgstr "Reporte del indicador"
+
+msgid "Current state"
+msgstr "Estado actual"
+
+msgid "Historical closing balances"
+msgstr "Saldos históricos al cierre"
+
+msgid "Units"
+msgstr "Unidades"
+
+msgid "Concept"
+msgstr "Concepto"
+
+msgid "Available"
+msgstr "Disponibles"
+
+msgid "Damaged"
+msgstr "Dañadas"
+
+msgid "Other statuses"
+msgstr "Otros estados"
+
+msgid "Occupied"
+msgstr "Ocupadas"
+
+msgid "Free"
+msgstr "Libres"
+
+msgid "Move up"
+msgstr "Subir"
+
+msgid "Move down"
+msgstr "Bajar"
+
+msgid "Configure a destination"
+msgstr "Configura un destino"
+
+msgid "Preferences are available only during this visit"
+msgstr "Preferencias disponibles solo durante esta visita"
+
+msgid "Title is required"
+msgstr "Escribe un título."
+
+msgid "Adjust its appearance and destination."
+msgstr "Ajusta cómo lo ves y a dónde te lleva."
+
+msgid "Line with area"
+msgstr "Línea con área"
+
+msgid "Bars"
+msgstr "Barras"
+
+msgid "Goal"
+msgstr "Meta"
+
+msgid "Shown as a reference line on the chart."
+msgstr "Se mostrará como una línea de referencia en la gráfica."
+
+msgid "Linked report"
+msgstr "Reporte vinculado"
+
+msgid "The report opens with this indicator’s period and selected warehouse."
+msgstr "«Ver reporte» abrirá este destino con el período de este indicador y la bodega seleccionada."
+
+msgid "This preference is personal. It does not change indicator data."
+msgstr "Esta preferencia es personal. No modifica los datos del indicador."
+
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+msgid "Choose your indicators and their order."
+msgstr "Elige tus indicadores y su orden."
+
+msgid "Enable the indicators you need. Use the arrows to order them."
+msgstr "Activa los que necesitas. Usa las flechas para ordenarlos."
+
+msgid "Restore defaults"
+msgstr "Restablecer valores"
+
+msgid "Save board"
+msgstr "Guardar tablero"
+
+msgid "No data for this chart"
+msgstr "Sin datos para graficar"
+
+msgid "No configured capacity"
+msgstr "Sin capacidad configurada"
+
+msgid "Select warehouse"
+msgstr "Seleccionar bodega"
+
+msgid "Current operational report"
+msgstr "Consulta operativa actual"
+
+msgid "Operational reports show the current state"
+msgstr "La consulta operativa muestra el estado actual"
+
+msgid "Pending events"
+msgstr "Eventos pendientes"
+
+msgid "Historical data"
+msgstr "Datos históricos"
+
+msgid "Registered"
+msgstr "Registrado"
+
+msgid "Place"
+msgstr "Lugar"
