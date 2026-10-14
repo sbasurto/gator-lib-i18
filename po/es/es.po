@@ -10444,3 +10444,9 @@ msgstr "No se pudieron consultar todas las partidas. Selecciona el alcance otra 
 
 msgid "Enter a whole number between 1 and 1000."
 msgstr "Indica un número entero entre 1 y 1000."
+
+msgid "Marked rows"
+msgstr "renglones marcados"
+
+msgid "Clear marks"
+msgstr "Quitar marcas"

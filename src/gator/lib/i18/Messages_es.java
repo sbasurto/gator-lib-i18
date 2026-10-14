@@ -1150,6 +1150,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2633] = "Consejo";
     t[2634] = "Size";
     t[2635] = "Talla";
+    t[2636] = "Clear marks";
+    t[2637] = "Quitar marcas";
     t[2638] = "In the main screen you will find all you need to make decisions, from best seller product to income per month";
     t[2639] = "En la pantalla principal encontrar\u00e1 todo lo que necesita para tomar decisiones, desde el producto m\u00e1s vendido hasta ganancias por mes";
     t[2640] = "Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure";
@@ -2002,10 +2004,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4791] = "Un software para administrar las ventas de cualquier tipo de empresa, peque\u00f1a, mediana o grande. El software cubre desde la cotizaci\u00f3n hasta la factura, pasando por Punto de Venta y CRM";
     t[4792] = "Expand your creativity and learn to use the best tools in the market of IT and make a difference in your world";
     t[4793] = "Expanda su creatividad y aprenda a usar las mejores herramientas en el mercado de TI y haga la diferencia en su mundo";
-    t[4800] = "The location is not a staying one, is disabled or is in counting state, please verify!";
-    t[4801] = "!La ubicaci\u00f3n no es de estad\u00eda, est\u00e1 deshabilitada o en proceso de conteo, por favor verifique!";
   }
   static void clinit_part_1 (java.lang.Object[] t) {
+    t[4800] = "The location is not a staying one, is disabled or is in counting state, please verify!";
+    t[4801] = "!La ubicaci\u00f3n no es de estad\u00eda, est\u00e1 deshabilitada o en proceso de conteo, por favor verifique!";
     t[4812] = "Convert Requisitions in Purchase Orders";
     t[4813] = "Convertir requisiciones en \u00f3rdenes de compra";
     t[4814] = "Adjust";
@@ -4004,14 +4006,16 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9799] = "Acumulado Mes";
     t[9800] = "Seller";
     t[9801] = new java.lang.String[] { "Vendedor", "Vendedores" };
-    t[9804] = "Origin resources SAT's catalog management.";
-    t[9805] = "Administraci\u00f3n de cat\u00e1logo de origen de recursos SAT.";
   }
   static void clinit_part_2 (java.lang.Object[] t) {
+    t[9804] = "Origin resources SAT's catalog management.";
+    t[9805] = "Administraci\u00f3n de cat\u00e1logo de origen de recursos SAT.";
     t[9808] = "Inbound";
     t[9809] = new java.lang.String[] { "Entrada", "Entradas" };
     t[9810] = "Total with Shipping";
     t[9811] = "Total con Env\u00edo";
+    t[9820] = "Marked rows";
+    t[9821] = "renglones marcados";
     t[9822] = "Participio Masculino\u0004Read";
     t[9823] = new java.lang.String[] { "Le\u00eddo", "Le\u00eddos" };
     t[9830] = "You must specify amount";
@@ -6004,12 +6008,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14583] = "Meses de CFDI";
     t[14586] = "Appointment Reason";
     t[14587] = "Motivo de Cita";
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[14592] = "General Warehouse Legal Name";
     t[14593] = "Raz\u00f3n social del almac\u00e9n general";
     t[14594] = "My Profile Administration";
     t[14595] = "Administraci\u00f3n de Mi Perfil";
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[14602] = "Fri";
     t[14603] = "Vie";
     t[14604] = "Picking by RFId";

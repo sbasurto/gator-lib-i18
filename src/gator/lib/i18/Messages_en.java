@@ -395,6 +395,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[807] = "Do picking process with packing by RFId.";
     t[808] = "Addresses";
     t[809] = "Addresses";
+    t[810] = "Marked rows";
+    t[811] = "Marked rows";
     t[814] = "Ver actas nacionales y fiscales";
     t[815] = "View domestic and fiscal certificates";
     t[820] = "Auto filled";
@@ -779,6 +781,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1793] = "Occupancy";
     t[1806] = "No configured capacity";
     t[1807] = "No configured capacity";
+    t[1814] = "Clear marks";
+    t[1815] = "Clear marks";
     t[1818] = "Configure cyclic inventory.";
     t[1819] = "Configure cyclic inventory.";
     t[1822] = "Restore size";
