@@ -10465,3 +10465,54 @@ msgstr "Datos logísticos"
 
 msgid "Help"
 msgstr "Ayuda"
+
+msgid "Capture mode"
+msgstr "Modo de captura"
+
+msgid "Use physical scanner"
+msgstr "Usar lector físico"
+
+msgid "When enabled, the screen requests that the virtual keyboard remain hidden. You can return to manual entry at any time."
+msgstr "Al activarlo, se solicita ocultar el teclado virtual. Puedes volver a la captura manual en cualquier momento."
+
+msgid "RF field"
+msgstr "Campo"
+
+msgid "of"
+msgstr "de"
+
+msgid "Capture progress"
+msgstr "Avance de captura"
+
+msgid "Captured data"
+msgstr "Datos capturados"
+
+msgid "Additional actions"
+msgstr "Más acciones"
+
+msgid "Edit captured data"
+msgstr "Editar datos capturados"
+
+msgid "Consult"
+msgstr "Consultar"
+
+msgid "Clear field"
+msgstr "Limpiar campo"
+
+msgid "RF Menu"
+msgstr "Menú RF"
+
+msgid "SID query"
+msgstr "Consulta de SID"
+
+msgid "Location query"
+msgstr "Consulta de ubicación"
+
+msgid "RF Receipt"
+msgstr "Recibo"
+
+msgid "Receipt actions"
+msgstr "Acciones del recibo"
+
+msgid "New scan"
+msgstr "Nueva lectura"
