@@ -1064,6 +1064,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2431] = "Administrar Periodo";
     t[2432] = "Verify the resume stock for any product.";
     t[2433] = "Verificar el resumen de inventario para cualquier producto.";
+    t[2434] = "Prices and taxes";
+    t[2435] = "Precios e impuestos";
     t[2438] = "Scheduled Order";
     t[2439] = "Pedido Programado";
     t[2442] = "Week Start";
@@ -1458,6 +1460,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3387] = "Zona horaria";
     t[3394] = "The receipt of this document has been started, please verify!";
     t[3395] = "\u00a1El recibo de este documento ha iniciado, por favor verifique!";
+    t[3400] = "Operating options";
+    t[3401] = "Opciones de operaci\u00f3n";
     t[3416] = "CFDI's periodicity";
     t[3417] = "Periodicidad de CFDI";
     t[3418] = "Choose Location";
@@ -1782,6 +1786,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4197] = "No tiene una caja registradora asignada, \u00a1por favor verifique!";
     t[4212] = "Constant";
     t[4213] = new java.lang.String[] { "Constante", "Constantes" };
+    t[4216] = "Identification";
+    t[4217] = "Identificaci\u00f3n";
     t[4228] = "SAT's Periodicity catalog management.";
     t[4229] = "Administraci\u00f3n del cat\u00e1logo de periodicidades del SAT.";
     t[4232] = "Choose Operator";
@@ -1998,14 +2004,14 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4781] = "Mi Informaci\u00f3n";
     t[4782] = "Shipment Full";
     t[4783] = "Embarque Lleno";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4788] = "You cannot create an event in the past.";
     t[4789] = "No puede crear un evento en el pasado.";
     t[4790] = "A software to manage sales for any kind of enterprise, small, medium or big. The software covers from quotation process to invoicing, passing for POS and CRM";
     t[4791] = "Un software para administrar las ventas de cualquier tipo de empresa, peque\u00f1a, mediana o grande. El software cubre desde la cotizaci\u00f3n hasta la factura, pasando por Punto de Venta y CRM";
     t[4792] = "Expand your creativity and learn to use the best tools in the market of IT and make a difference in your world";
     t[4793] = "Expanda su creatividad y aprenda a usar las mejores herramientas en el mercado de TI y haga la diferencia en su mundo";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4800] = "The location is not a staying one, is disabled or is in counting state, please verify!";
     t[4801] = "!La ubicaci\u00f3n no es de estad\u00eda, est\u00e1 deshabilitada o en proceso de conteo, por favor verifique!";
     t[4812] = "Convert Requisitions in Purchase Orders";
@@ -2860,6 +2866,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6909] = "La referencia (@1) ya existe, \u00a1por favor verifique! - l\u00ednea(@0)";
     t[6912] = "Element";
     t[6913] = new java.lang.String[] { "Elemento", "Elementos" };
+    t[6922] = "Logistics data";
+    t[6923] = "Datos log\u00edsticos";
     t[6932] = "Price Report";
     t[6933] = "Reporte de Precios";
     t[6938] = "You must have at least one area assigned to create a requisition, please verify!";
@@ -3998,6 +4006,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9789] = "Tipos de Entrada";
     t[9790] = "Void roll";
     t[9791] = "Anular rollo";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[9794] = "Soon to Happen";
     t[9795] = "Pronto Suceder\u00e1";
     t[9796] = "Inbound Document Detail";
@@ -4006,8 +4016,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9799] = "Acumulado Mes";
     t[9800] = "Seller";
     t[9801] = new java.lang.String[] { "Vendedor", "Vendedores" };
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[9804] = "Origin resources SAT's catalog management.";
     t[9805] = "Administraci\u00f3n de cat\u00e1logo de origen de recursos SAT.";
     t[9808] = "Inbound";
@@ -5852,6 +5860,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14287] = "Captura de partidas";
     t[14288] = "The specified provider for the address does not exists, please verify! - line(@0)";
     t[14289] = "El proveedor especificado para la direcci\u00f3n no existe, \u00a1por favor verifique! - l\u00ednea(@0)";
+    t[14294] = "Help";
+    t[14295] = "Ayuda";
     t[14296] = "The SID is required, please capture it!";
     t[14297] = "\u00a1El SID es obligatorio, por favor ingr\u00e9selo!";
     t[14302] = "The SID already exist and is not in picking state, please verify!";
@@ -5998,6 +6008,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14563] = "Orden de Producci\u00f3n";
     t[14564] = "Pallet";
     t[14565] = new java.lang.String[] { "Tarima", "Tarimas" };
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[14570] = "Cost";
     t[14571] = new java.lang.String[] { "Costo", "Costos" };
     t[14576] = "Add Subfailures";
@@ -6008,8 +6020,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14583] = "Meses de CFDI";
     t[14586] = "Appointment Reason";
     t[14587] = "Motivo de Cita";
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[14592] = "General Warehouse Legal Name";
     t[14593] = "Raz\u00f3n social del almac\u00e9n general";
     t[14594] = "My Profile Administration";

@@ -1514,3 +1514,18 @@ msgstr "Marked rows"
 
 msgid "Clear marks"
 msgstr "Clear marks"
+
+msgid "Identification"
+msgstr "Identification"
+
+msgid "Operating options"
+msgstr "Operating options"
+
+msgid "Prices and taxes"
+msgstr "Prices and taxes"
+
+msgid "Logistics data"
+msgstr "Logistics data"
+
+msgid "Help"
+msgstr "Help"

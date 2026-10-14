@@ -8,6 +8,11 @@ public final class MessagesSelfCheck {
         assert "Guardar partida".equals(spanish.getString("Save item"));
         assert "renglones marcados".equals(spanish.getString("Marked rows"));
         assert "Quitar marcas".equals(spanish.getString("Clear marks"));
+        assert "Identificación".equals(spanish.getString("Identification"));
+        assert "Opciones de operación".equals(spanish.getString("Operating options"));
+        assert "Precios e impuestos".equals(spanish.getString("Prices and taxes"));
+        assert "Datos logísticos".equals(spanish.getString("Logistics data"));
+        assert "Ayuda".equals(spanish.getString("Help"));
         assert "Nueva".equals(spanish.getString("New item"));
         assert "Contexto del documento".equals(spanish.getString("Document context"));
         assert "Abrir pantallas maximizadas por defecto".equals(spanish.getString("Open screens maximized by default"));

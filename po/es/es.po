@@ -10450,3 +10450,18 @@ msgstr "renglones marcados"
 
 msgid "Clear marks"
 msgstr "Quitar marcas"
+
+msgid "Identification"
+msgstr "Identificación"
+
+msgid "Operating options"
+msgstr "Opciones de operación"
+
+msgid "Prices and taxes"
+msgstr "Precios e impuestos"
+
+msgid "Logistics data"
+msgstr "Datos logísticos"
+
+msgid "Help"
+msgstr "Ayuda"
