@@ -1580,3 +1580,96 @@ msgstr "Receipt actions"
 
 msgid "New scan"
 msgstr "New scan"
+
+msgid "Current GUI"
+msgstr "Current GUI"
+
+msgid "Current presentation of Gator applications."
+msgstr "Current presentation of Gator applications."
+
+msgid "Appearance and GUI"
+msgstr "Appearance and GUI"
+
+msgid "Your personal information."
+msgstr "Your personal information."
+
+msgid "Choose your interface and menu color. Preview before saving."
+msgstr "Choose your interface and menu color. Preview before saving."
+
+msgid "The printer and scale selected for your working session."
+msgstr "The printer and scale selected for your working session."
+
+msgid "Choose how screens and reports open."
+msgstr "Choose how screens and reports open."
+
+msgid "Password, short password and authentication."
+msgstr "Password, short password and authentication."
+
+msgid "Emails and phones"
+msgstr "Emails and phones"
+
+msgid "Manage your contact information."
+msgstr "Manage your contact information."
+
+msgid "Administrative actions available with your current permissions."
+msgstr "Administrative actions available with your current permissions."
+
+msgid "Your information, appearance and working devices"
+msgstr "Your information, appearance and working devices"
+
+msgid "Blue and ice"
+msgstr "Blue and ice"
+
+msgid "Emerald and mint"
+msgstr "Emerald and mint"
+
+msgid "Violet and lavender"
+msgstr "Violet and lavender"
+
+msgid "Petrol and aqua"
+msgstr "Petrol and aqua"
+
+msgid "Graphite and silver"
+msgstr "Graphite and silver"
+
+msgid "Terracotta and sand"
+msgstr "Terracotta and sand"
+
+msgid "Menu bar color"
+msgstr "Menu bar color"
+
+msgid "Interface preview"
+msgstr "Interface preview"
+
+msgid "Rows per page"
+msgstr "Rows per page"
+
+msgid "No pending changes"
+msgstr "No pending changes"
+
+msgid "Discard changes"
+msgstr "Discard changes"
+
+msgid "Save configuration"
+msgstr "Save configuration"
+
+msgid "Configuration saved"
+msgstr "Configuration saved"
+
+msgid "Preferences saved; profile changes are still pending."
+msgstr "Preferences saved; profile changes are still pending."
+
+msgid "Devices"
+msgstr "Devices"
+
+msgid "Preferences"
+msgstr "Preferences"
+
+msgid "User administration"
+msgstr "User administration"
+
+msgid "User ID"
+msgstr "User ID"
+
+msgid "Job title"
+msgstr "Job title"

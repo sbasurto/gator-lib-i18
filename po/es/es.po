@@ -10516,3 +10516,96 @@ msgstr "Acciones del recibo"
 
 msgid "New scan"
 msgstr "Nueva lectura"
+
+msgid "Current GUI"
+msgstr "GUI actual"
+
+msgid "Current presentation of Gator applications."
+msgstr "Presentación actual de las aplicaciones Gator."
+
+msgid "Appearance and GUI"
+msgstr "Apariencia y GUI"
+
+msgid "Your personal information."
+msgstr "Tu información personal."
+
+msgid "Choose your interface and menu color. Preview before saving."
+msgstr "Elige tu interfaz y el color de la barra de menú. Revisa la vista previa antes de guardar."
+
+msgid "The printer and scale selected for your working session."
+msgstr "La impresora y la báscula seleccionadas para tu sesión de trabajo."
+
+msgid "Choose how screens and reports open."
+msgstr "Define cómo quieres abrir las pantallas y trabajar con sus listados."
+
+msgid "Password, short password and authentication."
+msgstr "Contraseña, contraseña corta y autenticación del usuario."
+
+msgid "Emails and phones"
+msgstr "Correos y teléfonos"
+
+msgid "Manage your contact information."
+msgstr "Administra tus medios de contacto."
+
+msgid "Administrative actions available with your current permissions."
+msgstr "Funciones de administración disponibles con tus permisos actuales."
+
+msgid "Your information, appearance and working devices"
+msgstr "Tus datos, apariencia y dispositivos de trabajo"
+
+msgid "Blue and ice"
+msgstr "Azul y hielo"
+
+msgid "Emerald and mint"
+msgstr "Esmeralda y menta"
+
+msgid "Violet and lavender"
+msgstr "Violeta y lavanda"
+
+msgid "Petrol and aqua"
+msgstr "Petróleo y aqua"
+
+msgid "Graphite and silver"
+msgstr "Grafito y plata"
+
+msgid "Terracotta and sand"
+msgstr "Terracota y arena"
+
+msgid "Menu bar color"
+msgstr "Color de la barra de menú"
+
+msgid "Interface preview"
+msgstr "Vista previa de la interfaz"
+
+msgid "Rows per page"
+msgstr "Renglones por página"
+
+msgid "No pending changes"
+msgstr "Sin cambios pendientes"
+
+msgid "Discard changes"
+msgstr "Descartar cambios"
+
+msgid "Save configuration"
+msgstr "Guardar configuración"
+
+msgid "Configuration saved"
+msgstr "Configuración guardada"
+
+msgid "Preferences saved; profile changes are still pending."
+msgstr "Preferencias guardadas; los cambios del perfil siguen pendientes."
+
+msgid "Devices"
+msgstr "Dispositivos"
+
+msgid "Preferences"
+msgstr "Preferencias"
+
+msgid "User administration"
+msgstr "Administración del usuario"
+
+msgid "User ID"
+msgstr "ID del usuario"
+
+msgid "Job title"
+msgstr "Cargo"
