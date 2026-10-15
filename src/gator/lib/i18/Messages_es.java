@@ -3448,6 +3448,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8235] = "Sello Caja Tr\u00e1iler";
     t[8236] = "Convert to PO";
     t[8237] = "Convertir a OC";
+    t[8242] = "SMS authentication";
+    t[8243] = "Autenticaci\u00f3n por SMS";
     t[8244] = "The payed amount could not be greater or less than the order's total amount";
     t[8245] = "La cantidad pagada no puede ser mayor o menor al total de la orden.";
     t[8252] = "This is plural";
@@ -4004,10 +4006,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9587] = "Gesti\u00f3n de consultas (queries), agregar, actualizar o borrar.";
     t[9592] = "Products Counted";
     t[9593] = "Productos Contados";
-    t[9600] = "New scan";
-    t[9601] = "Nueva lectura";
   }
   static void clinit_part_2 (java.lang.Object[] t) {
+    t[9600] = "New scan";
+    t[9601] = "Nueva lectura";
     t[9602] = "Related Document";
     t[9603] = new java.lang.String[] { "Documento Relacionado", "Documentos Relacionados" };
     t[9604] = "Import from Interface";
@@ -6006,10 +6008,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14395] = "Si desea enviarnos mensages cifrados, la siguiente es nuesta llave p\u00fablica.";
     t[14396] = "Invoice / Freight";
     t[14397] = "Factura / Flete";
-    t[14402] = "SAT's Contry";
-    t[14403] = new java.lang.String[] { "Pais SAT", "Paises SAT" };
   }
   static void clinit_part_3 (java.lang.Object[] t) {
+    t[14402] = "SAT's Contry";
+    t[14403] = new java.lang.String[] { "Pais SAT", "Paises SAT" };
     t[14404] = "Diary";
     t[14405] = new java.lang.String[] { "Agenda", "Agendas" };
     t[14406] = "There is no reviews, buy it and be the first to review this item!";

@@ -10609,3 +10609,6 @@ msgstr "ID del usuario"
 
 msgid "Job title"
 msgstr "Cargo"
+
+msgid "SMS authentication"
+msgstr "Autenticación por SMS"

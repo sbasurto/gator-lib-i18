@@ -1673,3 +1673,6 @@ msgstr "User ID"
 
 msgid "Job title"
 msgstr "Job title"
+
+msgid "SMS authentication"
+msgstr "SMS authentication"

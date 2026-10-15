@@ -179,6 +179,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[401] = "Select RFId Packing";
     t[406] = "Select scale";
     t[407] = "Select scale";
+    t[408] = "SMS authentication";
+    t[409] = "SMS authentication";
     t[410] = "Supervisor password";
     t[411] = "Supervisor password";
     t[416] = "Check authorization";

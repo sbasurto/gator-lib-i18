@@ -15,6 +15,7 @@ public final class MessagesSelfCheck {
         assert "Ayuda".equals(spanish.getString("Help"));
         assert "GUI actual".equals(spanish.getString("Current GUI"));
         assert "Guardar configuración".equals(spanish.getString("Save configuration"));
+        assert "Autenticación por SMS".equals(spanish.getString("SMS authentication"));
         assert "Nueva".equals(spanish.getString("New item"));
         assert "Contexto del documento".equals(spanish.getString("Document context"));
         assert "Abrir pantallas maximizadas por defecto".equals(spanish.getString("Open screens maximized by default"));
