@@ -95,6 +95,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[171] = "Editorial creation.";
     t[180] = "Account, warehouse or identifier";
     t[181] = "Account, warehouse or identifier";
+    t[188] = "Vigente";
+    t[189] = "Within date";
     t[190] = "Allow add new tickets.";
     t[191] = "Allow add new tickets.";
     t[196] = "Available";
@@ -187,6 +189,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[417] = "Check authorization";
     t[446] = "New fabric";
     t[447] = "New fabric";
+    t[448] = "Caducado";
+    t[449] = "Expired";
     t[450] = "Import files from any process";
     t[451] = "Import files from any process";
     t[454] = "User administration";
@@ -369,6 +373,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[845] = "Token (leave blank to keep current)";
     t[846] = "INGRESADO";
     t[847] = "CAPTURED";
+    t[848] = "Cr\u00edtico";
+    t[849] = "Critical";
     t[850] = "Cut status";
     t[851] = "Cut status";
     t[852] = "Allow to see all Tickets";
@@ -417,6 +423,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[969] = "Provider";
     t[970] = "Status";
     t[971] = "Status";
+    t[972] = "Cerca de caducar";
+    t[973] = "Near expiry";
     t[984] = "Transfers";
     t[985] = "Transfers";
     t[988] = "SAT's Certificates catalog management.";
@@ -515,6 +523,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1225] = "Close";
     t[1228] = "Current month";
     t[1229] = "Current month";
+    t[1230] = "Yes on receipt";
+    t[1231] = "Yes on receipt";
     t[1234] = "Massive Downloads";
     t[1235] = "Massive Downloads";
     t[1236] = "Soft Gator Support Team";
@@ -639,6 +649,12 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1583] = "User ID";
     t[1586] = "Registered";
     t[1587] = "Registered";
+    t[1600] = "Check Lot";
+    t[1601] = "Check lot";
+    t[1602] = "Sin fecha";
+    t[1603] = "Missing date";
+    t[1604] = "No aplica";
+    t[1605] = "Not applicable";
     t[1606] = "Next";
     t[1607] = "Next";
     t[1610] = "Program physical and cyclic stocks.";
@@ -875,6 +891,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[2141] = "Daily";
     t[2148] = "Create production orders anytime";
     t[2149] = "Create production orders anytime";
+    t[2152] = "Yes on picking";
+    t[2153] = "Yes on picking";
     t[2154] = "Adjustments";
     t[2155] = "Adjustments";
     t[2156] = "Counted Quantity";
@@ -1023,6 +1041,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[2493] = "Finances";
     t[2498] = "Areas";
     t[2499] = "Areas";
+    t[2502] = "estado_caducidad";
+    t[2503] = "Expiry status";
     t[2514] = "Historical closing balances";
     t[2515] = "Historical closing balances";
     t[2524] = "Graphite and silver";

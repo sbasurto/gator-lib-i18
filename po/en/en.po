@@ -1676,3 +1676,33 @@ msgstr "Job title"
 
 msgid "SMS authentication"
 msgstr "SMS authentication"
+
+msgid "Check Lot"
+msgstr "Check lot"
+
+msgid "Yes on receipt"
+msgstr "Yes on receipt"
+
+msgid "Yes on picking"
+msgstr "Yes on picking"
+
+msgid "estado_caducidad"
+msgstr "Expiry status"
+
+msgid "Vigente"
+msgstr "Within date"
+
+msgid "Cerca de caducar"
+msgstr "Near expiry"
+
+msgid "Crítico"
+msgstr "Critical"
+
+msgid "Caducado"
+msgstr "Expired"
+
+msgid "Sin fecha"
+msgstr "Missing date"
+
+msgid "No aplica"
+msgstr "Not applicable"

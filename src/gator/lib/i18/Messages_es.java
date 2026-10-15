@@ -1186,6 +1186,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2675] = "Seleccionar Fecha";
     t[2680] = "You must specify a responsible for production line!";
     t[2681] = "\u00a1Debe especificar un responsable de la l\u00ednea de producci\u00f3n!";
+    t[2690] = "Vigente";
+    t[2691] = "Vigente";
     t[2694] = "Choose Quotation";
     t[2695] = "Seleccionar Cotizaci\u00f3n";
     t[2702] = "Configure";
@@ -1500,6 +1502,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[3425] = "El CFDI (@0) ya existe en una orden (@1), \u00a1por favor verifique!";
     t[3430] = "Customer Stock";
     t[3431] = "Inventario del Cliente";
+    t[3440] = "No aplica";
+    t[3441] = "No aplica";
     t[3442] = "Account";
     t[3443] = "Cuenta";
     t[3466] = "Point of Sale";
@@ -2000,12 +2004,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4649] = "Capacidad ilimitada en extensiones y l\u00edneas.";
     t[4650] = "Credit / Debit Card";
     t[4651] = "Tarjeta Cr\u00e9dito / D\u00e9bito";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4654] = "Take From";
     t[4655] = "Tomar De";
     t[4656] = "The picking has start, you cannot do this anymore, please verify!";
     t[4657] = "El surtido ha iniciado, ya no puede realizar esto, \u00a1por favor verifique!";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4658] = "Design Tools Training";
     t[4659] = "Cursos en Herramientas de Dise\u00f1o";
     t[4660] = "Singular\u0004Processed Successfully";
@@ -2344,6 +2348,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5447] = "Cuenta Destino";
     t[5452] = "Language";
     t[5453] = new java.lang.String[] { "Idioma", "Idiomas" };
+    t[5458] = "Caducado";
+    t[5459] = "Caducado";
     t[5462] = "Report generation.";
     t[5463] = "Generaci\u00f3n de reportes.";
     t[5464] = "Volume";
@@ -2520,6 +2526,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5887] = "Hacer una pregunta";
     t[5890] = "Kind of Requisition";
     t[5891] = "Tipo de Pedido";
+    t[5892] = "estado_caducidad";
+    t[5893] = "Estado de caducidad";
     t[5900] = "Close Inbound";
     t[5901] = "Cerrar Recibo";
     t[5904] = "Any remark in regards to product or its features.";
@@ -2532,6 +2540,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5921] = "Ancho";
     t[5924] = "Importing Location Files";
     t[5925] = "Importando Archivos de Ubicaci\u00f3n";
+    t[5930] = "Cr\u00edtico";
+    t[5931] = "Cr\u00edtico";
     t[5940] = "The origin SID does not exists in the origin location, please verify!";
     t[5941] = "El SID origen no existe en la ubicaci\u00f3n origen, \u00a1por favor verifique!";
     t[5942] = "The picked quantity must be grater than 0, please verify!";
@@ -3142,6 +3152,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7437] = "\u00a1No se pudo registrar el detalle del surtido!";
     t[7442] = "Ramping Date";
     t[7443] = "Fecha de Aparcamiento (enrampe)";
+    t[7444] = "Yes on picking";
+    t[7445] = "S\u00ed a la salida";
     t[7450] = "Gator Apps";
     t[7451] = "Aplicaciones Gator";
     t[7452] = "Configure cyclic inventories.";
@@ -3994,6 +4006,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9557] = "Peso del rollo restante (kg)";
     t[9560] = "This document is an invoice and cannot be deleted, please verify!";
     t[9561] = "Este documento es una factura y no puede ser borrada, \u00a1por favor verifique!";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[9574] = "Address Kind";
     t[9575] = "Tipo de Domicilio";
     t[9576] = "The location exceeds the maximum of lots, please verify!";
@@ -4006,8 +4020,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9587] = "Gesti\u00f3n de consultas (queries), agregar, actualizar o borrar.";
     t[9592] = "Products Counted";
     t[9593] = "Productos Contados";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[9600] = "New scan";
     t[9601] = "Nueva lectura";
     t[9602] = "Related Document";
@@ -4046,6 +4058,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9685] = "Rollos recibidos en esta pantalla \u2014 capture peso y metros del siguiente";
     t[9686] = "Close Cash Register";
     t[9687] = "Cerrar Caja Registradora";
+    t[9692] = "Cerca de caducar";
+    t[9693] = "Cerca de caducar";
     t[9694] = "Transport units management.";
     t[9695] = "Gesti\u00f3n de unidades de transporte.";
     t[9700] = "Check which picking momvements has been canceled.";
@@ -4508,6 +4522,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10719] = "Gesti\u00f3n de tipos de grupo, agregar, cambiar o borrar.";
     t[10722] = "Cancel Refill";
     t[10723] = "Cancelar Reabasto";
+    t[10724] = "Check Lot";
+    t[10725] = "Valida lote";
     t[10728] = "Total Inbounds";
     t[10729] = "Entradas Totales";
     t[10732] = "New";
@@ -4874,6 +4890,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11655] = "Tipo de Elemento";
     t[11664] = "Columns management, add, update or delete.";
     t[11665] = "Gesti\u00f3n de columnas, agregar, actualizar o borrar.";
+    t[11666] = "Yes on receipt";
+    t[11667] = "S\u00ed a la entrada";
     t[11668] = "Receipt by RFId";
     t[11669] = "Recepci\u00f3n con RFId";
     t[11670] = "There is no questions, be the first to ask a question!";
@@ -5990,6 +6008,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14371] = "Administraci\u00f3n de ventas.";
     t[14372] = "Host Name";
     t[14373] = "Nombre del Anfitri\u00f3n(Host)";
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[14374] = "This action cannot be undone, do you want to continue?";
     t[14375] = "Esta acci\u00f3n no puede revertirse, \u00bfdesea continuar?";
     t[14378] = "Send purchase orders";
@@ -6008,8 +6028,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14395] = "Si desea enviarnos mensages cifrados, la siguiente es nuesta llave p\u00fablica.";
     t[14396] = "Invoice / Freight";
     t[14397] = "Factura / Flete";
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[14402] = "SAT's Contry";
     t[14403] = new java.lang.String[] { "Pais SAT", "Paises SAT" };
     t[14404] = "Diary";
@@ -6160,6 +6178,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14671] = "Seleccionar Cliente";
     t[14674] = "The box is full please close packing to continue";
     t[14675] = "La caja est\u00e1 llena por favor cierre el empaque para continuar";
+    t[14678] = "Sin fecha";
+    t[14679] = "Sin fecha";
     t[14680] = "Pay Sales Order";
     t[14681] = "Pagar Orden de Venta";
     t[14682] = "The account payable could no be modified, please verify!";

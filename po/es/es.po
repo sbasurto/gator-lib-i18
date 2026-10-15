@@ -10612,3 +10612,33 @@ msgstr "Cargo"
 
 msgid "SMS authentication"
 msgstr "Autenticación por SMS"
+
+msgid "Check Lot"
+msgstr "Valida lote"
+
+msgid "Yes on receipt"
+msgstr "Sí a la entrada"
+
+msgid "Yes on picking"
+msgstr "Sí a la salida"
+
+msgid "estado_caducidad"
+msgstr "Estado de caducidad"
+
+msgid "Vigente"
+msgstr "Vigente"
+
+msgid "Cerca de caducar"
+msgstr "Cerca de caducar"
+
+msgid "Crítico"
+msgstr "Crítico"
+
+msgid "Caducado"
+msgstr "Caducado"
+
+msgid "Sin fecha"
+msgstr "Sin fecha"
+
+msgid "No aplica"
+msgstr "No aplica"
