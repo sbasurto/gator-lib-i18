@@ -1706,3 +1706,45 @@ msgstr "Missing date"
 
 msgid "No aplica"
 msgstr "Not applicable"
+
+msgid "Required"
+msgstr "Required"
+
+msgid "Optional"
+msgstr "Optional"
+
+msgid "Suggested"
+msgstr "Suggested"
+
+msgid "Use suggestion"
+msgstr "Use suggestion"
+
+msgid "Scan or type the value"
+msgstr "Scan or type the value"
+
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+msgid "One serial number per line"
+msgstr "One serial number per line"
+
+msgid "Capture one unique serial number for each unit"
+msgstr "Capture one unique serial number for each unit"
+
+msgid "Serial numbers captured"
+msgstr "Serial numbers captured"
+
+msgid "Serial numbers"
+msgstr "Serial numbers"
+
+msgid "Please enter a quantity greater than zero"
+msgstr "Please enter a quantity greater than zero"
+
+msgid "Please enter a valid expiry date"
+msgstr "Please enter a valid expiry date"
+
+msgid "RF receipt field configuration is incomplete or invalid"
+msgstr "RF receipt field configuration is incomplete or invalid"
+
+msgid "Original Gator"
+msgstr "Original Gator"

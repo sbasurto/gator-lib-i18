@@ -10642,3 +10642,45 @@ msgstr "Sin fecha"
 
 msgid "No aplica"
 msgstr "No aplica"
+
+msgid "Required"
+msgstr "Obligatorio"
+
+msgid "Optional"
+msgstr "Opcional"
+
+msgid "Suggested"
+msgstr "Sugerido"
+
+msgid "Use suggestion"
+msgstr "Usar sugerencia"
+
+msgid "Scan or type the value"
+msgstr "Escanea o escribe el dato"
+
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.AAAA"
+
+msgid "One serial number per line"
+msgstr "Una serie por renglón"
+
+msgid "Capture one unique serial number for each unit"
+msgstr "Captura una serie única por cada unidad"
+
+msgid "Serial numbers captured"
+msgstr "Series capturadas"
+
+msgid "Serial numbers"
+msgstr "Números de serie"
+
+msgid "Please enter a quantity greater than zero"
+msgstr "Captura una cantidad mayor que cero"
+
+msgid "Please enter a valid expiry date"
+msgstr "Captura una fecha de caducidad válida"
+
+msgid "RF receipt field configuration is incomplete or invalid"
+msgstr "La configuración de campos del recibo RF está incompleta o no es válida"
+
+msgid "Original Gator"
+msgstr "Original Gator"

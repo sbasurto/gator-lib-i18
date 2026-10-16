@@ -105,5 +105,10 @@ public final class MessagesSelfCheck {
 		assert "Status".equals(english.getString("estado"));
 		assert "Verify access rights".equals(english.getString("Verify access rights"));
         assert "CONFIRMED".equals(english.getString("CONFIRMADO"));
+        assert "Original Gator".equals(spanish.getString("Original Gator"));
+        assert "Original Gator".equals(english.getString("Original Gator"));
+        assert "Obligatorio".equals(spanish.getString("Required"));
+        assert "Series capturadas".equals(spanish.getString("Serial numbers captured"));
+        assert "La configuración de campos del recibo RF está incompleta o no es válida".equals(spanish.getString("RF receipt field configuration is incomplete or invalid"));
     }
 }
