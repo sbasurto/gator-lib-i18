@@ -5,6 +5,7 @@ import java.util.ResourceBundle;
 public final class MessagesSelfCheck {
     public static void main(String[] args) {
         ResourceBundle spanish = ResourceBundle.getBundle("gator.lib.i18.Messages_es");
+        assert "Guardar y cerrar".equals(spanish.getString("Save and close"));
         assert "Guardar partida".equals(spanish.getString("Save item"));
         assert "renglones marcados".equals(spanish.getString("Marked rows"));
         assert "Quitar marcas".equals(spanish.getString("Clear marks"));

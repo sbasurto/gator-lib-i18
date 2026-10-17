@@ -505,6 +505,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1141] = "Saving";
     t[1146] = "Please enter a valid expiry date";
     t[1147] = "Please enter a valid expiry date";
+    t[1148] = "Save and close";
+    t[1149] = "Save and close";
     t[1156] = "Este bot\u00f3n te permite volver a estado surtiendose.";
     t[1157] = "Allow returning to the picking status.";
     t[1158] = "Use another verification method";

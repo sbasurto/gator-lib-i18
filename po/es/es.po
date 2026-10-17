@@ -10684,3 +10684,7 @@ msgstr "La configuración de campos del recibo RF está incompleta o no es váli
 
 msgid "Original Gator"
 msgstr "Original Gator"
+
+
+msgid "Save and close"
+msgstr "Guardar y cerrar"

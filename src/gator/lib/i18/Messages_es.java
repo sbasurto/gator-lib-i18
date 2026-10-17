@@ -4294,6 +4294,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10145] = "Costo de Maniobra/Configuraci\u00f3n";
     t[10150] = "Ask";
     t[10151] = "Preguntar";
+    t[10152] = "Save and close";
+    t[10153] = "Guardar y cerrar";
     t[10154] = "Picking Auto";
     t[10155] = "Surtir Auto";
     t[10156] = "August";
@@ -6004,10 +6006,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14305] = "Guardada";
     t[14308] = "Choose Sector";
     t[14309] = "Seleccionar Sector";
-    t[14310] = "Administrative actions available with your current permissions.";
-    t[14311] = "Funciones de administraci\u00f3n disponibles con tus permisos actuales.";
   }
   static void clinit_part_3 (java.lang.Object[] t) {
+    t[14310] = "Administrative actions available with your current permissions.";
+    t[14311] = "Funciones de administraci\u00f3n disponibles con tus permisos actuales.";
     t[14322] = "Allow to see all requisition orders.";
     t[14323] = "Permitir ver todas las requisiciones.";
     t[14324] = "Close Ticket";

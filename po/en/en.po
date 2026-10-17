@@ -1748,3 +1748,7 @@ msgstr "RF receipt field configuration is incomplete or invalid"
 
 msgid "Original Gator"
 msgstr "Original Gator"
+
+
+msgid "Save and close"
+msgstr "Save and close"
