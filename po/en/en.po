@@ -1227,26 +1227,87 @@ msgstr "Save, print and receive another roll"
 msgid "Complete fabric details, positive measurements and gross weight greater than tare"
 msgstr "Complete fabric details, positive measurements and gross weight greater than tare"
 
-msgid "Minimize"
-msgstr "Minimize"
+# Store: supplier costs and purchase report
+msgid "Supplier Cost List"
+msgstr "Supplier Cost List"
 
-msgid "Maximize"
-msgstr "Maximize"
+msgid "Lista de costos por proveedor"
+msgstr "Supplier Cost List"
 
-msgid "Restore size"
-msgstr "Restore size"
+msgid "Reporte de Compras"
+msgstr "Purchase Report"
 
-msgid "Close pool"
-msgstr "Close pool"
+msgid "Orden Id"
+msgstr "Order ID"
 
-msgid "Open screens maximized by default"
-msgstr "Open screens maximized by default"
+msgid "Cantidad Pedida"
+msgstr "Ordered Quantity"
 
-msgid "Could not load your preference. Please try again."
-msgstr "Could not load your preference. Please try again."
+msgid "Cantidad Recibida"
+msgstr "Received Quantity"
 
-msgid "Could not save your preference. Your previous choice is preserved."
-msgstr "Could not save your preference. Your previous choice is preserved."
+msgid "Costo Pedido"
+msgstr "Ordered Cost"
+
+msgid "Costo Recibido"
+msgstr "Received Cost"
+
+msgid "Descripción"
+msgstr "Description"
+
+msgid "Proveedor"
+msgstr "Supplier"
+
+msgid "Familia"
+msgstr "Family"
+
+msgid "proveedor_id"
+msgstr "Supplier ID"
+
+msgid "proveedor"
+msgstr "Supplier"
+
+msgid "descripcion"
+msgstr "Description"
+
+msgid "familia"
+msgstr "Family"
+
+msgid "costo_proveedor"
+msgstr "Supplier Cost"
+
+msgid "costo_catalogo"
+msgstr "Catalog Cost"
+
+msgid "vence"
+msgstr "Expiration Date"
+
+msgid "Activo"
+msgstr "Active"
+
+msgid "Inactivo"
+msgstr "Inactive"
+
+msgid "Vencido"
+msgstr "Expired"
+
+msgid "Sin familia"
+msgstr "No family"
+
+msgid "orden_compra"
+msgstr "Purchase Order"
+
+msgid "fecha"
+msgstr "Date"
+
+msgid "proyecto"
+msgstr "Project"
+
+msgid "proveedor_rfc"
+msgstr "Supplier Tax ID"
+
+msgid "subtotal"
+msgstr "Subtotal"
 
 msgid "Configure"
 msgstr "Configure"
@@ -1431,80 +1492,131 @@ msgstr "Event"
 msgid "Place"
 msgstr "Place"
 
+msgid "Minimize"
+msgstr "Minimize"
+
+msgid "Maximize"
+msgstr "Maximize"
+
+msgid "Restore size"
+msgstr "Restore size"
+
+msgid "Close pool"
+msgstr "Close pool"
+
+msgid "Open screens maximized by default"
+msgstr "Open screens maximized by default"
+
+msgid "Could not load your preference. Please try again."
+msgstr "Could not load your preference. Please try again."
+
+msgid "Could not save your preference. Your previous choice is preserved."
+msgstr "Could not save your preference. Your previous choice is preserved."
+
+
 msgid "Item capture"
 msgstr "Item capture"
+
 
 msgid "Back"
 msgstr "Back"
 
+
 msgid "Search items"
 msgstr "Search items"
+
 
 msgid "All items"
 msgstr "All items"
 
+
 msgid "New batch items"
 msgstr "New batch items"
+
 
 msgid "General data"
 msgstr "General data"
 
+
 msgid "Extra information"
 msgstr "Extra information"
+
 
 msgid "Document context"
 msgstr "Document context"
 
+
 msgid "Item"
 msgstr "Item"
+
 
 msgid "Draft"
 msgstr "Draft"
 
-msgid "New item"
-msgstr "New item"
+
+msgid "New"
+msgstr "New"
+
 
 msgid "Modified"
 msgstr "Modified"
 
+
 msgid "Saved"
 msgstr "Saved"
+
 
 msgid "Save item"
 msgstr "Save item"
 
+
 msgid "Save and next"
 msgstr "Save and next"
+
 
 msgid "Save pending items"
 msgstr "Save pending items"
 
+
 msgid "Pending items"
 msgstr "Pending items"
+
 
 msgid "Restore"
 msgstr "Restore"
 
+
 msgid "Close"
 msgstr "Close"
+
 
 msgid "Could not retain the draft in this browser tab. Keep the capture open."
 msgstr "Could not retain the draft in this browser tab. Keep the capture open."
 
+
 msgid "Could not save the item. Review the indicated field or server message."
 msgstr "Could not save the item. Review the indicated field or server message."
+
 
 msgid "Saving"
 msgstr "Saving"
 
+
 msgid "Save confirmation was not received. Verify the document before sending again."
 msgstr "Save confirmation was not received. Verify the document before sending again."
+
+
+msgid "New item"
+msgstr "New item"
+
 
 msgid "Loading document items"
 msgstr "Loading document items"
 
+
 msgid "Could not load all document items. Select the scope again to retry."
 msgstr "Could not load all document items. Select the scope again to retry."
+
 
 msgid "Enter a whole number between 1 and 1000."
 msgstr "Enter a whole number between 1 and 1000."
@@ -1677,36 +1789,6 @@ msgstr "Job title"
 msgid "SMS authentication"
 msgstr "SMS authentication"
 
-msgid "Check Lot"
-msgstr "Check lot"
-
-msgid "Yes on receipt"
-msgstr "Yes on receipt"
-
-msgid "Yes on picking"
-msgstr "Yes on picking"
-
-msgid "estado_caducidad"
-msgstr "Expiry status"
-
-msgid "Vigente"
-msgstr "Within date"
-
-msgid "Cerca de caducar"
-msgstr "Near expiry"
-
-msgid "Crítico"
-msgstr "Critical"
-
-msgid "Caducado"
-msgstr "Expired"
-
-msgid "Sin fecha"
-msgstr "Missing date"
-
-msgid "No aplica"
-msgstr "Not applicable"
-
 msgid "Required"
 msgstr "Required"
 
@@ -1742,6 +1824,36 @@ msgstr "Please enter a quantity greater than zero"
 
 msgid "Please enter a valid expiry date"
 msgstr "Please enter a valid expiry date"
+
+msgid "Check Lot"
+msgstr "Check lot"
+
+msgid "Yes on receipt"
+msgstr "Yes on receipt"
+
+msgid "Yes on picking"
+msgstr "Yes on picking"
+
+msgid "estado_caducidad"
+msgstr "Expiry status"
+
+msgid "Vigente"
+msgstr "Within date"
+
+msgid "Cerca de caducar"
+msgstr "Near expiry"
+
+msgid "Crítico"
+msgstr "Critical"
+
+msgid "Caducado"
+msgstr "Expired"
+
+msgid "Sin fecha"
+msgstr "Missing date"
+
+msgid "No aplica"
+msgstr "Not applicable"
 
 msgid "RF receipt field configuration is incomplete or invalid"
 msgstr "RF receipt field configuration is incomplete or invalid"
