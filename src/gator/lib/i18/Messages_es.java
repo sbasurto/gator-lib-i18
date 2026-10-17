@@ -4479,7 +4479,7 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10482] = "Shipping address id could not be empty, please verify!";
     t[10483] = "El id de la direcci\u00f3n de entrega debe contener informaci\u00f3n, \u00a1por favor verifique!";
     t[10484] = "There is a picking process in origin or destination location, the transfer could not be done.";
-    t[10485] = "Hay un surtido en proceso en la ubicaci\u00f3n origen o destino, el traspaso no puede llevarse a cabo.";
+    t[10485] = "Hay un surtido en proceso en la ubicaci\u00f3n origen o destino; la operaci\u00f3n no puede llevarse a cabo.";
     t[10494] = "Finished Pick Movements";
     t[10495] = "Movimientos Finalizados";
     t[10498] = "Contact Form";

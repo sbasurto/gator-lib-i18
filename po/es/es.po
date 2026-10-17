@@ -4377,7 +4377,7 @@ msgid "The destination location is disabled, in counting process or does not exi
 msgstr "La ubicación destino está deshabilitada, en proceso de conteo o no existe, ¡por favor verifique!"
 
 msgid "There is a picking process in origin or destination location, the transfer could not be done."
-msgstr "Hay un surtido en proceso en la ubicación origen o destino, el traspaso no puede llevarse a cabo."
+msgstr "Hay un surtido en proceso en la ubicación origen o destino; la operación no puede llevarse a cabo."
 
 msgid "You cannot send origin SID and destination SID equals when there is still product, please verify!"
 msgstr "No puede enviar el SID origen y SID destino iguales cuando todavía queda producto en la ubicación, ¡Por favor verifique!"
