@@ -161,6 +161,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[307] = "Emails and phones";
     t[308] = "Scan fabric";
     t[309] = "Scan fabric";
+    t[312] = "Show Index";
+    t[313] = "Show Index";
     t[320] = "Scrap 6 weight (kg)";
     t[321] = "Scrap 6 weight (kg)";
     t[338] = "Allow to authorize anything";
@@ -285,6 +287,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[597] = "Accumulated";
     t[598] = "Administra la parte de documentos de entrada (crear nuevo producto, importar o entrar a detalle).";
     t[599] = "Manage inbound documents (create a new product, import, or open details).";
+    t[604] = "Hide index";
+    t[605] = "Hide index";
     t[606] = "Go to page";
     t[607] = "Go to page";
     t[608] = "Allow to modify cost in BoM";
@@ -365,6 +369,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[801] = "Capture mode";
     t[806] = "Caducado";
     t[807] = "Expired";
+    t[812] = "Search Sections";
+    t[813] = "Search Sections";
     t[814] = "costo_catalogo";
     t[815] = "Catalog Cost";
     t[816] = "Product Stock Summarize";
@@ -431,6 +437,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[945] = "No family";
     t[948] = "Select warehouse";
     t[949] = "Select warehouse";
+    t[956] = "Error del \u00faltimo env\u00edo";
+    t[957] = "Last email error";
     t[958] = "Save board";
     t[959] = "Save board";
     t[962] = "SAT's Measurement units catalog management.";
@@ -465,6 +473,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1033] = "Save and next";
     t[1036] = "Current state";
     t[1037] = "Current state";
+    t[1040] = "Search sections";
+    t[1041] = "Search sections";
     t[1042] = "Are you sure you want to log out?";
     t[1043] = "Are you sure you want to log out?";
     t[1052] = "moneda";
@@ -509,6 +519,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1153] = "Currencies";
     t[1156] = "Create cut order";
     t[1157] = "Create cut order";
+    t[1158] = "Clear Search";
+    t[1159] = "Clear Search";
     t[1160] = "Allow to set accept solutions even if is not the ticket owner.";
     t[1161] = "Allow to accept solutions even if the user is not the ticket owner.";
     t[1166] = "Account, warehouse or identifier";
@@ -529,6 +541,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1189] = "Contacts";
     t[1190] = "grupo";
     t[1191] = "Group";
+    t[1208] = "No Matches";
+    t[1209] = "No Matches";
     t[1220] = "Capture progress";
     t[1221] = "Capture progress";
     t[1222] = "Detailed purchases by product.";
@@ -555,6 +569,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1263] = "Configure indicator";
     t[1264] = "Could not save your preference. Your previous choice is preserved.";
     t[1265] = "Could not save your preference. Your previous choice is preserved.";
+    t[1268] = "Hide Index";
+    t[1269] = "Hide Index";
     t[1274] = "Scrap 3 name";
     t[1275] = "Scrap 3 name";
     t[1276] = "How do you want this operation to be authorized?";
@@ -601,6 +617,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1393] = "Supplier Cost List";
     t[1400] = "Minimize";
     t[1401] = "Minimize";
+    t[1406] = "Edit Captured Data";
+    t[1407] = "Edit Captured Data";
     t[1408] = "Administrative actions available with your current permissions.";
     t[1409] = "Administrative actions available with your current permissions.";
     t[1410] = "Void this fabric roll?";
@@ -707,6 +725,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1641] = "Preferences are available only during this visit";
     t[1642] = "Scrap 6 name";
     t[1643] = "Scrap 6 name";
+    t[1646] = "Estado de env\u00edo al proveedor";
+    t[1647] = "Supplier email status";
     t[1648] = "Program physical and cyclic stocks.";
     t[1649] = "Program physical and cyclic stocks.";
     t[1650] = "Bill of Materials consulting.";
@@ -733,6 +753,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1707] = "Tables";
     t[1714] = "Configure a destination";
     t[1715] = "Configure a destination";
+    t[1716] = "Clear search";
+    t[1717] = "Clear search";
     t[1720] = "Period";
     t[1721] = "Period";
     t[1722] = "producto";
@@ -833,6 +855,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1895] = "Active";
     t[1896] = "orden_compra";
     t[1897] = "Purchase Order";
+    t[1898] = "No matches";
+    t[1899] = "No matches";
     t[1902] = "Other statuses";
     t[1903] = "Other statuses";
     t[1904] = "Scrap 1 name";
@@ -851,8 +875,12 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1921] = "Sales Invoiced";
     t[1924] = "Sales Administration";
     t[1925] = "Sales Administration";
+    t[1928] = "Sending to supplier";
+    t[1929] = "Sending to supplier";
     t[1930] = "Historical data";
     t[1931] = "Historical data";
+    t[1932] = "Env\u00edos al proveedor";
+    t[1933] = "Supplier emails sent";
     t[1936] = "User's Manuals";
     t[1937] = "User's Manuals";
     t[1938] = "Areas";
@@ -929,8 +957,14 @@ public class Messages_en extends java.util.ResourceBundle {
     t[2071] = "Status";
     t[2082] = "Enter the code received by the authorized user";
     t[2083] = "Enter the code received by the authorized user";
+    t[2084] = "All sections";
+    t[2085] = "All sections";
+    t[2088] = "All Sections";
+    t[2089] = "All Sections";
     t[2090] = "Allow to see all Tickets";
     t[2091] = "Allow to see all Tickets";
+    t[2092] = "detail navigation\u0004Pools";
+    t[2093] = "Pools";
     t[2106] = "Select Packing";
     t[2107] = "Select Packing";
     t[2110] = "Scrap 1 weight (kg)";
@@ -957,6 +991,10 @@ public class Messages_en extends java.util.ResourceBundle {
     t[2149] = "Ordered Cost";
     t[2150] = "Configuration saved";
     t[2151] = "Configuration saved";
+    t[2158] = "\u00daltimo env\u00edo al proveedor";
+    t[2159] = "Last supplier email";
+    t[2160] = "Data";
+    t[2161] = "Data";
     t[2170] = "Vigente";
     t[2171] = "Within date";
     t[2176] = "Roll Id / Last received roll";
@@ -1061,6 +1099,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[2381] = "Contacts management.";
     t[2386] = "Conditions";
     t[2387] = "Conditions";
+    t[2392] = "Show index";
+    t[2393] = "Show index";
     t[2396] = "Warehouse";
     t[2397] = "Warehouse";
     t[2398] = "Choose how screens and reports open.";
@@ -1127,6 +1167,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[2579] = "Order ID";
     t[2582] = "Difference (kg)";
     t[2583] = "Difference (kg)";
+    t[2596] = "General Data";
+    t[2597] = "General Data";
     t[2606] = "Transfer Quantity";
     t[2607] = "Transfer Quantity";
     t[2612] = "Technical Manuals";

@@ -1864,3 +1864,88 @@ msgstr "Original Gator"
 
 msgid "Save and close"
 msgstr "Save and close"
+
+
+msgid "Data"
+msgstr "Data"
+
+
+msgid "Search sections"
+msgstr "Search sections"
+
+
+msgid "Clear search"
+msgstr "Clear search"
+
+
+msgid "No matches"
+msgstr "No matches"
+
+
+msgid "Hide index"
+msgstr "Hide index"
+
+
+msgid "Show index"
+msgstr "Show index"
+
+
+msgid "All sections"
+msgstr "All sections"
+
+
+msgctxt "detail navigation"
+msgid "Pools"
+msgstr "Pools"
+
+
+msgid "Hide Index"
+msgstr "Hide Index"
+
+
+msgid "Show Index"
+msgstr "Show Index"
+
+
+msgid "Search Sections"
+msgstr "Search Sections"
+
+
+msgid "Clear Search"
+msgstr "Clear Search"
+
+
+msgid "All Sections"
+msgstr "All Sections"
+
+
+msgid "No Matches"
+msgstr "No Matches"
+
+
+msgid "General Data"
+msgstr "General Data"
+
+
+msgid "Edit Captured Data"
+msgstr "Edit Captured Data"
+
+
+msgid "Sending to supplier"
+msgstr "Sending to supplier"
+
+
+msgid "Estado de envío al proveedor"
+msgstr "Supplier email status"
+
+
+msgid "Último envío al proveedor"
+msgstr "Last supplier email"
+
+
+msgid "Envíos al proveedor"
+msgstr "Supplier emails sent"
+
+
+msgid "Error del último envío"
+msgstr "Last email error"
