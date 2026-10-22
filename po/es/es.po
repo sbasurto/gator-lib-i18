@@ -10864,7 +10864,7 @@ msgstr "Editar datos capturados"
 
 
 msgid "Sending to supplier"
-msgstr "Envío"
+msgstr "Envío a proveedor"
 
 
 msgid "Estado de envío al proveedor"

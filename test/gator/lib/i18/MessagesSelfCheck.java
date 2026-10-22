@@ -126,7 +126,7 @@ public final class MessagesSelfCheck {
         assert "Sin coincidencias".equals(spanish.getString("No Matches"));
         assert "Datos generales".equals(spanish.getString("General Data"));
         assert "Editar datos capturados".equals(spanish.getString("Edit Captured Data"));
-        assert "Envío".equals(spanish.getString("Sending to supplier"));
+        assert "Envío a proveedor".equals(spanish.getString("Sending to supplier"));
         assert "Sending to supplier".equals(english.getString("Sending to supplier"));
         assert "Mostrar índice".equals(spanish.getString("Show index"));
         assert "Show index".equals(english.getString("Show index"));

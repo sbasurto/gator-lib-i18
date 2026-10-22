@@ -723,7 +723,7 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1524] = "Tax Address";
     t[1525] = "Domicilio fiscal";
     t[1530] = "Sending to supplier";
-    t[1531] = "Env\u00edo";
+    t[1531] = "Env\u00edo a proveedor";
     t[1538] = "Importing Inbound Files";
     t[1539] = "Importando Archivos de Entrada";
     t[1552] = "The unit measure in which product is sold.";
