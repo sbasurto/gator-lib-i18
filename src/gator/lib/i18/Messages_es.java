@@ -1914,6 +1914,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4367] = "Surtido Dirigido";
     t[4368] = "Logistic Invoice - Inbounds";
     t[4369] = "Factura Log\u00edstica - Entradas";
+    t[4370] = "Current text size (100%)";
+    t[4371] = "Actual (100 %)";
     t[4372] = "Destination SID exist but is not confirmed, please verify!";
     t[4373] = "El SID destino existe pero no est\u00e1 confirmado, \u00a1por favor verifique!";
     t[4376] = "The records could not be updated, please verify!";
@@ -2000,10 +2002,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4559] = "El producto @0 no existe, \u00a1por favor verifique!";
     t[4560] = "in Mexico";
     t[4561] = "en M\u00e9xico";
-    t[4562] = "Database for Data";
-    t[4563] = "Base de datos para Datos";
   }
   static void clinit_part_1 (java.lang.Object[] t) {
+    t[4562] = "Database for Data";
+    t[4563] = "Base de datos para Datos";
     t[4564] = "Filters";
     t[4565] = "Filtros";
     t[4572] = "FOR SEND";
@@ -2754,6 +2756,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6375] = new java.lang.String[] { "Env\u00edo DHL", "Env\u00edos DHL" };
     t[6376] = "Among other things we are specialists in structured wiring installation emphasizing the good performance of your network";
     t[6377] = "Entre otras cosas nos especializamos en cableado estructurado enfatizando el buen desempe\u00f1o de su red";
+    t[6396] = "Text size";
+    t[6397] = "Tama\u00f1o de texto";
     t[6398] = "File";
     t[6399] = new java.lang.String[] { "Archivo", "Archivos" };
     t[6410] = "Please provide a valid mobile phone number.";
@@ -3094,6 +3098,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7125] = "Pagar Factura";
     t[7132] = "Buy";
     t[7133] = "Comprar";
+    t[7134] = "Large text (120%)";
+    t[7135] = "Grande (120 %)";
     t[7136] = "System Administrator Group";
     t[7137] = "Grupo del Administrador del Sistema";
     t[7146] = "Family Id";
@@ -3998,14 +4004,14 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9357] = new java.lang.String[] { "Semana", "Semanas" };
     t[9358] = "The column does not exists in the pools of columns";
     t[9359] = "La columna no existe en los conjuntos de columnas";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[9362] = "Login with Gmail Account";
     t[9363] = "Ingrese con su Cuenta de Gmail";
     t[9364] = "Give Approval";
     t[9365] = "Dar VoBo";
     t[9366] = "The credit entered amount is wrong, please verify!";
     t[9367] = "La cantidad de cr\u00e9dito ingresada es incorrecta, \u00a1por favor verifique!";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[9368] = "Permite cancelar conteos en cualquier estado que no tengan c\u00e9dula generada.";
     t[9369] = "Permite cancelar conteos en cualquier estado que no tengan c\u00e9dula generada.";
     t[9370] = "SAT's Certificate";
@@ -4970,12 +4976,16 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11573] = "Unidad de Medida de Venta";
     t[11576] = "The extra5 and extra5 confirmation must be equals";
     t[11577] = "El extra5 y el extra5 confirmado deben ser iguales";
+    t[11578] = "Extra large text (130%)";
+    t[11579] = "Muy grande (130 %)";
     t[11580] = "This process will take a while, please give an email to be notified";
     t[11581] = "Este proceso llevar\u00e1 un tiempo, por favor proporcione un correo electr\u00f3nico para ser notificado";
     t[11586] = "Products / Services";
     t[11587] = "Productos / Servicios";
     t[11594] = "With Insurance";
     t[11595] = "Con Seguro";
+    t[11596] = "Medium text (110%)";
+    t[11597] = "Mediano (110 %)";
     t[11602] = "Import inbound documents";
     t[11603] = "Importar documentos de entrada";
     t[11608] = "Rport to show picking SID's";
@@ -5996,6 +6006,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14057] = "Env\u00eda alertas por correo electr\u00f3nico y/o mensaje de texto en tiempo real con informaci\u00f3n definida por usted.";
     t[14060] = "Managent of inbound returns.";
     t[14061] = "Gesti\u00f3n de Devoluciones de Entrada.";
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[14062] = "VAT Factor";
     t[14063] = "Factor IVA";
     t[14068] = "mobile phone number";
@@ -6006,8 +6018,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14077] = "Por lo menos debe especificar una partida";
     t[14080] = "Tooling";
     t[14081] = "Herramental";
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[14094] = "Tax Id Number Depositor";
     t[14095] = "RFC Depositante";
     t[14098] = "Current Counting";

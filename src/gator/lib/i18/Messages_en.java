@@ -367,6 +367,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[799] = "Additional actions";
     t[800] = "Capture mode";
     t[801] = "Capture mode";
+    t[802] = "Large text (120%)";
+    t[803] = "Large text (120%)";
     t[806] = "Caducado";
     t[807] = "Expired";
     t[812] = "Search Sections";
@@ -437,6 +439,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[945] = "No family";
     t[948] = "Select warehouse";
     t[949] = "Select warehouse";
+    t[954] = "Current text size (100%)";
+    t[955] = "Current text size (100%)";
     t[956] = "Error del \u00faltimo env\u00edo";
     t[957] = "Last email error";
     t[958] = "Save board";
@@ -667,6 +671,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1499] = "Series";
     t[1506] = "Java Script";
     t[1507] = "Java Script";
+    t[1508] = "Extra large text (130%)";
+    t[1509] = "Extra large text (130%)";
     t[1510] = "INGRESADO";
     t[1511] = "CAPTURED";
     t[1512] = "Start a new session if this rejection was a mistake.";
@@ -1097,8 +1103,12 @@ public class Messages_en extends java.util.ResourceBundle {
     t[2379] = "Back";
     t[2380] = "Contacts management.";
     t[2381] = "Contacts management.";
+    t[2384] = "Text size";
+    t[2385] = "Text size";
     t[2386] = "Conditions";
     t[2387] = "Conditions";
+    t[2388] = "Medium text (110%)";
+    t[2389] = "Medium text (110%)";
     t[2392] = "Show index";
     t[2393] = "Show index";
     t[2396] = "Warehouse";

@@ -10881,3 +10881,18 @@ msgstr "Envíos al proveedor"
 
 msgid "Error del último envío"
 msgstr "Error del último envío"
+
+msgid "Text size"
+msgstr "Tamaño de texto"
+
+msgid "Current text size (100%)"
+msgstr "Actual (100 %)"
+
+msgid "Medium text (110%)"
+msgstr "Mediano (110 %)"
+
+msgid "Large text (120%)"
+msgstr "Grande (120 %)"
+
+msgid "Extra large text (130%)"
+msgstr "Muy grande (130 %)"

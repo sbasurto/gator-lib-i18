@@ -15,6 +15,11 @@ public final class MessagesSelfCheck {
         assert "Datos logísticos".equals(spanish.getString("Logistics data"));
         assert "Ayuda".equals(spanish.getString("Help"));
         assert "GUI actual".equals(spanish.getString("Current GUI"));
+        assert "Tamaño de texto".equals(spanish.getString("Text size"));
+        assert "Actual (100 %)".equals(spanish.getString("Current text size (100%)"));
+        assert "Mediano (110 %)".equals(spanish.getString("Medium text (110%)"));
+        assert "Grande (120 %)".equals(spanish.getString("Large text (120%)"));
+        assert "Muy grande (130 %)".equals(spanish.getString("Extra large text (130%)"));
         assert "Guardar configuración".equals(spanish.getString("Save configuration"));
         assert "Autenticación por SMS".equals(spanish.getString("SMS authentication"));
         assert "Nueva".equals(spanish.getString("New item"));

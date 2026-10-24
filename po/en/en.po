@@ -1949,3 +1949,18 @@ msgstr "Supplier emails sent"
 
 msgid "Error del último envío"
 msgstr "Last email error"
+
+msgid "Text size"
+msgstr "Text size"
+
+msgid "Current text size (100%)"
+msgstr "Current text size (100%)"
+
+msgid "Medium text (110%)"
+msgstr "Medium text (110%)"
+
+msgid "Large text (120%)"
+msgstr "Large text (120%)"
+
+msgid "Extra large text (130%)"
+msgstr "Extra large text (130%)"
