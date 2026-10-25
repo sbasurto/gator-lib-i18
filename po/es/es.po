@@ -10896,3 +10896,27 @@ msgstr "Grande (120 %)"
 
 msgid "Extra large text (130%)"
 msgstr "Muy grande (130 %)"
+
+msgid "Open screens"
+msgstr "Pantallas abiertas"
+
+msgid "Close this screen and its child screens"
+msgstr "Cerrar esta pantalla y sus pantallas hijas"
+
+msgid "This screen or its child screens have unsaved changes."
+msgstr "Esta pantalla o sus pantallas hijas tienen cambios sin guardar."
+
+msgid "Discard changes and close"
+msgstr "Descartar cambios y cerrar"
+
+msgid "Save pending items and close"
+msgstr "Guardar pendientes y cerrar"
+
+msgid "Save document changes before closing."
+msgstr "Guarda los cambios del documento antes de cerrar."
+
+msgid "Verify the pending save before closing."
+msgstr "Comprueba el guardado pendiente antes de cerrar."
+
+msgid "Return to detail"
+msgstr "Volver al detalle"

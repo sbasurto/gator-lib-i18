@@ -80,6 +80,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[155] = "Quitar rollo de la orden";
     t[156] = "This text will be translated";
     t[157] = "Esto ser\u00e1 traducido";
+    t[162] = "Save pending items and close";
+    t[163] = "Guardar pendientes y cerrar";
     t[164] = "Masculino\u0004All";
     t[165] = "Todos";
     t[166] = "Retained ISR";
@@ -494,6 +496,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1033] = new java.lang.String[] { "Contacto", "Contactos" };
     t[1038] = "Please confirm new password";
     t[1039] = "Por favor confirme la nueva contrase\u00f1a";
+    t[1040] = "Open screens";
+    t[1041] = "Pantallas abiertas";
     t[1044] = "Delivered Pallets";
     t[1045] = "Tarimas Entregadas";
     t[1046] = "The bank account does not exist, please verify!";
@@ -1998,12 +2002,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4545] = new java.lang.String[] { "Temporada", "Temporadas" };
     t[4546] = "Detail inbound documents report.";
     t[4547] = "Reporte detallado de documentos de entrada.";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4558] = "The product @0 does not exist, please verify!";
     t[4559] = "El producto @0 no existe, \u00a1por favor verifique!";
     t[4560] = "in Mexico";
     t[4561] = "en M\u00e9xico";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4562] = "Database for Data";
     t[4563] = "Base de datos para Datos";
     t[4564] = "Filters";
@@ -2454,6 +2458,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5581] = "Producto";
     t[5582] = "Your session has ended";
     t[5583] = "Tu sesi\u00f3n ha finalizado";
+    t[5584] = "Verify the pending save before closing.";
+    t[5585] = "Comprueba el guardado pendiente antes de cerrar.";
     t[5592] = "Choose Menu";
     t[5593] = "Seleccionar Men\u00fa";
     t[5594] = "Price";
@@ -2692,6 +2698,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6201] = "El saldo de cuentas por cobrar no puedo ser actualizado, \u00a1por favor verifique!";
     t[6206] = "Printers management, add, update or delete.";
     t[6207] = "Gesti\u00f3n de impresoras, agregar, actualizar o borrar.";
+    t[6210] = "Close this screen and its child screens";
+    t[6211] = "Cerrar esta pantalla y sus pantallas hijas";
     t[6216] = "chat (noun)\u0004chat";
     t[6217] = "Sala de Charla";
     t[6230] = "attempts remaining";
@@ -3044,6 +3052,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[7019] = "Agregar o Modificar Categor\u00edas";
     t[7020] = "How many payment methods?";
     t[7021] = "\u00bfCu\u00e1ntos m\u00e9todos de pago?";
+    t[7022] = "Discard changes and close";
+    t[7023] = "Descartar cambios y cerrar";
     t[7026] = "Allow message recording easily, so you always keep in touch with your customers.";
     t[7027] = "Permita grabaci\u00f3n de mensajes de manera f\u00e1cil, para que siempre mantenga contacto con sus clientes.";
     t[7028] = "Begins";
@@ -3994,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9343] = "Servicio a Clientes";
     t[9344] = "SAAI Acknowledgement";
     t[9345] = "Acuse SAAI";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[9346] = "SAT's Products catalog management.";
     t[9347] = "Administraci\u00f3n del cat\u00e1logo de productos del SAT.";
     t[9348] = "Payment Processed Successfully";
@@ -4004,8 +4016,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9357] = new java.lang.String[] { "Semana", "Semanas" };
     t[9358] = "The column does not exists in the pools of columns";
     t[9359] = "La columna no existe en los conjuntos de columnas";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[9362] = "Login with Gmail Account";
     t[9363] = "Ingrese con su Cuenta de Gmail";
     t[9364] = "Give Approval";
@@ -4262,6 +4272,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9921] = "La informaci\u00f3n que se lista es incorrecta";
     t[9922] = "Driver licences management.";
     t[9923] = "Gesti\u00f3n de licencias de conducir.";
+    t[9930] = "This screen or its child screens have unsaved changes.";
+    t[9931] = "Esta pantalla o sus pantallas hijas tienen cambios sin guardar.";
     t[9938] = "Picked Quantity";
     t[9939] = "Cantidad Surtida";
     t[9940] = "Home";
@@ -4888,6 +4900,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11349] = "Agregar o Modificar Precios";
     t[11356] = "The picking SKU and SKU confirmation must be equals";
     t[11357] = "El sku y el sku confirmado deben de ser iguales";
+    t[11358] = "Return to detail";
+    t[11359] = "Volver al detalle";
     t[11360] = "Distribute to Location";
     t[11361] = "Reparto a Ubicaci\u00f3n";
     t[11364] = "Attach";
@@ -5992,6 +6006,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14011] = "Cantidad UMT";
     t[14016] = "Scrap 1 weight (kg)";
     t[14017] = "Peso del retazo 1 (kg)";
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[14020] = "The location is not a general location, please verify";
     t[14021] = "La ubicaci\u00f3n no es una ubicaci\u00f3n general, por favor verifique";
     t[14028] = "Choose Unit Measure";
@@ -6006,8 +6022,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14057] = "Env\u00eda alertas por correo electr\u00f3nico y/o mensaje de texto en tiempo real con informaci\u00f3n definida por usted.";
     t[14060] = "Managent of inbound returns.";
     t[14061] = "Gesti\u00f3n de Devoluciones de Entrada.";
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[14062] = "VAT Factor";
     t[14063] = "Factor IVA";
     t[14068] = "mobile phone number";
@@ -6726,6 +6740,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[15667] = "N\u00famero de Comprobante";
     t[15670] = "Document Distribute to";
     t[15671] = "Repartir a Documento";
+    t[15678] = "Save document changes before closing.";
+    t[15679] = "Guarda los cambios del documento antes de cerrar.";
     t[15684] = "Conversion Code";
     t[15685] = new java.lang.String[] { "C\u00f3digo Conversi\u00f3n", "C\u00f3digos Conversi\u00f3n" };
     t[15690] = "Main Warehouse Name";

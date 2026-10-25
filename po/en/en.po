@@ -1964,3 +1964,27 @@ msgstr "Large text (120%)"
 
 msgid "Extra large text (130%)"
 msgstr "Extra large text (130%)"
+
+msgid "Open screens"
+msgstr "Open screens"
+
+msgid "Close this screen and its child screens"
+msgstr "Close this screen and its child screens"
+
+msgid "This screen or its child screens have unsaved changes."
+msgstr "This screen or its child screens have unsaved changes."
+
+msgid "Discard changes and close"
+msgstr "Discard changes and close"
+
+msgid "Save pending items and close"
+msgstr "Save pending items and close"
+
+msgid "Save document changes before closing."
+msgstr "Save document changes before closing."
+
+msgid "Verify the pending save before closing."
+msgstr "Verify the pending save before closing."
+
+msgid "Return to detail"
+msgstr "Return to detail"
