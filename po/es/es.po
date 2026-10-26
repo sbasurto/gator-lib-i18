@@ -10920,3 +10920,31 @@ msgstr "Comprueba el guardado pendiente antes de cerrar."
 
 msgid "Return to detail"
 msgstr "Volver al detalle"
+
+
+msgid "Search files"
+msgstr "Buscar archivo"
+
+
+msgid "{count} files linked to this document"
+msgstr "{count} archivos vinculados a este documento"
+
+
+msgid "{shown} of {count} files"
+msgstr "{shown} de {count} archivos"
+
+
+msgid "No attachments"
+msgstr "Sin archivos adjuntos"
+
+
+msgid "The files for this document will appear here."
+msgstr "Los archivos de este documento aparecerán aquí."
+
+
+msgid "Try another file name."
+msgstr "Prueba con otro nombre de archivo."
+
+
+msgid "Copy Link"
+msgstr "Copiar vínculo"

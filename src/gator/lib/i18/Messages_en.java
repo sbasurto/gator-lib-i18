@@ -417,6 +417,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[883] = "Consult";
     t[884] = "Could not load your preference. Please try again.";
     t[885] = "Could not load your preference. Please try again.";
+    t[886] = "{shown} of {count} files";
+    t[887] = "{shown} of {count} files";
     t[888] = "estado_caducidad";
     t[889] = "Expiry status";
     t[894] = "Roll Id";
@@ -449,6 +451,10 @@ public class Messages_en extends java.util.ResourceBundle {
     t[943] = "Loading document items";
     t[944] = "Import files from any process";
     t[945] = "Import files from any process";
+    t[946] = "No attachments";
+    t[947] = "No attachments";
+    t[948] = "Search files";
+    t[949] = "Search files";
     t[956] = "Current presentation of Gator applications.";
     t[957] = "Current presentation of Gator applications.";
     t[964] = "Verify the pending save before closing.";
@@ -619,6 +625,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1351] = "For your security, sign in again to continue.";
     t[1358] = "Send to cutting";
     t[1359] = "Send to cutting";
+    t[1364] = "Copy Link";
+    t[1365] = "Copy Link";
     t[1366] = "Adjust its appearance and destination.";
     t[1367] = "Adjust its appearance and destination.";
     t[1372] = "Password, short password and authentication.";
@@ -779,6 +787,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1777] = "Interface preview";
     t[1784] = "Purchase Details";
     t[1785] = "Purchase Details";
+    t[1790] = "{count} files linked to this document";
+    t[1791] = "{count} files linked to this document";
     t[1792] = "Report to show product not picking.";
     t[1793] = "Report to show product not picking.";
     t[1796] = "Scale service URL";
@@ -1077,6 +1087,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[2455] = "Percentage";
     t[2456] = "Driver Licenses";
     t[2457] = "Driver Licenses";
+    t[2460] = "Try another file name.";
+    t[2461] = "Try another file name.";
     t[2462] = "Supervisor password";
     t[2463] = "Supervisor password";
     t[2468] = "No family";
@@ -1185,6 +1197,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[2721] = "Allow to authorize as supervisor";
     t[2726] = "Reprint label";
     t[2727] = "Reprint label";
+    t[2730] = "The files for this document will appear here.";
+    t[2731] = "The files for this document will appear here.";
     t[2732] = "Medium text (110%)";
     t[2733] = "Medium text (110%)";
     t[2736] = "Administra la parte de documentos de entrada (crear nuevo producto, importar o entrar a detalle).";

@@ -382,6 +382,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[769] = "Reporte de uso de cortinas.";
     t[770] = "RF Receipt";
     t[771] = "Recibo";
+    t[780] = "Try another file name.";
+    t[781] = "Prueba con otro nombre de archivo.";
     t[784] = "The provider's address is wrong, please verify! - provider(@0)";
     t[785] = "La direcci\u00f3n del proveedor es incorrecta, \u00a1por favor verifique! - proveedor(@0)";
     t[786] = "Scrap 5 weight (kg)";
@@ -650,6 +652,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1337] = "Enero";
     t[1352] = "Add or Modify Subtitutes";
     t[1353] = "Agregar o Modificar Substitutos";
+    t[1354] = "No attachments";
+    t[1355] = "Sin archivos adjuntos";
     t[1362] = "Apache Web Server";
     t[1363] = "Servidor Web Apache";
     t[1368] = "Purchases report.";
@@ -1998,12 +2002,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[4537] = "Conjunto de Columnas para Proceso Requeridas";
     t[4542] = "No indicators selected";
     t[4543] = "No tienes indicadores visibles";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[4544] = "Season";
     t[4545] = new java.lang.String[] { "Temporada", "Temporadas" };
     t[4546] = "Detail inbound documents report.";
     t[4547] = "Reporte detallado de documentos de entrada.";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[4558] = "The product @0 does not exist, please verify!";
     t[4559] = "El producto @0 no existe, \u00a1por favor verifique!";
     t[4560] = "in Mexico";
@@ -2218,6 +2222,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5041] = "Inventario Entrante en Tr\u00e1nsito";
     t[5042] = "Maximum Sell Quantity";
     t[5043] = "Cantidad M\u00e1xima de Venta";
+    t[5044] = "The files for this document will appear here.";
+    t[5045] = "Los archivos de este documento aparecer\u00e1n aqu\u00ed.";
     t[5046] = "Allows access with bar code scanners and other WiFi devices, not matter what O.S. the device has, only requirement is a Internet Browser.";
     t[5047] = "Permite acceder con lectores de c\u00f3digo de barras y otros dispositivos WiFi, sin importar el S.O., el \u00fanico requerimiento es un navegador de Internet.";
     t[5048] = "Are you sure you want to recreate period?";
@@ -2952,6 +2958,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6821] = "Vea documentos con clave aduanal G1.";
     t[6822] = "Schedule a call";
     t[6823] = "Programar una llamada";
+    t[6824] = "{count} files linked to this document";
+    t[6825] = "{count} archivos vinculados a este documento";
     t[6826] = "Shipments";
     t[6827] = "Embarques";
     t[6830] = "Location Kind";
@@ -3550,6 +3558,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8245] = "La cantidad pagada no puede ser mayor o menor al total de la orden.";
     t[8252] = "This is plural";
     t[8253] = "Esto es plural";
+    t[8256] = "Copy Link";
+    t[8257] = "Copiar v\u00ednculo";
     t[8258] = "Editorials management, creation of new editorial articles of any kind.";
     t[8259] = "Gesti\u00f3n editor\u00edal, creaci\u00f3n de nuevos art\u00edculos de cualquier tipo.";
     t[8260] = "There is not picking documents, please verify!";
@@ -3974,6 +3984,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9263] = new java.lang.String[] { "Otro", "Otros" };
     t[9268] = "There still are picking movements, please verify!";
     t[9269] = "A\u00fan hay movimientos de surtido, \u00a1por favor verifique!";
+    t[9270] = "{shown} of {count} files";
+    t[9271] = "{shown} de {count} archivos";
     t[9276] = "Database Configuration";
     t[9277] = "Configuraci\u00f3n de Base de Datos";
     t[9278] = "Non-Replicated Product";
@@ -3992,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9313] = "Una columna que est\u00e1 siendo utilizada en una sentencia est\u00e1 indefinida, \u00a1por favor verifique!";
     t[9316] = "Parent";
     t[9317] = new java.lang.String[] { "Padre", "Padres" };
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[9320] = "Provider's Invoices/Credit Notes";
     t[9321] = "Facturas/N. de Cr\u00e9dito de Proveedor";
     t[9328] = "Manage inbound documents.";
@@ -4004,8 +4018,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9343] = "Servicio a Clientes";
     t[9344] = "SAAI Acknowledgement";
     t[9345] = "Acuse SAAI";
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[9346] = "SAT's Products catalog management.";
     t[9347] = "Administraci\u00f3n del cat\u00e1logo de productos del SAT.";
     t[9348] = "Payment Processed Successfully";
@@ -5430,6 +5442,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12569] = "Peso actual (kg)";
     t[12574] = "Conversion Quantity";
     t[12575] = "Cantidad Conversi\u00f3n";
+    t[12596] = "Search files";
+    t[12597] = "Buscar archivo";
     t[12600] = "Maximize";
     t[12601] = "Maximizar";
     t[12604] = "Add Credit/Debit Card";
@@ -5992,6 +6006,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[13987] = "El n\u00famero de tarjeta, no es un n\u00famero aceptado para pruebas.";
     t[13988] = "Enter new password";
     t[13989] = "Introduzca nueva contrase\u00f1a";
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[13990] = "Operation Type";
     t[13991] = "Tipo de operaci\u00f3n";
     t[13996] = "Add Card";
@@ -6006,8 +6022,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14011] = "Cantidad UMT";
     t[14016] = "Scrap 1 weight (kg)";
     t[14017] = "Peso del retazo 1 (kg)";
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[14020] = "The location is not a general location, please verify";
     t[14021] = "La ubicaci\u00f3n no es una ubicaci\u00f3n general, por favor verifique";
     t[14028] = "Choose Unit Measure";

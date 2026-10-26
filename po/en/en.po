@@ -1988,3 +1988,31 @@ msgstr "Verify the pending save before closing."
 
 msgid "Return to detail"
 msgstr "Return to detail"
+
+
+msgid "Search files"
+msgstr "Search files"
+
+
+msgid "{count} files linked to this document"
+msgstr "{count} files linked to this document"
+
+
+msgid "{shown} of {count} files"
+msgstr "{shown} of {count} files"
+
+
+msgid "No attachments"
+msgstr "No attachments"
+
+
+msgid "The files for this document will appear here."
+msgstr "The files for this document will appear here."
+
+
+msgid "Try another file name."
+msgstr "Try another file name."
+
+
+msgid "Copy Link"
+msgstr "Copy Link"

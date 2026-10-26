@@ -31,6 +31,13 @@ public final class MessagesSelfCheck {
         assert "Cerrar pool".equals(spanish.getString("Close pool"));
         assert "Menú".equals(spanish.getString("Menu"));
         assert "Tableros".equals(((String[]) ((Messages_es) spanish).lookup("Board"))[1]);
+        assert "Copiar vínculo".equals(spanish.getString("Copy Link"));
+        assert "Buscar archivo".equals(spanish.getString("Search files"));
+        assert "Sin archivos adjuntos".equals(spanish.getString("No attachments"));
+        assert "{shown} de {count} archivos".equals(spanish.getString("{shown} of {count} files"));
+        assert "{count} archivos vinculados a este documento".equals(spanish.getString("{count} files linked to this document"));
+        assert "Prueba con otro nombre de archivo.".equals(spanish.getString("Try another file name."));
+        assert "Los archivos de este documento aparecerán aquí.".equals(spanish.getString("The files for this document will appear here."));
         ResourceBundle english = ResourceBundle.getBundle("gator.lib.i18.Messages_en");
         assert "Reporte de costos por proveedor".equals(spanish.getString("Supplier cost list."));
         assert "Esta ingresando una serie(s) duplicada(s) (@0), ¡por favor verifique!".equals(spanish.getString("You are entering duplicate serial number(s) (@0), please verify!"));
