@@ -10948,3 +10948,335 @@ msgstr "Prueba con otro nombre de archivo."
 
 msgid "Copy Link"
 msgstr "Copiar vínculo"
+
+#. Native payment workbench v03
+msgid "Payment application"
+msgstr "Aplicación de pagos"
+
+#. Native payment workbench v03
+msgid "Apply existing movements to outstanding invoices."
+msgstr "Aplica movimientos existentes a las facturas pendientes."
+
+#. Native payment workbench v03
+msgid "One payment · several invoices"
+msgstr "Un pago · varias facturas"
+
+#. Native payment workbench v03
+msgid "Several payments"
+msgstr "Varios pagos"
+
+#. Native payment workbench v03
+msgid "Bank movement"
+msgstr "Movimiento bancario"
+
+#. Native payment workbench v03
+msgid "Movement date"
+msgstr "Fecha del movimiento"
+
+#. Native payment workbench v03
+msgid "Available to apply"
+msgstr "Disponible para aplicar"
+
+#. Native payment workbench v03
+msgid "Available afterwards"
+msgstr "Quedará disponible"
+
+#. Native payment workbench v03
+msgid "Use an existing movement with available balance."
+msgstr "Usa un movimiento registrado con saldo disponible."
+
+#. Native payment workbench v03
+msgid "Search invoice or party"
+msgstr "Buscar factura o tercero"
+
+#. Native payment workbench v03
+msgid "Search bank movements"
+msgstr "Buscar movimientos bancarios"
+
+#. Native payment workbench v03
+msgid "Customer / supplier"
+msgstr "Cliente / proveedor"
+
+#. Native payment workbench v03
+msgid "All customers / suppliers"
+msgstr "Todos los clientes / proveedores"
+
+#. Native payment workbench v03
+msgid "Distribute by due date"
+msgstr "Distribuir por vencimiento"
+
+#. Native payment workbench v03
+msgid "Clear selection"
+msgstr "Quitar selección"
+
+#. Native payment workbench v03
+msgid "Select invoice"
+msgstr "Seleccionar factura"
+
+#. Native payment workbench v03
+msgid "Due date"
+msgstr "Vencimiento"
+
+#. Native payment workbench v03
+msgid "Current balance"
+msgstr "Saldo actual"
+
+#. Native payment workbench v03
+msgid "Amount to apply"
+msgstr "Importe a aplicar"
+
+#. Native payment workbench v03
+msgid "Balance afterwards"
+msgstr "Saldo posterior"
+
+#. Native payment workbench v03
+msgid "More options"
+msgstr "Más opciones"
+
+#. Native payment workbench v03
+msgid "Selected invoices"
+msgstr "Facturas seleccionadas"
+
+#. Native payment workbench v03
+msgid "Partial payments"
+msgstr "Parcialidades"
+
+#. Native payment workbench v03
+msgid "Payments / allocations"
+msgstr "Pagos / aplicaciones"
+
+#. Native payment workbench v03
+msgid "Review and apply"
+msgstr "Revisar y aplicar"
+
+#. Native payment workbench v03
+msgid "More invoices"
+msgstr "Más facturas"
+
+#. Native payment workbench v03
+msgid "More movements"
+msgstr "Más movimientos"
+
+#. Native payment workbench v03
+msgid "No invoices match these filters."
+msgstr "No hay facturas con estos filtros."
+
+#. Native payment workbench v03
+msgid "Select invoices and adjust amounts for partial payments."
+msgstr "Marca facturas y ajusta los importes para pagos parciales."
+
+#. Native payment workbench v03
+msgid "Ready to review. Balances will be checked again."
+msgstr "Listo para revisar. Se comprobarán nuevamente los saldos."
+
+#. Native payment workbench v03
+msgid "One payment accepts invoices from one party. Clear the selection or use Several payments."
+msgstr "Un pago admite facturas de un solo tercero. Quita la selección o usa Varios pagos."
+
+#. Native payment workbench v03
+msgid "Pending payment authorization"
+msgstr "Pendiente de autorización para pago"
+
+#. Native payment workbench v03
+msgid "Enter a positive amount with up to six decimal places."
+msgstr "Captura un importe positivo con hasta seis decimales."
+
+#. Native payment workbench v03
+msgid "The allocations exceed the invoice balance."
+msgstr "Las aplicaciones superan el saldo de la factura."
+
+#. Native payment workbench v03
+msgid "The allocations exceed the available bank movement balance."
+msgstr "Las aplicaciones superan el saldo disponible del movimiento."
+
+#. Native payment workbench v03
+msgid "Select an existing movement in the invoice currency."
+msgstr "Selecciona un movimiento existente en la moneda de la factura."
+
+#. Native payment workbench v03
+msgid "Select a configured payment method."
+msgstr "Selecciona una forma de pago habilitada."
+
+#. Native payment workbench v03
+msgid "A review supports at most 100 allocations."
+msgstr "Una revisión admite hasta 100 aplicaciones."
+
+#. Native payment workbench v03
+msgid "Cash received must cover this allocation."
+msgstr "El efectivo recibido debe cubrir esta aplicación."
+
+#. Native payment workbench v03
+msgid "Enter exactly four card digits."
+msgstr "Captura exactamente cuatro dígitos de tarjeta."
+
+#. Native payment workbench v03
+msgid "Enter a reference of up to 200 characters."
+msgstr "Captura una referencia de hasta 200 caracteres."
+
+#. Native payment workbench v03
+msgid "Credit requires an eligible invoice and 0 to 3650 credit days."
+msgstr "El crédito requiere una factura autorizada y entre 0 y 3650 días."
+
+#. Native payment workbench v03
+msgid "Payment options"
+msgstr "Opciones del pago"
+
+#. Native payment workbench v03
+msgid "Document currency"
+msgstr "Moneda del documento"
+
+#. Native payment workbench v03
+msgid "Exchange rate"
+msgstr "Tipo de cambio"
+
+#. Native payment workbench v03
+msgid "Open native invoice detail"
+msgstr "Abrir detalle nativo de factura"
+
+#. Native payment workbench v03
+msgid "Change currency in the authorized invoice detail before reviewing, then refresh the catalog."
+msgstr "Cambia la moneda en el detalle autorizado antes de revisar y actualiza el catálogo."
+
+#. Native payment workbench v03
+msgid "Payment method"
+msgstr "Forma de pago"
+
+#. Native payment workbench v03
+msgid "Add payment method"
+msgstr "Agregar forma de pago"
+
+#. Native payment workbench v03
+msgid "Remove allocation"
+msgstr "Quitar aplicación"
+
+#. Native payment workbench v03
+msgid "Reference / operation number"
+msgstr "Referencia / número de operación"
+
+#. Native payment workbench v03
+msgid "Card: last four digits"
+msgstr "Tarjeta: últimos cuatro dígitos"
+
+#. Native payment workbench v03
+msgid "Cash received"
+msgstr "Efectivo recibido"
+
+#. Native payment workbench v03
+msgid "Credit days"
+msgstr "Días de crédito"
+
+#. Native payment workbench v03
+msgid "Credit assignment is not money received or paid."
+msgstr "La asignación a crédito no es dinero cobrado ni pagado."
+
+#. Native payment workbench v03
+msgid "Money applied"
+msgstr "Dinero aplicado"
+
+#. Native payment workbench v03
+msgid "Credit assigned"
+msgstr "Crédito asignado"
+
+#. Native payment workbench v03
+msgid "Review applications"
+msgstr "Revisar aplicaciones"
+
+#. Native payment workbench v03
+msgid "Apply pending items"
+msgstr "Aplicar pendientes"
+
+#. Native payment workbench v03
+msgid "Cancel pending items"
+msgstr "Cancelar pendientes"
+
+#. Native payment workbench v03
+msgid "Check operation status"
+msgstr "Consultar estado de la operación"
+
+#. Native payment workbench v03
+msgid "Show operation"
+msgstr "Ver operación"
+
+#. Native payment workbench v03
+msgid "Start another operation"
+msgstr "Iniciar otra operación"
+
+#. Native payment workbench v03
+msgid "Each application is saved separately. Applied items remain saved if another fails. Cancelling pending items never reverses payments."
+msgstr "Cada aplicación se guarda por separado. Las aplicadas permanecen guardadas si otra falla. Cancelar pendientes nunca revierte pagos."
+
+#. Native payment workbench v03
+msgid "Result uncertain. Reconcile the invoice, cash register and bank movement before continuing. Pending items will not be applied automatically."
+msgstr "Resultado incierto. Concilia la factura, la caja y el movimiento bancario antes de continuar. Los pendientes no se aplicarán automáticamente."
+
+#. Native payment workbench v03
+msgid "A saved operation must be checked before starting another."
+msgstr "Debes consultar la operación guardada antes de iniciar otra."
+
+#. Native payment workbench v03
+msgid "Unable to confirm the result. Check operation status before continuing."
+msgstr "No se pudo confirmar el resultado. Consulta el estado antes de continuar."
+
+#. Native payment workbench v03
+msgid "The server confirmed that this operation does not exist. You can start another review."
+msgstr "El servidor confirmó que esta operación no existe. Puedes iniciar otra revisión."
+
+#. Native payment workbench v03
+msgid "Recovery storage is unavailable. Enable session storage before reviewing payments."
+msgstr "El almacenamiento de recuperación no está disponible. Habilita sessionStorage antes de revisar pagos."
+
+#. Native payment workbench v03
+msgid "Unable to load the payment workbench. Refresh to try again."
+msgstr "No se pudo cargar la aplicación de pagos. Recarga para reintentar."
+
+#. Native payment workbench v03
+msgid "Applied"
+msgstr "Aplicada"
+
+#. Native payment workbench v03
+msgid "Uncertain"
+msgstr "Incierta"
+
+#. Native payment workbench v03
+msgid "Partially applied"
+msgstr "Aplicada parcialmente"
+
+#. Native payment workbench v03
+msgid "Needs reconciliation"
+msgstr "Requiere conciliación"
+
+#. Native payment workbench v03
+msgid "Awaiting confirmation"
+msgstr "Pendiente de confirmación"
+
+#. Native payment workbench v03
+msgid "Payment ID"
+msgstr "ID del pago"
+
+#. Native payment workbench v03
+msgid "Loading…"
+msgstr "Cargando…"
+
+#. Native payment workbench v03
+msgid "Current native payment date"
+msgstr "Fecha nativa actual del pago"
+
+#. Native payment workbench v03
+msgid "Refresh catalog"
+msgstr "Actualizar catálogo"
+
+#. Native payment workbench v03
+msgid "Credit assignment must be the only allocation for its invoice."
+msgstr "La asignación a crédito debe ser la única aplicación de su factura."
+
+#. Native payment workbench v03
+msgid "In progress; check status"
+msgstr "En proceso; consulta el estado"
+
+#. Native payment workbench v03
+msgid "Credit must cover the full outstanding invoice balance."
+msgstr "El crédito debe cubrir el saldo pendiente completo de la factura."
+
+#. Native payment workbench v03
+msgid "Credit days come from the supplier configuration."
+msgstr "Los días de crédito provienen de la configuración del proveedor."
