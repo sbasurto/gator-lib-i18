@@ -801,6 +801,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[1809] = "Packaging management.";
     t[1816] = "\u00daltimo env\u00edo al proveedor";
     t[1817] = "Last supplier email";
+    t[1822] = "Proposed credit";
+    t[1823] = "Proposed credit";
     t[1828] = "Agrupador de app_producto_descuento";
     t[1829] = "Product discount grouping";
     t[1830] = "Emails and phones";
@@ -1045,6 +1047,8 @@ public class Messages_en extends java.util.ResourceBundle {
     t[2361] = "Account, warehouse or identifier";
     t[2362] = "Screens";
     t[2363] = "Screens";
+    t[2364] = "Proposed payments";
+    t[2365] = "Proposed payments";
     t[2366] = "Configure cyclic inventory.";
     t[2367] = "Configure cyclic inventory.";
     t[2368] = "Purchases";

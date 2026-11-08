@@ -492,6 +492,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1283] = "El producto no existe y usted no tiene permisos de crearlo, \u00a1por favor verifique!";
     t[1286] = "You don't specify reference for new document, please verify!";
     t[1287] = "No especific\u00f3 referencia para el nuevo documento, \u00a1por favor verifique!";
+    t[1290] = "Proposed payments";
+    t[1291] = "Pagos propuestos";
     t[1304] = "Verbo\u0004Clean";
     t[1305] = "Limpiar";
     t[1306] = "Detail outbound documents report.";
@@ -2000,10 +2002,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5529] = "Permitir modificar el n\u00famero y la serie de la factura.";
     t[5534] = "{count} files linked to this document";
     t[5535] = "{count} archivos vinculados a este documento";
-    t[5540] = "Please specify a provider";
-    t[5541] = "Por favor especifique un proveedor";
   }
   static void clinit_part_1 (java.lang.Object[] t) {
+    t[5540] = "Please specify a provider";
+    t[5541] = "Por favor especifique un proveedor";
     t[5548] = "Complete Distribution Tag";
     t[5549] = "Etiqueta de Reparto Completa";
     t[5562] = "Export";
@@ -4002,10 +4004,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11071] = "\u00a1Un producto o todos los productos in el SID no pueden ser ubicados en esta posici\u00f3n, por favor verifique!";
     t[11072] = "Warehouse Name";
     t[11073] = "Nombre de Bodega";
-    t[11082] = "Creation Date";
-    t[11083] = "Fecha de Creaci\u00f3n";
   }
   static void clinit_part_2 (java.lang.Object[] t) {
+    t[11082] = "Creation Date";
+    t[11083] = "Fecha de Creaci\u00f3n";
     t[11084] = "File to import";
     t[11085] = "Archivo a importar";
     t[11086] = "Add or Modify Prices";
@@ -4810,6 +4812,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[13343] = "Abrir";
     t[13350] = "It was not possible to get ABC criteria information, please verify!";
     t[13351] = "\u00a1No fue posible obtener informaci\u00f3n del criterio ABC, por favor verifique!";
+    t[13356] = "Proposed credit";
+    t[13357] = "Cr\u00e9dito propuesto";
     t[13362] = "You are about to import an inbound document, are you sure?";
     t[13363] = "\u00bfEst\u00e1 por importar un documento de entrada, est\u00e1 seguro?";
     t[13366] = "You cannot request an EMAIL of a report without pages, please verify!";
@@ -6002,12 +6006,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[16353] = "Programaci\u00f3n de Frecuencia";
     t[16358] = "Projects management.";
     t[16359] = "Gesti\u00f3n de projectos.";
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[16370] = "Street";
     t[16371] = new java.lang.String[] { "Calle", "Calles" };
     t[16372] = "Location Max Weight";
     t[16373] = "Ubicaci\u00f3n Peso M\u00e1ximo";
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[16374] = "Program Stock";
     t[16375] = "Programaci\u00f3n de Invetario";
     t[16388] = "Verify the resume stock for any product.";

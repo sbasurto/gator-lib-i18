@@ -2372,3 +2372,11 @@ msgstr "Credit must cover the full outstanding invoice balance."
 #. Native payment workbench v03
 msgid "Credit days come from the supplier configuration."
 msgstr "Credit days come from the supplier configuration."
+
+#. Native payment workbench proposed totals
+msgid "Proposed payments"
+msgstr "Proposed payments"
+
+#. Native payment workbench proposed totals
+msgid "Proposed credit"
+msgstr "Proposed credit"

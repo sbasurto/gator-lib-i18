@@ -11280,3 +11280,11 @@ msgstr "El crédito debe cubrir el saldo pendiente completo de la factura."
 #. Native payment workbench v03
 msgid "Credit days come from the supplier configuration."
 msgstr "Los días de crédito provienen de la configuración del proveedor."
+
+#. Native payment workbench proposed totals
+msgid "Proposed payments"
+msgstr "Pagos propuestos"
+
+#. Native payment workbench proposed totals
+msgid "Proposed credit"
+msgstr "Crédito propuesto"

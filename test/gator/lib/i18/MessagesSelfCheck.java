@@ -38,6 +38,8 @@ public final class MessagesSelfCheck {
         assert "{count} archivos vinculados a este documento".equals(spanish.getString("{count} files linked to this document"));
         assert "Prueba con otro nombre de archivo.".equals(spanish.getString("Try another file name."));
         assert "Los archivos de este documento aparecerán aquí.".equals(spanish.getString("The files for this document will appear here."));
+        assert "Pagos propuestos".equals(spanish.getString("Proposed payments"));
+        assert "Crédito propuesto".equals(spanish.getString("Proposed credit"));
         assert "Aplicación de pagos".equals(spanish.getString("Payment application"));
         assert "Un pago · varias facturas".equals(spanish.getString("One payment · several invoices"));
         assert "La asignación a crédito no es dinero cobrado ni pagado.".equals(spanish.getString("Credit assignment is not money received or paid."));
