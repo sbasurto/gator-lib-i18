@@ -5,6 +5,9 @@ import java.util.ResourceBundle;
 public final class MessagesSelfCheck {
     public static void main(String[] args) {
         ResourceBundle spanish = ResourceBundle.getBundle("gator.lib.i18.Messages_es");
+        assert "Identificación del producto".equals(spanish.getString("Product identification"));
+        assert "Cantidad y precio".equals(spanish.getString("Quantity and price"));
+        assert "Trazabilidad".equals(spanish.getString("Traceability"));
         assert "Sin cambios pendientes".equals(spanish.getString("No pending changes"));
         assert "Cambios sin guardar".equals(spanish.getString("Unsaved changes"));
         assert "Cambios guardados".equals(spanish.getString("Changes saved"));

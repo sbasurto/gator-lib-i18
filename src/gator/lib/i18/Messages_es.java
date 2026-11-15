@@ -628,6 +628,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[1641] = "El producto no est\u00e1 confirmado a\u00fan, no puede realizar un ajuste, \u00a1por favor verifique!";
     t[1650] = "Read labels: @0";
     t[1651] = "Etiquetas le\u00eddas: @0";
+    t[1652] = "Trailer and seal details.";
+    t[1653] = "Datos de la caja tr\u00e1iler y sus sellos.";
     t[1664] = "Do not specify product, this will confirm all tag, are you sure?";
     t[1665] = "No espec\u00edfico producto se confirmar\u00e1 toda la etiqueta, \u00bfest\u00e1 seguro?";
     t[1678] = "Maximum Sell Quantity";
@@ -1024,6 +1026,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[2823] = "Cantidad Confirmada";
     t[2826] = "Add Document";
     t[2827] = "Agregar Documento";
+    t[2836] = "Reference, origin and date of the receipt.";
+    t[2837] = "Referencia, origen y fecha de la entrada.";
     t[2842] = "PBXs";
     t[2843] = "Conmutadores";
     t[2846] = "Potential Customer";
@@ -1998,12 +2002,12 @@ public class Messages_es extends java.util.ResourceBundle {
     t[5459] = "Moneda de Venta";
     t[5464] = "The target location exceeds the maximum number of SID codes, please verify!";
     t[5465] = "\u00a1La ubicaci\u00f3n destino excede el n\u00famero m\u00e1ximo de c\u00f3digos SID, por favor verifique!";
+  }
+  static void clinit_part_1 (java.lang.Object[] t) {
     t[5468] = "Importing Conversion Codes Files";
     t[5469] = "Importando Archivos de C\u00f3digos Conversi\u00f3n";
     t[5472] = "Write or scan customs value";
     t[5473] = "Escanee o escriba el valor aduanal";
-  }
-  static void clinit_part_1 (java.lang.Object[] t) {
     t[5474] = "Repeat";
     t[5475] = "Repetir";
     t[5480] = "New Component";
@@ -2492,6 +2496,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6841] = "Tipo de SIDs";
     t[6842] = "Done";
     t[6843] = "Completado";
+    t[6852] = "Lot, tag and product validity.";
+    t[6853] = "Lote, etiqueta y vigencia del producto.";
     t[6860] = "Confirm labels: @0";
     t[6861] = "Etiquetas confirmadas: @0";
     t[6862] = "All Access";
@@ -2524,6 +2530,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[6945] = "Agregar o Modificar Paquetes";
     t[6948] = "Banks";
     t[6949] = "Bancos";
+    t[6964] = "Status, product type and handling units.";
+    t[6965] = "Estado, tipo de producto y unidades de manejo.";
     t[6970] = "Manage Event";
     t[6971] = "Administrar Evento";
     t[6972] = "Plate";
@@ -3156,6 +3164,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8579] = "Informaci\u00f3n Fiscal";
     t[8586] = "The target state could not be found, please verify!";
     t[8587] = "No se entr\u00f3 el estado destino, \u00a1por favor verifique!";
+    t[8592] = "Operation and units";
+    t[8593] = "Operaci\u00f3n y unidades";
     t[8594] = "You cannot request a PDF without pages, please verify!";
     t[8595] = "\u00a1No puede solicitar un PDF sin p\u00e1ginas, por favor verifique!";
     t[8598] = "Your name";
@@ -3224,6 +3234,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[8741] = "Peso del rollo restante (kg)";
     t[8746] = "tipo_precio";
     t[8747] = "Tipo de precio";
+    t[8754] = "Document and supplier";
+    t[8755] = "Documento y proveedor";
     t[8756] = "Daily";
     t[8757] = "Diario";
     t[8762] = "Purchases report.";
@@ -3370,6 +3382,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9177] = "Completo";
     t[9180] = "Process Procedure";
     t[9181] = "Procedimiento del Proceso";
+    t[9182] = "Identify what is received or recorded.";
+    t[9183] = "Identifica lo que se recibe o registra.";
     t[9190] = "Enter trailer box seal";
     t[9191] = "Ingrese sello de caja trailer";
     t[9192] = "The requisition description cannot be empty";
@@ -3506,6 +3520,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[9647] = "Surtir y repartir documentos autom\u00e1ticamente";
     t[9650] = "Shipping cost calculated at payment";
     t[9651] = "Los costos de env\u00edo se calculan al momento del pago";
+    t[9674] = "Additional item data.";
+    t[9675] = "Datos adicionales de la partida.";
     t[9686] = "You cannot group inbound documents with different kinds, please verify!";
     t[9687] = "No puede agrupar documentos de entrada con tipos distintos, \u00a1por favor verifique!";
     t[9688] = "Weight of cut pieces (kg)";
@@ -3988,6 +4004,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10883] = "Diferencia";
     t[10894] = "ABC Criteria";
     t[10895] = "Criterio ABC";
+  }
+  static void clinit_part_2 (java.lang.Object[] t) {
     t[10906] = "Week Start";
     t[10907] = "Inicio de Semana";
     t[10908] = "The invoice data has an incompatible internal format. It was not sent to the stamping provider; please contact support.";
@@ -4004,8 +4022,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[10923] = "Sin familia";
     t[10924] = "Employee";
     t[10925] = new java.lang.String[] { "Empleado", "Empleados" };
-  }
-  static void clinit_part_2 (java.lang.Object[] t) {
     t[10930] = "One payment \u00b7 several invoices";
     t[10931] = "Un pago \u00b7 varias facturas";
     t[10936] = "Importing Location Files";
@@ -4254,6 +4270,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[11599] = "Asterisk Profesional";
     t[11604] = "Postgresql Database";
     t[11605] = "Base de Datos Postgresql";
+    t[11616] = "Quantity and price";
+    t[11617] = "Cantidad y precio";
     t[11640] = "There is a process already running, please wait until finish";
     t[11641] = "Ya existen un proceso en ejecuci\u00f3n, por favor espere a que finalice";
     t[11644] = "Position Y final";
@@ -4428,6 +4446,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12213] = "TC";
     t[12218] = "Maximum Production";
     t[12219] = "Producci\u00f3n M\u00e1xima";
+    t[12226] = "Locations for receiving the goods.";
+    t[12227] = "Ubicaciones para la recepci\u00f3n de la mercanc\u00eda.";
     t[12230] = "Value";
     t[12231] = new java.lang.String[] { "Valor", "Valores" };
     t[12232] = "Finished Pick Movements";
@@ -4700,6 +4720,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[12921] = "Fall\u00f3 la validaci\u00f3n del Producto";
     t[12924] = "The account rfc could not be empty, please verify!";
     t[12925] = "La cuenta debe contar con rfc , \u00a1por favor verifique!";
+    t[12926] = "Complete the values for this item.";
+    t[12927] = "Completa los valores de esta partida.";
     t[12930] = "Enter tax id number";
     t[12931] = "Ingrese RFC";
     t[12940] = "Massive download management.";
@@ -5336,6 +5358,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14585] = "Conteo Final";
     t[14586] = "Evidence Recovery";
     t[14587] = "Recuperaci\u00f3n de Evidencias";
+    t[14588] = "Traceability";
+    t[14589] = "Trazabilidad";
     t[14590] = "SAT's Coins catalog management.";
     t[14591] = "Administraci\u00f3n del cat\u00e1logo de monedas del SAT.";
     t[14596] = "You cannot close the SID when there is product to pick , please verify!";
@@ -5468,6 +5492,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14911] = "Efectivo recibido";
     t[14912] = "Destination SID exist but is not confirmed, please verify!";
     t[14913] = "El SID destino existe pero no est\u00e1 confirmado, \u00a1por favor verifique!";
+    t[14918] = "Product identification";
+    t[14919] = "Identificaci\u00f3n del producto";
     t[14924] = "Accounts";
     t[14925] = "Cuentas";
     t[14940] = "Ramping Date";
@@ -5980,6 +6006,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[16157] = "Cantidad Producida";
     t[16158] = "Classification";
     t[16159] = new java.lang.String[] { "Clasificaci\u00f3n", "Clasificaciones" };
+  }
+  static void clinit_part_3 (java.lang.Object[] t) {
     t[16162] = "The SID (@0) already exist in other document, please verify!";
     t[16163] = "El SID (@0) ya existe en otro documento, \u00a1por favor verifique!";
     t[16170] = "The picking location and location confirmation must be equals";
@@ -6006,8 +6034,6 @@ public class Messages_es extends java.util.ResourceBundle {
     t[16215] = new java.lang.String[] { "Destino", "Destinos" };
     t[16218] = "Total";
     t[16219] = new java.lang.String[] { "Total", "Totales" };
-  }
-  static void clinit_part_3 (java.lang.Object[] t) {
     t[16224] = "Femenino\u0004first";
     t[16225] = new java.lang.String[] { "primera", "primeras" };
     t[16230] = "One payment accepts invoices from one party. Clear the selection or use Several payments.";
@@ -6046,6 +6072,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[16303] = "Iniciar Conteo";
     t[16320] = "Receipt actions";
     t[16321] = "Acciones del recibo";
+    t[16322] = "Item data";
+    t[16323] = "Datos de la partida";
     t[16330] = "Cancel Assignment";
     t[16331] = "Cancelar Asignaci\u00f3n";
     t[16340] = "Sunday";
@@ -6268,6 +6296,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[16957] = "Maximizar";
     t[16968] = "Apply Discount";
     t[16969] = "Aplicar Descuento";
+    t[16970] = "Receipt documents and references.";
+    t[16971] = "Comprobantes y referencias de recepci\u00f3n.";
     t[16990] = "Extra 0";
     t[16991] = "Extra 0";
     t[16996] = "Destination SID is not valid, please verify!";
@@ -6572,6 +6602,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[17775] = "Es List.Mat.";
     t[17778] = "Cr\u00edtico";
     t[17779] = "Cr\u00edtico";
+    t[17780] = "Commercial values and tax classification.";
+    t[17781] = "Valores comerciales y clasificaci\u00f3n fiscal.";
     t[17782] = "Current weight (kg)";
     t[17783] = "Peso actual (kg)";
     t[17784] = "Read QR and Linear codes with the same scanner.";
@@ -6892,6 +6924,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[18659] = "Preferencias";
     t[18660] = "Create User";
     t[18661] = "Crear Usuario";
+    t[18664] = "Code and description to identify the product.";
+    t[18665] = "C\u00f3digo y descripci\u00f3n para reconocer el producto.";
     t[18666] = "Your cart is empty, add some products to cheer up your day!";
     t[18667] = "Su carrito est\u00e1 vacio, \u00a1agregue algunos productos para animar su d\u00eda!";
     t[18668] = "Plural\u0004Processed Successfully";

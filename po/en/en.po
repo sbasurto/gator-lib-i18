@@ -2516,3 +2516,71 @@ msgstr "Unsaved changes"
 #: pending-save-v01
 msgid "Changes saved"
 msgstr "Changes saved"
+
+#: field-sections-v01
+msgid "Product identification"
+msgstr "Product identification"
+
+#: field-sections-v01
+msgid "Operation and units"
+msgstr "Operation and units"
+
+#: field-sections-v01
+msgid "Document and supplier"
+msgstr "Document and supplier"
+
+#: field-sections-v01
+msgid "Quantity and price"
+msgstr "Quantity and price"
+
+#: field-sections-v01
+msgid "Traceability"
+msgstr "Traceability"
+
+#: field-sections-v01
+msgid "Item data"
+msgstr "Item data"
+
+#: field-sections-v01
+msgid "Code and description to identify the product."
+msgstr "Code and description to identify the product."
+
+#: field-sections-v01
+msgid "Status, product type and handling units."
+msgstr "Status, product type and handling units."
+
+#: field-sections-v01
+msgid "Commercial values and tax classification."
+msgstr "Commercial values and tax classification."
+
+#: field-sections-v01
+msgid "Reference, origin and date of the receipt."
+msgstr "Reference, origin and date of the receipt."
+
+#: field-sections-v01
+msgid "Receipt documents and references."
+msgstr "Receipt documents and references."
+
+#: field-sections-v01
+msgid "Locations for receiving the goods."
+msgstr "Locations for receiving the goods."
+
+#: field-sections-v01
+msgid "Trailer and seal details."
+msgstr "Trailer and seal details."
+
+#: field-sections-v01
+msgid "Identify what is received or recorded."
+msgstr "Identify what is received or recorded."
+
+#: field-sections-v01
+msgid "Complete the values for this item."
+msgstr "Complete the values for this item."
+
+#: field-sections-v01
+msgid "Lot, tag and product validity."
+msgstr "Lot, tag and product validity."
+
+#: field-sections-v01
+msgid "Additional item data."
+msgstr "Additional item data."

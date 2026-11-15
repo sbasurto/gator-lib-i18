@@ -11424,3 +11424,71 @@ msgstr "Cambios sin guardar"
 #: pending-save-v01
 msgid "Changes saved"
 msgstr "Cambios guardados"
+
+#: field-sections-v01
+msgid "Product identification"
+msgstr "Identificación del producto"
+
+#: field-sections-v01
+msgid "Operation and units"
+msgstr "Operación y unidades"
+
+#: field-sections-v01
+msgid "Document and supplier"
+msgstr "Documento y proveedor"
+
+#: field-sections-v01
+msgid "Quantity and price"
+msgstr "Cantidad y precio"
+
+#: field-sections-v01
+msgid "Traceability"
+msgstr "Trazabilidad"
+
+#: field-sections-v01
+msgid "Item data"
+msgstr "Datos de la partida"
+
+#: field-sections-v01
+msgid "Code and description to identify the product."
+msgstr "Código y descripción para reconocer el producto."
+
+#: field-sections-v01
+msgid "Status, product type and handling units."
+msgstr "Estado, tipo de producto y unidades de manejo."
+
+#: field-sections-v01
+msgid "Commercial values and tax classification."
+msgstr "Valores comerciales y clasificación fiscal."
+
+#: field-sections-v01
+msgid "Reference, origin and date of the receipt."
+msgstr "Referencia, origen y fecha de la entrada."
+
+#: field-sections-v01
+msgid "Receipt documents and references."
+msgstr "Comprobantes y referencias de recepción."
+
+#: field-sections-v01
+msgid "Locations for receiving the goods."
+msgstr "Ubicaciones para la recepción de la mercancía."
+
+#: field-sections-v01
+msgid "Trailer and seal details."
+msgstr "Datos de la caja tráiler y sus sellos."
+
+#: field-sections-v01
+msgid "Identify what is received or recorded."
+msgstr "Identifica lo que se recibe o registra."
+
+#: field-sections-v01
+msgid "Complete the values for this item."
+msgstr "Completa los valores de esta partida."
+
+#: field-sections-v01
+msgid "Lot, tag and product validity."
+msgstr "Lote, etiqueta y vigencia del producto."
+
+#: field-sections-v01
+msgid "Additional item data."
+msgstr "Datos adicionales de la partida."
