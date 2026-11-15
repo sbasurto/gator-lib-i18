@@ -2508,3 +2508,11 @@ msgstr "Search by code, name, RFC or destination"
 #. Approved record chooser v01
 msgid "Search presentation, contents or unit"
 msgstr "Search presentation, contents or unit"
+
+#: pending-save-v01
+msgid "Unsaved changes"
+msgstr "Unsaved changes"
+
+#: pending-save-v01
+msgid "Changes saved"
+msgstr "Changes saved"

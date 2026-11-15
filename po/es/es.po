@@ -11416,3 +11416,11 @@ msgstr "Buscar por clave, nombre, RFC o destino"
 #. Approved record chooser v01
 msgid "Search presentation, contents or unit"
 msgstr "Buscar presentación, contenido o unidad"
+
+#: pending-save-v01
+msgid "Unsaved changes"
+msgstr "Cambios sin guardar"
+
+#: pending-save-v01
+msgid "Changes saved"
+msgstr "Cambios guardados"
