@@ -11288,3 +11288,131 @@ msgstr "Pagos propuestos"
 #. Native payment workbench proposed totals
 msgid "Proposed credit"
 msgstr "Crédito propuesto"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose Product"
+msgstr "Elegir producto"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose Provider"
+msgstr "Elegir proveedor"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose Customer"
+msgstr "Elegir cliente"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose Presentation"
+msgstr "Elegir presentación"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose Project"
+msgstr "Elegir proyecto"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose"
+msgstr "Elegir registro"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "EMAIL"
+msgstr "Correo"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "No records found"
+msgstr "No encontramos coincidencias"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "↑ ↓ Navigate · Enter Choose · Esc Close"
+msgstr "↑ ↓ Recorrer · Enter Elegir · Esc Cerrar"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "{start}–{end} of {total}"
+msgstr "{start}–{end} de {total}"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Loading…"
+msgstr "Cargando…"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Maximize"
+msgstr "Maximizar selector"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Restore size"
+msgstr "Restaurar selector"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Close"
+msgstr "Cerrar selector"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Page"
+msgstr "Página"
+
+#. Approved record chooser v01
+msgid "Search by code or description"
+msgstr "Buscar por clave o descripción"
+
+#. Approved record chooser v01
+msgid "Search by SKU or description"
+msgstr "Buscar por SKU o descripción"
+
+#. Approved record chooser v01
+msgid "Search by SKU, description or supplier"
+msgstr "Buscar por SKU, descripción o proveedor"
+
+#. Approved record chooser v01
+msgid "Try another code or description."
+msgstr "Prueba otra clave o descripción."
+
+#. Approved record chooser v01
+msgid "Click a row to select and return to the form."
+msgstr "Un clic selecciona el registro y vuelve a la captura"
+
+#. Approved record chooser v01
+msgid "First page"
+msgstr "Primera página"
+
+#. Approved record chooser v01
+msgid "Previous page"
+msgstr "Página anterior"
+
+#. Approved record chooser v01
+msgid "Next page"
+msgstr "Página siguiente"
+
+#. Approved record chooser v01
+msgid "Last page"
+msgstr "Última página"
+
+#. Approved record chooser v01
+msgid "The destination field is no longer available. Reopen the selector."
+msgstr "El campo de destino ya no está disponible. Vuelve a abrir el selector."
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose Product by Customer"
+msgstr "Elegir producto por cliente"
+
+#. Approved record chooser v01
+msgid "Search by code, name, RFC or destination"
+msgstr "Buscar por clave, nombre, RFC o destino"
+
+#. Approved record chooser v01
+msgid "Search presentation, contents or unit"
+msgstr "Buscar presentación, contenido o unidad"

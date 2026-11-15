@@ -44,6 +44,9 @@ public final class MessagesSelfCheck {
         assert "Un pago · varias facturas".equals(spanish.getString("One payment · several invoices"));
         assert "La asignación a crédito no es dinero cobrado ni pagado.".equals(spanish.getString("Credit assignment is not money received or paid."));
         assert "Consultar estado de la operación".equals(spanish.getString("Check operation status"));
+        assert "Elegir producto".equals(spanish.getString("record chooser\u0004Choose Product"));
+        assert "{start}–{end} de {total}".equals(spanish.getString("record chooser\u0004{start}–{end} of {total}"));
+        assert "Buscar por SKU, descripción o proveedor".equals(spanish.getString("Search by SKU, description or supplier"));
         ResourceBundle english = ResourceBundle.getBundle("gator.lib.i18.Messages_en");
         assert "Reporte de costos por proveedor".equals(spanish.getString("Supplier cost list."));
         assert "Esta ingresando una serie(s) duplicada(s) (@0), ¡por favor verifique!".equals(spanish.getString("You are entering duplicate serial number(s) (@0), please verify!"));

@@ -2380,3 +2380,131 @@ msgstr "Proposed payments"
 #. Native payment workbench proposed totals
 msgid "Proposed credit"
 msgstr "Proposed credit"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose Product"
+msgstr "Choose Product"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose Provider"
+msgstr "Choose Provider"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose Customer"
+msgstr "Choose Customer"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose Presentation"
+msgstr "Choose Presentation"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose Project"
+msgstr "Choose Project"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose"
+msgstr "Choose"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "EMAIL"
+msgstr "EMAIL"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "No records found"
+msgstr "No records found"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "↑ ↓ Navigate · Enter Choose · Esc Close"
+msgstr "↑ ↓ Navigate · Enter Choose · Esc Close"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "{start}–{end} of {total}"
+msgstr "{start}–{end} of {total}"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Loading…"
+msgstr "Loading…"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Maximize"
+msgstr "Maximize"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Restore size"
+msgstr "Restore size"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Close"
+msgstr "Close"
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Page"
+msgstr "Page"
+
+#. Approved record chooser v01
+msgid "Search by code or description"
+msgstr "Search by code or description"
+
+#. Approved record chooser v01
+msgid "Search by SKU or description"
+msgstr "Search by SKU or description"
+
+#. Approved record chooser v01
+msgid "Search by SKU, description or supplier"
+msgstr "Search by SKU, description or supplier"
+
+#. Approved record chooser v01
+msgid "Try another code or description."
+msgstr "Try another code or description."
+
+#. Approved record chooser v01
+msgid "Click a row to select and return to the form."
+msgstr "Click a row to select and return to the form."
+
+#. Approved record chooser v01
+msgid "First page"
+msgstr "First page"
+
+#. Approved record chooser v01
+msgid "Previous page"
+msgstr "Previous page"
+
+#. Approved record chooser v01
+msgid "Next page"
+msgstr "Next page"
+
+#. Approved record chooser v01
+msgid "Last page"
+msgstr "Last page"
+
+#. Approved record chooser v01
+msgid "The destination field is no longer available. Reopen the selector."
+msgstr "The destination field is no longer available. Reopen the selector."
+
+#. Approved record chooser v01
+msgctxt "record chooser"
+msgid "Choose Product by Customer"
+msgstr "Choose Product by Customer"
+
+#. Approved record chooser v01
+msgid "Search by code, name, RFC or destination"
+msgstr "Search by code, name, RFC or destination"
+
+#. Approved record chooser v01
+msgid "Search presentation, contents or unit"
+msgstr "Search presentation, contents or unit"
