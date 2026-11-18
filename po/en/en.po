@@ -2584,3 +2584,23 @@ msgstr "Lot, tag and product validity."
 #: field-sections-v01
 msgid "Additional item data."
 msgstr "Additional item data."
+
+#. Compact order capture
+msgid "Filter Products"
+msgstr "Filter Products"
+
+#. Compact order capture
+msgid "Code, description or family"
+msgstr "Code, description or family"
+
+msgctxt "Compact order capture"
+msgid "Unit Measure"
+msgstr "Unit Measure"
+
+msgctxt "Compact order capture"
+msgid "Unit Price"
+msgstr "Unit Price"
+
+msgctxt "Compact order capture"
+msgid "Records"
+msgstr "records"

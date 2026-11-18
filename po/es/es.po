@@ -11492,3 +11492,23 @@ msgstr "Lote, etiqueta y vigencia del producto."
 #: field-sections-v01
 msgid "Additional item data."
 msgstr "Datos adicionales de la partida."
+
+#. Compact order capture
+msgid "Filter Products"
+msgstr "Filtrar productos"
+
+#. Compact order capture
+msgid "Code, description or family"
+msgstr "Clave, descripción o familia"
+
+msgctxt "Compact order capture"
+msgid "Unit Measure"
+msgstr "Unidad de medida"
+
+msgctxt "Compact order capture"
+msgid "Unit Price"
+msgstr "Precio unitario"
+
+msgctxt "Compact order capture"
+msgid "Records"
+msgstr "registros"

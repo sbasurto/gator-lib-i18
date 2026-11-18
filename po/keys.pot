@@ -50,3 +50,23 @@ msgstr ""
 msgctxt "chat (noun)"
 msgid "chat"
 msgstr ""
+
+#. Compact order capture
+msgid "Filter Products"
+msgstr ""
+
+#. Compact order capture
+msgid "Code, description or family"
+msgstr ""
+
+msgctxt "Compact order capture"
+msgid "Unit Measure"
+msgstr ""
+
+msgctxt "Compact order capture"
+msgid "Unit Price"
+msgstr ""
+
+msgctxt "Compact order capture"
+msgid "Records"
+msgstr ""
