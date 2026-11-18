@@ -5296,6 +5296,8 @@ public class Messages_es extends java.util.ResourceBundle {
     t[14031] = "Agregar o Modificar Grupos del Cliente";
     t[14032] = "Difference (kg)";
     t[14033] = "Diferencia (kg)";
+    t[14038] = "Keep current roles";
+    t[14039] = "Conservar roles actuales";
     t[14054] = "Bars";
     t[14055] = "Barras";
     t[14060] = "Components without Stock";
@@ -6004,10 +6006,10 @@ public class Messages_es extends java.util.ResourceBundle {
     t[15729] = "No puede crear un paquete para dos clientes distintos, \u00a1por favor verifique!";
     t[15738] = "Show picking report";
     t[15739] = "Mostrar reporte de surtido";
-    t[15740] = "Administrative Apps";
-    t[15741] = "Aplicaciones Administrativas";
   }
   static void clinit_part_3 (java.lang.Object[] t) {
+    t[15740] = "Administrative Apps";
+    t[15741] = "Aplicaciones Administrativas";
     t[15746] = "Add or Modify Parameters";
     t[15747] = "Agregar o Modificar Par\u00e1metros";
     t[15748] = "Verbo\u0004Invoice";

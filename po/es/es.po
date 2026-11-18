@@ -11884,3 +11884,7 @@ msgstr "Al día"
 #: gator-proyectos/views
 msgid "Unknown"
 msgstr "Sin datos completos"
+
+#: gator-proyectos/views
+msgid "Keep current roles"
+msgstr "Conservar roles actuales"

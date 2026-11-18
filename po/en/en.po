@@ -3020,3 +3020,7 @@ msgstr "On track"
 #: gator-proyectos/views
 msgid "Unknown"
 msgstr "Unknown"
+
+#: gator-proyectos/views
+msgid "Keep current roles"
+msgstr "Keep current roles"

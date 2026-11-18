@@ -546,3 +546,7 @@ msgstr ""
 #: gator-proyectos/views
 msgid "Unknown"
 msgstr ""
+
+#: gator-proyectos/views
+msgid "Keep current roles"
+msgstr ""
