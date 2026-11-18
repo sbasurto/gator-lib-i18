@@ -11492,3 +11492,395 @@ msgstr "Lote, etiqueta y vigencia del producto."
 #: field-sections-v01
 msgid "Additional item data."
 msgstr "Datos adicionales de la partida."
+
+#: gator-proyectos/views
+msgid "Overview"
+msgstr "Resumen"
+
+#: gator-proyectos/views
+msgid "Timeline"
+msgstr "Cronograma"
+
+#: gator-proyectos/views
+msgid "Team and access"
+msgstr "Equipo y accesos"
+
+#: gator-proyectos/views
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#: gator-proyectos/views
+msgid "Project management"
+msgstr "Administración de proyectos"
+
+#: gator-proyectos/views
+msgid "Main navigation"
+msgstr "Navegación principal"
+
+#: gator-proyectos/views
+msgid "Activity"
+msgstr "Actividad"
+
+#: gator-proyectos/views
+msgid "Open menu"
+msgstr "Abrir menú"
+
+#: gator-proyectos/views
+msgid "My workspace"
+msgstr "Mi espacio"
+
+#: gator-proyectos/views
+msgid "Sign out"
+msgstr "Cerrar sesión"
+
+#: gator-proyectos/views
+msgid "Confirm operation"
+msgstr "Confirmar operación"
+
+#: gator-proyectos/views
+msgid "Your session expired. Sign in again."
+msgstr "Tu sesión terminó. Inicia sesión de nuevo."
+
+#: gator-proyectos/views
+msgid "The result is uncertain. Reload before trying again."
+msgstr "No se confirmó el resultado. Recarga antes de volver a intentarlo."
+
+#: gator-proyectos/views
+msgid "Delete this item?"
+msgstr "¿Eliminar este elemento?"
+
+#: gator-proyectos/views
+msgid "Archive this project? Tasks and comments will be kept."
+msgstr "¿Archivar este proyecto? Se conservarán las tareas y los comentarios."
+
+#: gator-proyectos/views
+msgid "The operation could not be completed"
+msgstr "No se pudo completar la operación"
+
+#: gator-proyectos/views
+msgid "Your projects, with your OpenProject account."
+msgstr "Tus proyectos, con tu cuenta de OpenProject."
+
+#: gator-proyectos/views
+msgid "Sign in with OpenProject"
+msgstr "Iniciar sesión con OpenProject"
+
+#: gator-proyectos/views
+msgid "Projects in progress"
+msgstr "Proyectos en marcha"
+
+#: gator-proyectos/views
+msgid "Export CSV"
+msgstr "Exportar CSV"
+
+#: gator-proyectos/views
+msgid "Search..."
+msgstr "Buscar..."
+
+#: gator-proyectos/views
+msgid "All statuses"
+msgstr "Todos los estados"
+
+#: gator-proyectos/views
+msgid "Progress"
+msgstr "Avance"
+
+#: gator-proyectos/views
+msgid "Health"
+msgstr "Salud"
+
+#: gator-proyectos/views
+msgid "Due"
+msgstr "Entrega"
+
+#: gator-proyectos/views
+msgid "Needs attention"
+msgstr "Necesitan atención"
+
+#: gator-proyectos/views
+msgid "Upcoming milestones"
+msgstr "Próximos hitos"
+
+#: gator-proyectos/views
+msgid "List"
+msgstr "Lista"
+
+#: gator-proyectos/views
+msgid "All projects"
+msgstr "Todos los proyectos"
+
+#: gator-proyectos/views
+msgid "All priorities"
+msgstr "Todas las prioridades"
+
+#: gator-proyectos/views
+msgid "All assignees"
+msgstr "Todos los responsables"
+
+#: gator-proyectos/views
+msgid "Only my tasks"
+msgstr "Sólo mis tareas"
+
+#: gator-proyectos/views
+msgid "Start date"
+msgstr "Fecha inicial"
+
+#: gator-proyectos/views
+msgid "End date"
+msgstr "Fecha final"
+
+#: gator-proyectos/views
+msgid "Assignee"
+msgstr "Responsable"
+
+#: gator-proyectos/views
+msgid "Expand or collapse subtasks"
+msgstr "Expandir o contraer subtareas"
+
+#: gator-proyectos/views
+msgid "Drag a task or open it to change its status."
+msgstr "Arrastra una tarea o ábrela para cambiar su estado."
+
+#: gator-proyectos/views
+msgid "Project or task"
+msgstr "Proyecto o tarea"
+
+#: gator-proyectos/views
+msgid "People and permissions"
+msgstr "Personas y permisos"
+
+#: gator-proyectos/views
+msgid "Add member"
+msgstr "Agregar integrante"
+
+#: gator-proyectos/views
+msgid "Member"
+msgstr "Integrante"
+
+#: gator-proyectos/views
+msgid "Access"
+msgstr "Acceso"
+
+#: gator-proyectos/views
+msgid "Actions"
+msgstr "Acciones"
+
+#: gator-proyectos/views
+msgid "Edit project"
+msgstr "Editar proyecto"
+
+#: gator-proyectos/views
+msgid "Archive"
+msgstr "Archivar"
+
+#: gator-proyectos/views
+msgid "Team"
+msgstr "Equipo"
+
+#: gator-proyectos/views
+msgid "Project sections"
+msgstr "Secciones del proyecto"
+
+#: gator-proyectos/views
+msgid "About this project"
+msgstr "Acerca del proyecto"
+
+#: gator-proyectos/views
+msgid "Progress (%)"
+msgstr "Avance (%)"
+
+#: gator-proyectos/views
+msgid "Subtask of"
+msgstr "Subtarea de"
+
+#: gator-proyectos/views
+msgid "Dependencies"
+msgstr "Dependencias"
+
+#: gator-proyectos/views
+msgid "Remove"
+msgstr "Quitar"
+
+#: gator-proyectos/views
+msgid "Predecessor task"
+msgstr "Tarea predecesora"
+
+#: gator-proyectos/views
+msgid "Select a task"
+msgstr "Selecciona una tarea"
+
+#: gator-proyectos/views
+msgid "Add dependency"
+msgstr "Agregar dependencia"
+
+#: gator-proyectos/views
+msgid "Attachments"
+msgstr "Adjuntos"
+
+#: gator-proyectos/views
+msgid "Attach file"
+msgstr "Adjuntar archivo"
+
+#: gator-proyectos/views
+msgid "Comments and history"
+msgstr "Comentarios e historial"
+
+#: gator-proyectos/views
+msgid "New comment"
+msgstr "Nuevo comentario"
+
+#: gator-proyectos/views
+msgid "Post comment"
+msgstr "Publicar comentario"
+
+#: gator-proyectos/views
+msgid "Edit task"
+msgstr "Editar tarea"
+
+#: gator-proyectos/views
+msgid "Delete task"
+msgstr "Eliminar tarea"
+
+#: gator-proyectos/views
+msgid "Unassigned"
+msgstr "Sin asignar"
+
+#: gator-proyectos/views
+msgid "Parent task"
+msgstr "Tarea padre"
+
+#: gator-proyectos/views
+msgid "No parent task"
+msgstr "Sin tarea padre"
+
+#: gator-proyectos/views
+msgid "Work type"
+msgstr "Tipo de trabajo"
+
+#: gator-proyectos/views
+msgid "Not specified"
+msgstr "Sin especificar"
+
+#: gator-proyectos/views
+msgid "Estimate (h)"
+msgstr "Estimación (h)"
+
+#: gator-proyectos/views
+msgid "Project name"
+msgstr "Nombre del proyecto"
+
+#: gator-proyectos/views
+msgid "Members and access"
+msgstr "Integrantes y accesos"
+
+#: gator-proyectos/views
+msgid "Manage access"
+msgstr "Administrar acceso"
+
+#: gator-proyectos/views
+msgid "Remove access"
+msgstr "Retirar acceso"
+
+#: gator-proyectos/views
+msgid "Invite member"
+msgstr "Invitar integrante"
+
+#: gator-proyectos/views
+msgid "OpenProject will send an invitation to complete the profile. Assign project access after inviting."
+msgstr "OpenProject enviará una invitación para completar el perfil. Asigna acceso al proyecto después de invitar."
+
+#: gator-proyectos/views
+msgid "No date"
+msgstr "Sin fecha"
+
+#: gator-proyectos/views
+msgid "Incomplete progress data"
+msgstr "Sin avance completo"
+
+#: gator-proyectos/views
+msgid "At risk"
+msgstr "En riesgo"
+
+#: gator-proyectos/views
+msgid "Completed"
+msgstr "Completado"
+
+#: gator-proyectos/views
+msgid "Archived"
+msgstr "Archivado"
+
+#: gator-proyectos/views
+msgid "Active projects"
+msgstr "Proyectos activos"
+
+#: gator-proyectos/views
+msgid "Overall progress"
+msgstr "Avance global"
+
+#: gator-proyectos/views
+msgid "Overdue tasks"
+msgstr "Tareas atrasadas"
+
+#: gator-proyectos/views
+msgid "Due this week"
+msgstr "Entregas esta semana"
+
+#: gator-proyectos/views
+msgid "This task is read only for your account."
+msgstr "Esta tarea es de sólo lectura para tu cuenta."
+
+#: gator-proyectos/views
+msgid "Project portfolio"
+msgstr "Portafolio de proyectos"
+
+#: gator-proyectos/views
+msgid "Clear progress. Timely decisions."
+msgstr "Avances claros. Decisiones a tiempo."
+
+#: gator-proyectos/views
+msgid "New project"
+msgstr "Nuevo proyecto"
+
+#: gator-proyectos/views
+msgid "New task"
+msgstr "Nueva tarea"
+
+#: gator-proyectos/views
+msgid "Dates not fully scheduled"
+msgstr "Sin fechas completas programadas"
+
+#: gator-proyectos/views
+msgid "Recent activity from the latest updated tasks. Open a task for its complete history."
+msgstr "Actividad reciente de las últimas tareas actualizadas. Abre una tarea para consultar su historial completo."
+
+#: gator-proyectos/views
+msgid "Paused"
+msgstr "Pausado"
+
+#: gator-proyectos/views
+msgid "Observer"
+msgstr "Observador"
+
+#: gator-proyectos/views
+msgid "Project administrator"
+msgstr "Administrador de proyecto"
+
+#: gator-proyectos/views
+msgid "Unknown role"
+msgstr "Rol sin configurar"
+
+#: gator-proyectos/views
+msgid "Close menu"
+msgstr "Cerrar menú"
+
+#: gator-proyectos/views
+msgid "Project owner"
+msgstr "Responsable"
+
+#: gator-proyectos/views
+msgid "On track"
+msgstr "Al día"
+
+#: gator-proyectos/views
+msgid "Unknown"
+msgstr "Sin datos completos"
