@@ -11422,6 +11422,78 @@ msgstr "Lote, etiqueta y vigencia del producto."
 msgid "Additional item data."
 msgstr "Datos adicionales de la partida."
 
+#. Native payment detail v02
+msgid "Payment details"
+msgstr "Datos del pago"
+
+#. Native payment detail v02
+msgid "Payment summary"
+msgstr "Resumen del pago"
+
+#. Native payment detail v02
+msgid "Select the transaction type and the amount to apply."
+msgstr "Selecciona el tipo de transacción y el importe a aplicar."
+
+#. Native payment detail v02
+msgid "View tax details"
+msgstr "Ver datos fiscales"
+
+#. Native payment detail v02
+msgid "Previous payments"
+msgstr "Pagos anteriores"
+
+#. Native payment detail v02
+msgid "Outstanding balance"
+msgstr "Saldo pendiente"
+
+#. Native payment detail v02
+msgid "Applying now"
+msgstr "A aplicar ahora"
+
+#. Native payment detail v02
+msgid "Balance after payment"
+msgstr "Saldo después del pago"
+
+#. Native payment detail v02
+msgid "Add another payment method"
+msgstr "Agregar otra forma de pago"
+
+#. Native payment detail v02
+msgid "Remove payment method"
+msgstr "Quitar forma de pago"
+
+#. Native payment detail v02
+msgid "Use outstanding balance"
+msgstr "Usar saldo pendiente"
+
+#. Native payment detail v02
+msgid "You can combine payment methods on this document."
+msgstr "Puedes combinar formas de pago en este documento."
+
+#. Native payment detail v02
+msgid "Invoice total"
+msgstr "Total de factura"
+
+#. Native payment detail v02
+msgid "Order total"
+msgstr "Total de orden"
+
+#. Native payment detail v02
+msgid "Issue date"
+msgstr "Emisión"
+
+#. Native payment detail v02
+msgid "Confirm payment"
+msgstr "Confirmar pago"
+
+#. Native payment detail v02
+msgid "Review the details before applying the payment."
+msgstr "Revisa los datos antes de aplicar el pago."
+
+#. Native payment detail v02
+msgid "Keep editing"
+msgstr "Seguir editando"
+
 #. Compact order capture
 msgid "Filter Products"
 msgstr "Filtrar productos"

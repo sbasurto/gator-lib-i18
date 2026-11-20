@@ -2527,6 +2527,78 @@ msgstr "Lot, tag and product validity."
 msgid "Additional item data."
 msgstr "Additional item data."
 
+#. Native payment detail v02
+msgid "Payment details"
+msgstr "Payment details"
+
+#. Native payment detail v02
+msgid "Payment summary"
+msgstr "Payment summary"
+
+#. Native payment detail v02
+msgid "Select the transaction type and the amount to apply."
+msgstr "Select the transaction type and the amount to apply."
+
+#. Native payment detail v02
+msgid "View tax details"
+msgstr "View tax details"
+
+#. Native payment detail v02
+msgid "Previous payments"
+msgstr "Previous payments"
+
+#. Native payment detail v02
+msgid "Outstanding balance"
+msgstr "Outstanding balance"
+
+#. Native payment detail v02
+msgid "Applying now"
+msgstr "Applying now"
+
+#. Native payment detail v02
+msgid "Balance after payment"
+msgstr "Balance after payment"
+
+#. Native payment detail v02
+msgid "Add another payment method"
+msgstr "Add another payment method"
+
+#. Native payment detail v02
+msgid "Remove payment method"
+msgstr "Remove payment method"
+
+#. Native payment detail v02
+msgid "Use outstanding balance"
+msgstr "Use outstanding balance"
+
+#. Native payment detail v02
+msgid "You can combine payment methods on this document."
+msgstr "You can combine payment methods on this document."
+
+#. Native payment detail v02
+msgid "Invoice total"
+msgstr "Invoice total"
+
+#. Native payment detail v02
+msgid "Order total"
+msgstr "Order total"
+
+#. Native payment detail v02
+msgid "Issue date"
+msgstr "Issue date"
+
+#. Native payment detail v02
+msgid "Confirm payment"
+msgstr "Confirm payment"
+
+#. Native payment detail v02
+msgid "Review the details before applying the payment."
+msgstr "Review the details before applying the payment."
+
+#. Native payment detail v02
+msgid "Keep editing"
+msgstr "Keep editing"
+
 #. Compact order capture
 msgid "Filter Products"
 msgstr "Filter Products"

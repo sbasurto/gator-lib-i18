@@ -51,6 +51,82 @@ msgctxt "chat (noun)"
 msgid "chat"
 msgstr ""
 
+#. Native payment detail v02
+msgid "Payment details"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Payment summary"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Select the transaction type and the amount to apply."
+msgstr ""
+
+#. Native payment detail v02
+msgid "View tax details"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Previous payments"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Outstanding balance"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Applying now"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Balance after payment"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Add another payment method"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Remove payment method"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Use outstanding balance"
+msgstr ""
+
+#. Native payment detail v02
+msgid "You can combine payment methods on this document."
+msgstr ""
+
+#. Native payment detail v02
+msgid "Invoice total"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Order total"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Issue date"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Confirm payment"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Review the details before applying the payment."
+msgstr ""
+
+#. Native payment detail v02
+msgid "Keep editing"
+msgstr ""
+
+#. Native payment detail v02
+msgid "Cash received"
+msgstr ""
+
 #. Compact order capture
 msgid "Filter Products"
 msgstr ""
